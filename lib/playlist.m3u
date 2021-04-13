@@ -119,22 +119,36 @@ http://lb.kstream.org/aovivo/HD_GNT/video.m3u8?token=a071350cf909659661c1a54733c
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="GloboNews" tvg-logo="" group-title="Notícia",GloboNews
 http://lb.kstream.org/aovivo/HD_GLOBONEWS/video.m3u8?token=a071350cf909659661c1a54733c1db12
-#EXTINF:-1 type="stream" tvg-id="Gloob" tvg-logo="" group-title="",Gloob
-#EXTINF:-1 type="stream" tvg-id="Gloobinho" tvg-logo="" group-title="",Gloobinho
-#EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="" group-title="",HBO
-#EXTINF:-1 type="stream" tvg-id="HBO Family" tvg-logo="" group-title="",HBO Family
-#EXTINF:-1 type="stream" tvg-id="HBO Mundi" tvg-logo="" group-title="",HBO Mundi
-#EXTINF:-1 type="stream" tvg-id="HBO Pop" tvg-logo="" group-title="",HBO Pop
-#EXTINF:-1 type="stream" tvg-id="HBO Signature" tvg-logo="" group-title="",HBO Signature
-#EXTINF:-1 type="stream" tvg-id="HBO Xtreme" tvg-logo="" group-title="",HBO Xtreme
-#EXTINF:-1 type="stream" tvg-id="HBO2" tvg-logo="" group-title="",HBO2
-#EXTINF:-1 type="stream" tvg-id="HGTV" tvg-logo="" group-title="",HGTV
-#EXTINF:-1 type="stream" tvg-id="History 2" tvg-logo="" group-title="",History 2
-#EXTINF:-1 type="stream" tvg-id="History" tvg-logo="" group-title="",History
-#EXTINF:-1 type="stream" tvg-id="Ideal TV" tvg-logo="" group-title="",Ideal TV
-#EXTINF:-1 type="stream" tvg-id="Investigacao Discovery" tvg-logo="" group-title="",Investigação Discovery
-#EXTINF:-1 type="stream" tvg-id="Lifetime" tvg-logo="" group-title="",Lifetime
-#EXTINF:-1 type="stream" tvg-id="Loading" tvg-logo="" group-title="",Loading
+#EXTINF:-1 type="stream" tvg-id="Gloob" tvg-logo="" group-title="Infantil",Gloob
+http://lb.kstream.org/aovivo/HD_GLOOB/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Gloobinho" tvg-logo="" group-title="Infantil",Gloobinho
+http://lb.kstream.org/aovivo/HD_GLOOBINHO/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="" group-title="Filme",HBO
+http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="HBO2" tvg-logo="" group-title="Filme",HBO2
+http://lb.kstream.org/aovivo/HD_HBO_2/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="HBO Family" tvg-logo="" group-title="Filme",HBO Family
+http://lb.kstream.org/aovivo/HD_HBO_FAMILY/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="HBO Mundi" tvg-logo="" group-title="Filme",HBO Mundi
+http://lb.kstream.org/aovivo/HD_HBO_MUNDI/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="HBO Pop" tvg-logo="" group-title="Filme",HBO Pop
+http://lb.kstream.org/aovivo/HD_HBO_POP/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="HBO Signature" tvg-logo="" group-title="Filme",HBO Signature
+http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="HBO Xtreme" tvg-logo="" group-title="Filme",HBO Xtreme
+http://lb.kstream.org/aovivo/HD_HBO_XTREME/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="HGTV" tvg-logo="" group-title="Documentario",HGTV
+http://lb.kstream.org/aovivo/HD_HGTV/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="History" tvg-logo="" group-title="Documentario",History
+http://187.32.214.221:8003/play/a02q/index.m3u8
+#EXTINF:-1 type="stream" tvg-id="History 2" tvg-logo="" group-title="Documentario",History 2
+http://187.32.214.221:8001/play/a0e8/index.m3u8
+#EXTINF:-1 type="stream" tvg-id="Investigacao Discovery" tvg-logo="" group-title="Documentario",Investigação Discovery
+http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Lifetime" tvg-logo="" group-title="Entretenimento",Lifetime
+http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Loading" tvg-logo="" group-title="Entretenimento",Loading
+http://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 #EXTINF:-1 type="stream" tvg-id="MTV" tvg-logo="" group-title="",MTV
 #EXTINF:-1 type="stream" tvg-id="MTV Live" tvg-logo="" group-title="",MTV Live
 #EXTINF:-1 type="stream" tvg-id="Mais Globosat" tvg-logo="" group-title="",Mais Globosat
