@@ -1,0 +1,214 @@
+#EXTM3U
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="" group-title="Filme",A&E
+http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="" group-title="Filme",AMC
+http://lb.kstream.org/aovivo/HD_AMC/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="AXN" tvg-logo="" group-title="Filme",AXN
+http://lb.kstream.org/aovivo/HD_AXN/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Agro Mais" tvg-logo="" group-title="Entretenimento",Agro Mais
+https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w2080515833.m3u8
+#EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="" group-title="Documentario",Animal Planet
+http://187.32.214.221:8001/play/a0fe/index.m3u8
+#EXTINF:-1 type="stream" tvg-id="Arte 1" tvg-logo="" group-title="Entretenimento",Arte 1
+http://lb.kstream.org/aovivo/HD_ARTE1/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Baby TV" tvg-logo="" group-title="Infantil",BabyTV
+http://lb.kstream.org/aovivo/HD_BABY_TV/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Band" tvg-logo="" group-title="Entretenimento",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
+#EXTINF:-1 type="stream" tvg-id="Band News" tvg-logo="" group-title="Notícia",Band News
+http://187.32.214.221:8001/play/a0fa/index.m3u8
+#EXTINF:-1 type="stream" tvg-id="Band Sports" tvg-logo="" group-title="Esporte",Band Sports
+http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 type="stream" tvg-id="Bis" tvg-logo="" group-title="Entretenimento",Bis
+http://187.32.214.221:8004/play/a0dr/index.m3u8
+#EXTINF:-1 type="stream" tvg-id="Bloomberg TV" tvg-logo="" group-title="Notícia",Bloomberg TV
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 type="stream" tvg-id="Boa Vontade TV" tvg-logo="" group-title="Religioso",Boa Vontade TV
+http://srvtv.online:2082/Altair567/356738473/4615
+#EXTINF:-1 type="stream" tvg-id="Boomerang" tvg-logo="" group-title="Infantil",Boomerang
+http://lb.kstream.org/aovivo/HD_BOOMERANG/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="CGTN" tvg-logo="" group-title="Notícia",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 type="stream" tvg-id="CNN" tvg-logo="" group-title="Notícia",CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 type="stream" tvg-id="CNN Brasil" tvg-logo="" group-title="Notícia",CNN Brasil
+http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 type="stream" tvg-id="Canal Brasil" tvg-logo="" group-title="Filme",Canal Brasil
+http://lb.kstream.org/aovivo/HD_CANAL_BRASIL/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Canal FDR" tvg-logo="" group-title="Entretenimento",Canal FDR
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1734106003.m3u8
+#EXTINF:-1 type="stream" tvg-id="Canal Futura" tvg-logo="" group-title="Documentario",Canal Futura
+http://lb.kstream.org/aovivo/HD_FUTURA/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Canal Off" tvg-logo="" group-title="Entretenimento",Canal Off
+http://lb.kstream.org/aovivo/HD_OFF/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Canal Rural" tvg-logo="" group-title="Entretenimento",Canal Rural
+https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 type="stream" tvg-id="Canal do Boi" tvg-logo="" group-title="Entretenimento",Canal do Boi
+http://177.20.208.58:8000/play/a024/index.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="" group-title="Infantil",Cartoon Network
+http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Chef TV" tvg-logo="" group-title="Entretenimento",Chef TV
+http://lb.kstream.org/aovivo/HD_CHEFTV/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Cinemax" tvg-logo="" group-title="Filme",Cinemax
+http://lb.kstream.org/aovivo/HD_CINEMAX/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="" group-title="Esporte",Combate
+http://lb.kstream.org/aovivo/HD_COMBATE/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Comedy Central" tvg-logo="" group-title="Entretenimento",Comedy Central
+http://origin-02.nxplay.com.br/CCLB_HD_NXPLAY_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 type="stream" tvg-id="ConmebolTV1" tvg-logo="" group-title="Esporte",Conmebol TV 1
+http://cdn1.sistema.ovh/live/Conmebol_1_HD+.m3u8
+#EXTINF:-1 type="stream" tvg-id="ConmebolTV2" tvg-logo="" group-title="Esporte",Conmebol TV 2
+http://cdn1.sistema.ovh/live/Conmebol_2_HD+.m3u8
+#EXTINF:-1 type="stream" tvg-id="ConmebolTV3" tvg-logo="" group-title="Esporte",Conmebol TV 3
+http://cdn1.sistema.ovh/live/Conmebol_3_HD+.m3u8
+#EXTINF:-1 type="stream" tvg-id="ConmebolTV4" tvg-logo="" group-title="Esporte",Conmebol TV 4
+http://cdn1.sistema.ovh/live/Conmebol_4_HD+.m3u8
+#EXTINF:-1 type="stream" tvg-id="Curta!" tvg-logo="" group-title="Entretenimento",Curta!
+http://lb.kstream.org/aovivo/HD_CURTA/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="" group-title="Documentario",Discovery Channel
+http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Discovery Home & Health" tvg-logo="" group-title="Documentario",Discovery Home & Health
+http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="" group-title="Infantil",Discovery Kids
+http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Discovery Science" tvg-logo="" group-title="Documentario",Discovery Science
+http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater" tvg-logo="" group-title="Documentario",Discovery Theater
+http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo" tvg-logo="" group-title="Documentario",Discovery Turbo
+http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Discovery World" tvg-logo="" group-title="Documentario",Discovery World
+http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="Disney Channel" tvg-logo="" group-title="Infantil",Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+#EXTINF:-1 type="stream" tvg-id="Disney Junior" tvg-logo="" group-title="Infantil",Disney Junior
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+#EXTINF:-1 type="stream" tvg-id="Disney XD" tvg-logo="" group-title="Infantil",Disney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-b.m3u8
+#EXTINF:-1 type="stream" tvg-id="DogTV" tvg-logo="" group-title="Entretenimento",DogTV
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 type="stream" tvg-id="E!" tvg-logo="" group-title="Entretenimento",E!
+http://lb.kstream.org/aovivo/HD_E/video.m3u8?token=a071350cf909659661c1a54733c1db12
+#EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="" group-title="Esporte",ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+#EXTINF:-1 type="stream" tvg-id="ESPN 2" tvg-logo="" group-title="Esporte",ESPN 2
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
+#EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="" group-title="Esporte",ESPN Brasil
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8
+#EXTINF:-1 type="stream" tvg-id="ESPN Extra" tvg-logo="" group-title="Esporte",ESPN Extra
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+#EXTINF:-1 type="stream" tvg-id="FX" tvg-logo="" group-title="",FX
+#EXTINF:-1 type="stream" tvg-id="FashionTV" tvg-logo="" group-title="",FashionTV
+#EXTINF:-1 type="stream" tvg-id="Film&Arts" tvg-logo="" group-title="",Film&Arts
+#EXTINF:-1 type="stream" tvg-id="Fish TV" tvg-logo="" group-title="",Fish TV
+#EXTINF:-1 type="stream" tvg-id="Food Network" tvg-logo="" group-title="",Food Network
+#EXTINF:-1 type="stream" tvg-id="Fox News" tvg-logo="" group-title="",Fox News
+#EXTINF:-1 type="stream" tvg-id="Fox Sports 2" tvg-logo="" group-title="",Fox Sports 2
+#EXTINF:-1 type="stream" tvg-id="Fox Sports" tvg-logo="" group-title="",Fox Sports
+#EXTINF:-1 type="stream" tvg-id="GNT" tvg-logo="" group-title="",GNT
+#EXTINF:-1 type="stream" tvg-id="Globo RJ" tvg-logo="" group-title="",Globo RJ
+#EXTINF:-1 type="stream" tvg-id="GloboNews" tvg-logo="" group-title="",GloboNews
+#EXTINF:-1 type="stream" tvg-id="Gloob" tvg-logo="" group-title="",Gloob
+#EXTINF:-1 type="stream" tvg-id="Gloobinho" tvg-logo="" group-title="",Gloobinho
+#EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="" group-title="",HBO
+#EXTINF:-1 type="stream" tvg-id="HBO Family" tvg-logo="" group-title="",HBO Family
+#EXTINF:-1 type="stream" tvg-id="HBO Mundi" tvg-logo="" group-title="",HBO Mundi
+#EXTINF:-1 type="stream" tvg-id="HBO Pop" tvg-logo="" group-title="",HBO Pop
+#EXTINF:-1 type="stream" tvg-id="HBO Signature" tvg-logo="" group-title="",HBO Signature
+#EXTINF:-1 type="stream" tvg-id="HBO Xtreme" tvg-logo="" group-title="",HBO Xtreme
+#EXTINF:-1 type="stream" tvg-id="HBO2" tvg-logo="" group-title="",HBO2
+#EXTINF:-1 type="stream" tvg-id="HGTV" tvg-logo="" group-title="",HGTV
+#EXTINF:-1 type="stream" tvg-id="History 2" tvg-logo="" group-title="",History 2
+#EXTINF:-1 type="stream" tvg-id="History" tvg-logo="" group-title="",History
+#EXTINF:-1 type="stream" tvg-id="Ideal TV" tvg-logo="" group-title="",Ideal TV
+#EXTINF:-1 type="stream" tvg-id="Investigacao Discovery" tvg-logo="" group-title="",Investigação Discovery
+#EXTINF:-1 type="stream" tvg-id="Lifetime" tvg-logo="" group-title="",Lifetime
+#EXTINF:-1 type="stream" tvg-id="Loading" tvg-logo="" group-title="",Loading
+#EXTINF:-1 type="stream" tvg-id="MTV" tvg-logo="" group-title="",MTV
+#EXTINF:-1 type="stream" tvg-id="MTV Live" tvg-logo="" group-title="",MTV Live
+#EXTINF:-1 type="stream" tvg-id="Mais Globosat" tvg-logo="" group-title="",Mais Globosat
+#EXTINF:-1 type="stream" tvg-id="Mega TV" tvg-logo="" group-title="",Mega TV
+#EXTINF:-1 type="stream" tvg-id="Megapix" tvg-logo="" group-title="",Megapix
+#EXTINF:-1 type="stream" tvg-id="Multishow" tvg-logo="" group-title="",Multishow
+#EXTINF:-1 type="stream" tvg-id="Music Box Brasil" tvg-logo="" group-title="",Music Box Brasil
+#EXTINF:-1 type="stream" tvg-id="NHK World Japan" tvg-logo="" group-title="",NHK World Japan
+#EXTINF:-1 type="stream" tvg-id="Nat Geo Kids" tvg-logo="" group-title="",Nat Geo Kids
+#EXTINF:-1 type="stream" tvg-id="National Geographic Wild" tvg-logo="" group-title="",National Geographic Wild
+#EXTINF:-1 type="stream" tvg-id="National Geographic" tvg-logo="" group-title="",National Geographic
+#EXTINF:-1 type="stream" tvg-id="Nick Jr" tvg-logo="" group-title="",Nick Jr
+#EXTINF:-1 type="stream" tvg-id="Nickelodeon" tvg-logo="" group-title="",Nickelodeon
+#EXTINF:-1 type="stream" tvg-id="Play TV" tvg-logo="" group-title="",Play TV
+#EXTINF:-1 type="stream" tvg-id="Playboy TV" tvg-logo="" group-title="",Playboy TV
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="" group-title="",Premiere Clubes
+#EXTINF:-1 type="stream" tvg-id="Premiere 2" tvg-logo="" group-title="",Premiere 2
+#EXTINF:-1 type="stream" tvg-id="Premiere 3" tvg-logo="" group-title="",Premiere 3
+#EXTINF:-1 type="stream" tvg-id="Premiere 4" tvg-logo="" group-title="",Premiere 4
+#EXTINF:-1 type="stream" tvg-id="Premiere 5" tvg-logo="" group-title="",Premiere 5
+#EXTINF:-1 type="stream" tvg-id="Premiere 6" tvg-logo="" group-title="",Premiere 6
+#EXTINF:-1 type="stream" tvg-id="Premiere 7" tvg-logo="" group-title="",Premiere 7
+#EXTINF:-1 type="stream" tvg-id="Premiere 8" tvg-logo="" group-title="",Premiere 8
+#EXTINF:-1 type="stream" tvg-id="Premiere 9" tvg-logo="" group-title="",Premiere 9
+#EXTINF:-1 type="stream" tvg-id="Premiere 10" tvg-logo="" group-title="",Premiere 10
+#EXTINF:-1 type="stream" tvg-id="Prime Box Brazil" tvg-logo="" group-title="",Prime Box Brazil
+#EXTINF:-1 type="stream" tvg-id="Rai Italia" tvg-logo="" group-title="",Rai Italia
+#EXTINF:-1 type="stream" tvg-id="Ra Tim Bum" tvg-logo="" group-title="",Rá Tim Bum
+#EXTINF:-1 type="stream" tvg-id="Record News" tvg-logo="" group-title="",Record News
+#EXTINF:-1 type="stream" tvg-id="Record TV" tvg-logo="" group-title="",Record TV
+#EXTINF:-1 type="stream" tvg-id="Rede Brasil" tvg-logo="" group-title="",Rede Brasil
+#EXTINF:-1 type="stream" tvg-id="Rede CNT" tvg-logo="" group-title="",Rede CNT
+#EXTINF:-1 type="stream" tvg-id="Rede Gazeta" tvg-logo="" group-title="",Rede Gazeta
+#EXTINF:-1 type="stream" tvg-id="Rede Super" tvg-logo="" group-title="",Rede Super
+#EXTINF:-1 type="stream" tvg-id="Rede Seculo 21" tvg-logo="" group-title="",Rede Século 21
+#EXTINF:-1 type="stream" tvg-id="Rede Vida" tvg-logo="" group-title="",Rede Vida
+#EXTINF:-1 type="stream" tvg-id="RedeTV" tvg-logo="" group-title="",RedeTV!
+#EXTINF:-1 type="stream" tvg-id="SBT" tvg-logo="" group-title="",SBT
+#EXTINF:-1 type="stream" tvg-id="SIC TV" tvg-logo="" group-title="",SIC TV
+#EXTINF:-1 type="stream" tvg-id="SescTV" tvg-logo="" group-title="",SescTV
+#EXTINF:-1 type="stream" tvg-id="Sextreme" tvg-logo="" group-title="",Sextreme
+#EXTINF:-1 type="stream" tvg-id="Sexy Hot" tvg-logo="" group-title="",Sexy Hot
+#EXTINF:-1 type="stream" tvg-id="Sony Channel" tvg-logo="" group-title="",Sony Channel
+#EXTINF:-1 type="stream" tvg-id="Space" tvg-logo="" group-title="",Space
+#EXTINF:-1 type="stream" tvg-id="SporTV" tvg-logo="" group-title="",SporTV
+#EXTINF:-1 type="stream" tvg-id="SporTV 2" tvg-logo="" group-title="",SporTV 2
+#EXTINF:-1 type="stream" tvg-id="SporTV 3" tvg-logo="" group-title="",SporTV 3
+#EXTINF:-1 type="stream" tvg-id="Star Channel" tvg-logo="" group-title="",Star Channel
+#EXTINF:-1 type="stream" tvg-id="Star Hits" tvg-logo="" group-title="",Star Hits
+#EXTINF:-1 type="stream" tvg-id="Star Hits 2" tvg-logo="" group-title="",Star Hits 2
+#EXTINF:-1 type="stream" tvg-id="Star Life" tvg-logo="" group-title="",Star Life
+#EXTINF:-1 type="stream" tvg-id="Studio Universal" tvg-logo="" group-title="",Studio Universal
+#EXTINF:-1 type="stream" tvg-id="Sundance TV" tvg-logo="" group-title="",Sundance TV
+#EXTINF:-1 type="stream" tvg-id="Syfy" tvg-logo="" group-title="",Syfy
+#EXTINF:-1 type="stream" tvg-id="TBS" tvg-logo="" group-title="",TBS
+#EXTINF:-1 type="stream" tvg-id="TCM" tvg-logo="" group-title="",TCM
+#EXTINF:-1 type="stream" tvg-id="TLC" tvg-logo="" group-title="",TLC
+#EXTINF:-1 type="stream" tvg-id="TNT" tvg-logo="" group-title="",TNT
+#EXTINF:-1 type="stream" tvg-id="TNT Series" tvg-logo="" group-title="",TNT Series
+#EXTINF:-1 type="stream" tvg-id="TNT Sports" tvg-logo="" group-title="",TNT Sports
+#EXTINF:-1 type="stream" tvg-id="TV Aparecida" tvg-logo="" group-title="",TV Aparecida
+#EXTINF:-1 type="stream" tvg-id="TV Brasil" tvg-logo="" group-title="",TV Brasil
+#EXTINF:-1 type="stream" tvg-id="TV CancaoNova" tvg-logo="" group-title="",TV Canção Nova
+#EXTINF:-1 type="stream" tvg-id="TV Cultura" tvg-logo="" group-title="",TV Cultura
+#EXTINF:-1 type="stream" tvg-id="TV Camara" tvg-logo="" group-title="",TV Câmara
+#EXTINF:-1 type="stream" tvg-id="TV Diario" tvg-logo="" group-title="",TV Diário
+#EXTINF:-1 type="stream" tvg-id="TV Educativa" tvg-logo="" group-title="",TV Educativa
+#EXTINF:-1 type="stream" tvg-id="TV Escola" tvg-logo="" group-title="",TV Escola
+#EXTINF:-1 type="stream" tvg-id="TV Gazeta" tvg-logo="" group-title="",TV Gazeta
+#EXTINF:-1 type="stream" tvg-id="TV Justica" tvg-logo="" group-title="",TV Justiça
+#EXTINF:-1 type="stream" tvg-id="TV NBR" tvg-logo="" group-title="",TV NBR
+#EXTINF:-1 type="stream" tvg-id="TV Novo Tempo" tvg-logo="" group-title="",TV Novo Tempo
+#EXTINF:-1 type="stream" tvg-id="TV Senado" tvg-logo="" group-title="",TV Senado
+#EXTINF:-1 type="stream" tvg-id="Telecine Action" tvg-logo="" group-title="",Telecine Action
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult" tvg-logo="" group-title="",Telecine Cult
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun" tvg-logo="" group-title="",Telecine Fun
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca" tvg-logo="" group-title="",Telecine Pipoca
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium" tvg-logo="" group-title="",Telecine Premium
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch" tvg-logo="" group-title="",Telecine Touch
+#EXTINF:-1 type="stream" tvg-id="Terra Viva" tvg-logo="" group-title="",Terra Viva
+#EXTINF:-1 type="stream" tvg-id="Travel Box Brazil" tvg-logo="" group-title="",Travel Box Brazil
+#EXTINF:-1 type="stream" tvg-id="VH1" tvg-logo="" group-title="",VH1
+#EXTINF:-1 type="stream" tvg-id="Viva" tvg-logo="" group-title="",Viva
+#EXTINF:-1 type="stream" tvg-id="Warner Channel" tvg-logo="" group-title="",Warner Channel
+#EXTINF:-1 type="stream" tvg-id="WooHoo" tvg-logo="" group-title="",WooHoo
+#EXTINF:-1 type="stream" tvg-id="ZooMoo" tvg-logo="" group-title="",ZooMoo
+#EXTINF:-1 type="stream" tvg-id="truTV" tvg-logo="" group-title="",truTV
+

@@ -1,0 +1,24 @@
+{
+  "name": "iptv-playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrcanelas/iptv-playlist.git"
+  },
+  "author": "mrcanelas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrcanelas/iptv-playlist/issues"
+  },
+  "homepage": "https://github.com/mrcanelas/iptv-playlist#readme",
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "epg-grabber": "^0.5.2",
+    "jsdom": "^16.5.3"
+  }
+}
