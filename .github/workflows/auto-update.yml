@@ -13,5 +13,3 @@ jobs:
         run: npm install
       - name: Run EPG Grabber
         run: npx epg-grabber --config=sites/mi.tv.config.js
-      - name: Deploy to GitHub Pages
-        uses: mrcanelas/github-pages-deploy-action@4.1.0
