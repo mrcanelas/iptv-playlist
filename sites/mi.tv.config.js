@@ -3,7 +3,6 @@ const { JSDOM } = jsdom
 const dayjs = require('dayjs')
 const utc = require('dayjs/plugin/utc')
 const customParseFormat = require('dayjs/plugin/customParseFormat')
-const css = require('css');
 
 dayjs.extend(utc)
 dayjs.extend(customParseFormat)
