@@ -13,9 +13,12 @@ jobs:
         run: npm install
       - name: Run EPG Grabber
         run: npx epg-grabber --config=sites/mi.tv.config.js
-      - name: Deploy to GitHub Pages
-        uses: mrcanelas/github-pages-deploy-action@4.1.0
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
         with:
-          branch: gh-pages
-          folder: .gh-pages
-          clean: false
+          add: '["./lib/guide.xml"]'
+          author_name: "Silas Alves dos Santos"
+          author_email: "sialsan@hotmail.com"
+          branch: main
+          message: "Github actions updated guide"
+          push: "origin main --force"
