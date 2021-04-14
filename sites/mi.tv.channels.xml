@@ -77,7 +77,7 @@
     <channel site_id="br#loading" xmltv_id="Loading">Loading</channel>
     <channel site_id="br#mtv-brasil" xmltv_id="MTV">MTV</channel>
     <channel site_id="br#mtv-live-hd" xmltv_id="MTV Live">MTV Live</channel>
-    <channel site_id="br#globosat" xmltv_id="Mais Globosat">Mais Globosat</channel>
+    <channel site_id="br#globosat" xmltv_id="Mais Na Tela">Mais Na Tela</channel>
     <channel site_id="br#mega-tv-brazil" xmltv_id="Mega TV">Mega TV</channel>
     <channel site_id="br#megapix" xmltv_id="Megapix">Megapix</channel>
     <channel site_id="br#multishow" xmltv_id="Multishow">Multishow</channel>
@@ -88,6 +88,7 @@
     <channel site_id="br#national-geographic" xmltv_id="National Geographic">National Geographic</channel>
     <channel site_id="br#nick-jr" xmltv_id="Nick Jr">Nick Jr</channel>
     <channel site_id="br#nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site_id="br#paramount-brasil-hd" xmltv_id="Paramount Channel">Paramount Channel</channel>
     <channel site_id="br#play-tv" xmltv_id="Play TV">Play TV</channel>
     <channel site_id="br#playboy" xmltv_id="Playboy TV">Playboy TV</channel>
     <channel site_id="br#premiere-clubes" xmltv_id="Premiere Clubes">Premiere Clubes</channel>
@@ -155,12 +156,14 @@
     <channel site_id="br#telecine-premium" xmltv_id="Telecine Premium">Telecine Premium</channel>
     <channel site_id="br#telecine-touch" xmltv_id="Telecine Touch">Telecine Touch</channel>
     <channel site_id="br#terra-viva" xmltv_id="Terra Viva">Terra Viva</channel>
+    <channel site_id="br#tooncast" xmltv_id="Tooncast">Tooncast</channel>
     <channel site_id="br#travel-box-brazil" xmltv_id="Travel Box Brazil">Travel Box Brazil</channel>
+    <channel site_id="br#trutv" xmltv_id="truTV">truTV</channel>
+    <channel site_id="br#universal" xmltv_id="Universal">Universal</channel>
     <channel site_id="br#vh1" xmltv_id="VH1">VH1</channel>
     <channel site_id="br#viva" xmltv_id="Viva">Viva</channel>
     <channel site_id="br#warner-channel" xmltv_id="Warner Channel">Warner Channel</channel>
     <channel site_id="br#woohoo" xmltv_id="WooHoo">WooHoo</channel>
     <channel site_id="br#zoomoo" xmltv_id="ZooMoo">ZooMoo</channel>
-    <channel site_id="br#trutv" xmltv_id="truTV">truTV</channel>
   </channels>
 </site>

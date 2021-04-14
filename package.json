@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/mrcanelas/iptv-playlist#readme",
   "dependencies": {
+    "css": "^3.0.0",
     "dayjs": "^1.10.4",
-    "epg-grabber": "^0.5.2",
+    "epg-grabber": "^0.6.0",
     "jsdom": "^16.5.3"
   }
 }

@@ -3,6 +3,7 @@ const { JSDOM } = jsdom
 const dayjs = require('dayjs')
 const utc = require('dayjs/plugin/utc')
 const customParseFormat = require('dayjs/plugin/customParseFormat')
+const css = require('css');
 
 dayjs.extend(utc)
 dayjs.extend(customParseFormat)
@@ -11,7 +12,7 @@ module.exports = {
   lang: 'pt',
   site: 'mi.tv',
   channels: 'mi.tv.channels.xml',
-  output: './lib/guide.xml',
+  output: '.gh-pages/guides/guide.xml',
   url({ date, channel }) {
     const [country, id] = channel.site_id.split('#')
     return `https://mi.tv/${country}/async/channel/${id}/${date.format('YYYY-MM-DD')}/180`
@@ -31,6 +32,8 @@ module.exports = {
       const category = (item.querySelector('a > div.content > span.sub-title') || { textContent: '' }).textContent
       const title = (item.querySelector('a > div.content > h2') || { textContent: '' }).textContent
       const time = (item.querySelector('a > div.content > span.time') || { textContent: '' }).textContent
+      const img = (item.querySelector('a > div.image-parent > div.image'))
+      const icon = img ? img.style.backgroundImage.replace(/.*\s?url\([\'\"]?/, '').replace(/[\'\"]?\).*/, '') : null
 
       if (title && time) {
         const start = dayjs
@@ -47,11 +50,11 @@ module.exports = {
           title,
           start,
           description,
-          category
+          category,
+          icon
         })
       }
     })
-
     return programs
   }
 }
