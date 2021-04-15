@@ -2,20 +2,24 @@ const jsdom = require('jsdom')
 const { JSDOM } = jsdom
 const dayjs = require('dayjs')
 const utc = require('dayjs/plugin/utc')
+const timezone = require('dayjs/plugin/timezone')
 const customParseFormat = require('dayjs/plugin/customParseFormat')
 const css = require('css');
 
 dayjs.extend(utc)
+dayjs.extend(timezone)
 dayjs.extend(customParseFormat)
+
+const br_date = dayjs.utc().tz("America/Sao_Paulo")
 
 module.exports = {
   lang: 'pt',
   site: 'mi.tv',
   channels: 'mi.tv.channels.xml',
-  output: '.lib/guide.xml',
+  output: '.gh-pages/guide.xml',
   url({ date, channel }) {
     const [country, id] = channel.site_id.split('#')
-    return `https://mi.tv/${country}/async/channel/${id}/${date.format('YYYY-MM-DD')}/180`
+    return `https://mi.tv/${country}/async/channel/${id}/${br_date.format('YYYY-MM-DD')}/0`
   },
   logo({ content }) {
     const dom = new JSDOM(content)
@@ -38,9 +42,10 @@ module.exports = {
       if (title && time) {
         const start = dayjs
           .utc(time, 'HH:mm')
-          .set('D', date.get('D'))
-          .set('M', date.get('M'))
-          .set('y', date.get('y'))
+          .set('D', br_date.get('D'))
+          .set('M', br_date.get('M'))
+          .set('y', br_date.get('y'))
+          
 
         if (programs.length && !programs[programs.length - 1].stop) {
           programs[programs.length - 1].stop = start
