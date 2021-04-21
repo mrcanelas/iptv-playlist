@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/mrcanelas/iptv-playlist#readme",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.6",
     "dayjs": "^1.10.4",
     "epg-grabber": "^0.6.0",
-    "jsdom": "^16.5.3"
+    "jsdom": "^16.5.3",
+    "needle": "^2.6.0"
   }
 }
