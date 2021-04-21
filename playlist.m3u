@@ -247,7 +247,7 @@ http://cdn-1.nxplay.com.br/PCBR_HD_NXPLAY_1/tracks-v1a1/mono.m3u8
 http://lb.kstream.org/aovivo/HD_PLAYTV/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="Playboy TV" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/playboytv.png" tvg-name="Playboy TV"  group-title="Adulto",Playboy TV
-http://lb.kstream.org/aovivo/HD_TNT/video.m3u8?token=70a100758acb898fb8231619aeb553c1
+http://lb.kstream.org/aovivo/FHD_PLAYBOY/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="Premiere 2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" tvg-name="Premiere 2"  group-title="Esporte",Premiere 2
 http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=70a100758acb898fb8231619aeb553c1
@@ -301,10 +301,10 @@ http://lb.kstream.org/aovivo/HD_SBT/download?token=70a100758acb898fb8231619aeb55
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a1cf2491-3657-4b42-abbb-56cc8f0ba378_index1080p.m3u8
 
 #EXTINF:-1, tvg-id="Sextreme" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sextremeb.png" tvg-name="Sextreme"  group-title="Adulto",Sextreme
-http://lb.kstream.org/aovivo/HD_TNT/video.m3u8?token=70a100758acb898fb8231619aeb553c1
+http://lb.kstream.org/aovivo/HD_SEXTREME/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="Sexy Hot" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sexyhotb.png" tvg-name="Sexy Hot"  group-title="Adulto",Sexy Hot
-http://lb.kstream.org/aovivo/HD_TNT/video.m3u8?token=70a100758acb898fb8231619aeb553c1
+http://lb.kstream.org/aovivo/HD_SEXHOT/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="Sony Channel" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sony.png" tvg-name="Sony Channel"  group-title="Filme",Sony Channel
 http://lb.kstream.org/aovivo/HD_SONY/video.m3u8?token=70a100758acb898fb8231619aeb553c1
