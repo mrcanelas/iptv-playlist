@@ -31,14 +31,11 @@ module.exports = {
   },
   parser({ content, date }) {
     const programs = [];
-    console.log(content)
     $ = cheerio.load(content);
-
-    $("*[itemscope]").each((i, el) => {
+    $('ul.ultimas > li').each((i, el) => {
       const url = endpoint + $(el).find('a').attr('href');
       const title = $(el).find('a').text();
       const time = $(el).find('meta').attr('content');
-      console.log({url, title, time})
       const [icon, description, category] = needle.get(
         url,
         function (error, response) {
@@ -48,7 +45,6 @@ module.exports = {
           const description = $('.infos').text();
           const category = $('.fichatecnica').find('li').text();
           const data = { icon, description, category };
-          console.log(data)
           return data;
         }
       );
