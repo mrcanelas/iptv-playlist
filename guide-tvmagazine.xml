@@ -128,23 +128,23 @@
 <channel id="TNT Séries"><display-name>TNT Séries</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/tntseries.png"/></channel>
 <channel id="Tooncast"><display-name>Tooncast</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png"/></channel>
 <channel id="Travel Box Brazil"><display-name>Travel Box Brazil</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/travelboxbrazil.png"/></channel>
-<channel id="truTV"><display-name>truTV</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/trutvb.png"/></channel>
+<channel id="truTV"><display-name>truTV</display-name></channel>
 <channel id="TV Aparecida"><display-name>TV Aparecida</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/tvaparecida.png"/></channel>
 <channel id="TV Brasil"><display-name>TV Brasil</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/tvbrasil.png"/></channel>
-<channel id="TV Câmara"><display-name>TV Câmara</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/tvcamara.png"/></channel>
-<channel id="TV Cultura"><display-name>TV Cultura</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/tvcultura.png"/></channel>
-<channel id="TV Diário"><display-name>TV Diário</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/tvdiarioce.png"/></channel>
-<channel id="TV Escola"><display-name>TV Escola</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/tvescola.png"/></channel>
+<channel id="TV Câmara"><display-name>TV Câmara</display-name></channel>
+<channel id="TV Cultura"><display-name>TV Cultura</display-name></channel>
+<channel id="TV Diário"><display-name>TV Diário</display-name></channel>
+<channel id="TV Escola"><display-name>TV Escola</display-name></channel>
 <channel id="TV Gazeta"><display-name>TV Gazeta</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/tvgazeta.png"/></channel>
-<channel id="TV NBR"><display-name>TV NBR</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/nbr.png"/></channel>
-<channel id="TV Novo Tempo"><display-name>TV Novo Tempo</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/tvnovotempo.png"/></channel>
-<channel id="TV Rá-Tim-Bum"><display-name>TV Rá-Tim-Bum</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/tvratimbum.png"/></channel>
-<channel id="TV Senado"><display-name>TV Senado</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/tvsenado.png"/></channel>
+<channel id="TV NBR"><display-name>TV NBR</display-name></channel>
+<channel id="TV Novo Tempo"><display-name>TV Novo Tempo</display-name></channel>
+<channel id="TV Rá-Tim-Bum"><display-name>TV Rá-Tim-Bum</display-name></channel>
+<channel id="TV Senado"><display-name>TV Senado</display-name></channel>
 <channel id="Universal Channel"><display-name>Universal Channel</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/universaltv.png"/></channel>
-<channel id="VH1"><display-name>VH1</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/vh1.png"/></channel>
+<channel id="VH1"><display-name>VH1</display-name></channel>
 <channel id="VH1 Megahits"><display-name>VH1 Megahits</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/vh1megahits.png"/></channel>
-<channel id="Viva"><display-name>Viva</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/viva2018.png"/></channel>
-<channel id="Warner Channel"><display-name>Warner Channel</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/warnerchannel.png"/></channel>
-<channel id="WooHoo"><display-name>WooHoo</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/woohoo.png"/></channel>
-<channel id="ZooMoo"><display-name>ZooMoo</display-name><icon src="https://www.tvmagazine.com.br/imagens/icones/600/zoomoo.png"/></channel>
+<channel id="Viva"><display-name>Viva</display-name></channel>
+<channel id="Warner Channel"><display-name>Warner Channel</display-name></channel>
+<channel id="WooHoo"><display-name>WooHoo</display-name></channel>
+<channel id="ZooMoo"><display-name>ZooMoo</display-name></channel>
 </tv>
