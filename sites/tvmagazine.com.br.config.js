@@ -16,7 +16,7 @@ module.exports = {
   lang: 'pt',
   site: 'tvmagazine.com.br',
   channels: 'tvmagazine.com.br.channels.xml',
-  output: '.gh-pages/guide.xml',
+  output: '.gh-pages/guide-tvmagazine.xml',
 
   url({ date, channel }) {
     const [slug, id] = channel.site_id.split('/');

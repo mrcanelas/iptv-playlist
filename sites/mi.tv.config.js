@@ -15,7 +15,7 @@ module.exports = {
   lang: 'pt',
   site: 'mi.tv',
   channels: 'mi.tv.channels.xml',
-  output: '.gh-pages/guide.xml',
+  output: '.gh-pages/guide-mi.tv.xml',
   url({ date, channel }) {
     const [country, id] = channel.site_id.split('#')
     return `https://mi.tv/${country}/async/channel/${id}/${br_date.format('YYYY-MM-DD')}/0`
