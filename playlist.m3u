@@ -39,12 +39,6 @@ http://lb.kstream.org/aovivo/HD_BOOMERANG/video.m3u8?token=70a100758acb898fb8231
 #EXTINF:-1, tvg-id="Canal Brasil" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" tvg-name="Canal Brasil"  group-title="Filme",Canal Brasil
 http://lb.kstream.org/aovivo/HD_CANAL_BRASIL/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
-#EXTINF:-1, tvg-id="Canal do Boi" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaldoboib.png" tvg-name="Canal do Boi"  group-title="Entretenimento",Canal do Boi
-http://177.20.208.58:8000/play/a024/index.m3u8
-
-#EXTINF:-1, tvg-id="Canal Rural" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canalruralb.png" tvg-name="Canal Rural"  group-title="Entretenimento",Canal Rural
-https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
-
 #EXTINF:-1, tvg-id="Canção Nova" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvcancaonova.png" tvg-name="Canção Nova"  group-title="Religioso",Canção Nova
 http://lb.kstream.org/aovivo/HD_CANCAO_NOVA/download?token=70a100758acb898fb8231619aeb553c1
 
@@ -84,9 +78,6 @@ http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=70a100758a
 #EXTINF:-1, tvg-id="Discovery Kids" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverykids.png" tvg-name="Discovery Kids"  group-title="Infantil",Discovery Kids
 http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
-#EXTINF:-1, tvg-id="Discovery Science" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryscienceb.png" tvg-name="Discovery Science"  group-title="Documentario",Discovery Science
-http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE/video.m3u8?token=70a100758acb898fb8231619aeb553c1
-
 #EXTINF:-1, tvg-id="Discovery Theater" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png" tvg-name="Discovery Theater"  group-title="Documentario",Discovery Theater
 http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
@@ -122,9 +113,6 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
 #EXTINF:-1, tvg-id="FashionTV" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/fashiontv2018.png" tvg-name="FashionTV"  group-title="Entretenimento",FashionTV
 https://523.live.ch.cabo.tv.br/dvttn/523/1280x720_4500.m3u8
-
-#EXTINF:-1, tvg-id="Film & Arts" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" tvg-name="Film & Arts"  group-title="Filme",Film & Arts
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/586.m3u8
 
 #EXTINF:-1, tvg-id="FishTV" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" tvg-name="FishTV"  group-title="Entretenimento",FishTV
 https://207.live.ch.cabo.tv.br/dvttn/207/1280x720_4500.m3u8
@@ -243,12 +231,6 @@ http://lb.kstream.org/aovivo/HD_OFF/video.m3u8?token=70a100758acb898fb8231619aeb
 #EXTINF:-1, tvg-id="Paramount Channel" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/paramount.png" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
 http://cdn-1.nxplay.com.br/PCBR_HD_NXPLAY_1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-id="Play TV" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/playtv.png" tvg-name="Play TV"  group-title="Entretenimento",Play TV
-http://lb.kstream.org/aovivo/HD_PLAYTV/video.m3u8?token=70a100758acb898fb8231619aeb553c1
-
-#EXTINF:-1, tvg-id="Playboy TV" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/playboytv.png" tvg-name="Playboy TV"  group-title="Adulto",Playboy TV
-http://lb.kstream.org/aovivo/FHD_PLAYBOY/video.m3u8?token=70a100758acb898fb8231619aeb553c1
-
 #EXTINF:-1, tvg-id="Premiere 2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" tvg-name="Premiere 2"  group-title="Esporte",Premiere 2
 http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
@@ -282,12 +264,6 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8
 #EXTINF:-1, tvg-id="Rede Brasil" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redebrasil.png" tvg-name="Rede Brasil"  group-title="Entretenimento",Rede Brasil
 http://lb.kstream.org/aovivo/SD_REDE_BRASIL/download?token=70a100758acb898fb8231619aeb553c1
 
-#EXTINF:-1, tvg-id="Rede CNT" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cnt.png" tvg-name="Rede CNT"  group-title="Entretenimento",Rede CNT
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8
-
-#EXTINF:-1, tvg-id="Rede Super" tvg-logo="Logo N/A" tvg-name="Rede Super"  group-title="Entretenimento",Rede Super
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-
 #EXTINF:-1, tvg-id="Rede TV!" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redetv.png" tvg-name="Rede TV!"  group-title="Entretenimento",Rede TV!
 http://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
@@ -296,15 +272,6 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="SBT" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sbt.png" tvg-name="SBT"  group-title="Entretenimento",SBT
 http://lb.kstream.org/aovivo/HD_SBT/download?token=70a100758acb898fb8231619aeb553c1
-
-#EXTINF:-1, tvg-id="SescTV" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sesctv.png" tvg-name="SescTV"  group-title="Entretenimento",SescTV
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a1cf2491-3657-4b42-abbb-56cc8f0ba378_index1080p.m3u8
-
-#EXTINF:-1, tvg-id="Sextreme" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sextremeb.png" tvg-name="Sextreme"  group-title="Adulto",Sextreme
-http://lb.kstream.org/aovivo/HD_SEXTREME/video.m3u8?token=70a100758acb898fb8231619aeb553c1
-
-#EXTINF:-1, tvg-id="Sexy Hot" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sexyhotb.png" tvg-name="Sexy Hot"  group-title="Adulto",Sexy Hot
-http://lb.kstream.org/aovivo/HD_SEXHOT/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="Sony Channel" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sony.png" tvg-name="Sony Channel"  group-title="Filme",Sony Channel
 http://lb.kstream.org/aovivo/HD_SONY/video.m3u8?token=70a100758acb898fb8231619aeb553c1
@@ -363,9 +330,6 @@ http://lb.kstream.org/aovivo/HD_TC_PREMIUM/video.m3u8?token=70a100758acb898fb823
 #EXTINF:-1, tvg-id="Telecine Touch" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" tvg-name="Telecine Touch"  group-title="Filme",Telecine Touch
 http://lb.kstream.org/aovivo/HD_TC_TOUCH/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
-#EXTINF:-1, tvg-id="Terra Viva" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/terraviva.png" tvg-name="Terra Viva"  group-title="Variedades",Terra Viva
-http://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
-
 #EXTINF:-1, tvg-id="TLC" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tlc.png" tvg-name="TLC"  group-title="Filme",TLC
 http://lb.kstream.org/aovivo/HD_TLC/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
@@ -374,21 +338,6 @@ http://lb.kstream.org/aovivo/HD_TNT/video.m3u8?token=70a100758acb898fb8231619aeb
 
 #EXTINF:-1, tvg-id="TNT Séries" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tntseries.png" tvg-name="TNT Séries"  group-title="Filme",TNT Séries
 http://lb.kstream.org/aovivo/HD_TNT_SERIES/video.m3u8?token=70a100758acb898fb8231619aeb553c1
-
-#EXTINF:-1, tvg-id="TNT Sports" tvg-logo="Logo N/A" tvg-name="TNT Sports"  group-title="Esporte",TNT Sports
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-
-#EXTINF:-1, tvg-id="TNT Sports 2" tvg-logo="Logo N/A" tvg-name="TNT Sports 2"  group-title="Esporte",TNT Sports 2
-http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1, tvg-id="TNT Sports 3" tvg-logo="Logo N/A" tvg-name="TNT Sports 3"  group-title="Esporte",TNT Sports 3
-http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-#EXTINF:-1, tvg-id="TNT Sports 4" tvg-logo="Logo N/A" tvg-name="TNT Sports 4"  group-title="Esporte",TNT Sports 4
-http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1, tvg-id="TNT Sports 5" tvg-logo="Logo N/A" tvg-name="TNT Sports 5"  group-title="Esporte",TNT Sports 5
-http://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1, tvg-id="Tooncast" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" tvg-name="Tooncast"  group-title="Infantil",Tooncast
 http://lb.kstream.org/aovivo/HD_TOONCAST/video.m3u8?token=70a100758acb898fb8231619aeb553c1
@@ -411,20 +360,11 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1, tvg-id="TV Cultura" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvcultura.png" tvg-name="TV Cultura"  group-title="Variedades",TV Cultura
 http://evpp.mm.uol.com.br:1935/cultura1/cultura_720.sdp/playlist.m3u8
 
-#EXTINF:-1, tvg-id="TV Diario" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvdiarioce.png" tvg-name="TV Diário"  group-title="Variedades",TV Diário
-http://lb.kstream.org/aovivo/HD_TV_DIARIO/download?token=70a100758acb898fb8231619aeb553c1
-
 #EXTINF:-1, tvg-id="TV Escola" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvescola.png" tvg-name="TV Escola"  group-title="Variedades",TV Escola
 https://105.live.ch.cabo.tv.br/dvttn/105/720x480_1500.m3u8
 
 #EXTINF:-1, tvg-id="TV Gazeta" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazeta.png" tvg-name="TV Gazeta"  group-title="Variedades",TV Gazeta
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
-
-#EXTINF:-1, tvg-id="TV NBR" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/nbr.png" tvg-name="TV NBR"  group-title="Variedades",TV NBR
-https://112.live.ch.cabo.tv.br/dvttn/112/720x480_1500.m3u8
-
-#EXTINF:-1, tvg-id="TV Novo Tempo" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvnovotempo.png" tvg-name="TV Novo Tempo"  group-title="Religioso",TV Novo Tempo
-http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TV Rá-Tim-Bum" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvratimbum.png" tvg-name="TV Rá-Tim-Bum"  group-title="Infantil",TV Rá-Tim-Bum
 http://lb.kstream.org/aovivo/HD_TV_RATIMBUM/video.m3u8?token=70a100758acb898fb8231619aeb553c1
@@ -438,9 +378,6 @@ http://lb.kstream.org/aovivo/HD_UNIVERSAL/video.m3u8?token=70a100758acb898fb8231
 #EXTINF:-1, tvg-id="VH1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/vh1.png" tvg-name="VH1"  group-title="Variedades",VH1
 http://lb.kstream.org/aovivo/HD_VH1/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
-#EXTINF:-1, tvg-id="VH1 Megahits" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/vh1megahits.png" tvg-name="VH1 Megahits"  group-title="Variedades",VH1 Megahits
-http://lb.kstream.org/aovivo/SD_VH1_MEGAHITS/download?token=70a100758acb898fb8231619aeb553c1
-
 #EXTINF:-1, tvg-id="Viva" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/viva2018.png" tvg-name="Viva"  group-title="Variedades",Viva
 http://lb.kstream.org/aovivo/HD_VIVA/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
@@ -449,7 +386,4 @@ http://lb.kstream.org/aovivo/HD_WARNER/video.m3u8?token=70a100758acb898fb8231619
 
 #EXTINF:-1, tvg-id="WooHoo" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/woohoo.png" tvg-name="WooHoo"  group-title="Variedades",WooHoo
 http://lb.kstream.org/aovivo/HD_WOOHOO/video.m3u8?token=70a100758acb898fb8231619aeb553c1
-
-#EXTINF:-1, tvg-id="ZooMoo" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/zoomoo.png" tvg-name="ZooMoo"  group-title="Infantil",ZooMoo
-https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_01/video.m3u8
 
