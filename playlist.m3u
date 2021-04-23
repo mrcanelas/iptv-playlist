@@ -201,7 +201,7 @@ http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=70a100758acb898fb82316
 #EXTINF:-1, tvg-id="Loading" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/loadingb.png" tvg-name="Loading"  group-title="Entretenimento",Loading
 http://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 
-#EXTINF:-1, tvg-id="Mais Globosat" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/maisglobosatb.png" tvg-name="Mais Globosat"  group-title="Entretenimento",Mais Globosat
+#EXTINF:-1, tvg-id="Mais na Tela" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/maisglobosatb.png" tvg-name="Mais Globosat"  group-title="Entretenimento",Mais na Tela
 http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT/download?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="Megapix" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/megapixb.png" tvg-name="Megapix"  group-title="Filme",Megapix
