@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<site xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<channels>
+		<channel site_id="LCH150" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116374_5B04666C991C8684.png" xmltv_id="A&amp;E">A&amp;E</channel>
+		<channel site_id="LCH4104" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/14/7146011_412356182209A40D.png" xmltv_id="Agro+">Agro+</channel>
+		<channel site_id="LCH15" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436112_D0CBFC36B7F84456.png" xmltv_id="Animal Planet">Animal Planet</channel>
+		<channel site_id="LCH16" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816810_396F78BCBCCE4F16.png" xmltv_id="ART">ART</channel>
+		<channel site_id="LCH2792" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431529_D57A32BFCB51A5BC.png" xmltv_id="Arte 1">Arte 1</channel>
+		<channel site_id="LCH18" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438810_4CC7D0AB1517EC4C.png" xmltv_id="AXN">AXN</channel>
+		<channel site_id="LCH25" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816868_12CB1FFEB4A061BC.png" xmltv_id="Band">Band</channel>
+		<channel site_id="LCH2085" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431883_179B0FA46D95AAB1.png" xmltv_id="Band News">Band News</channel>
+		<channel site_id="LCH27" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3435714_51393D8A4D9B7892.png" xmltv_id="Band Sports">Band Sports</channel>
+		<channel site_id="LCH2028" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3342113_2D2748F1A776CD89.png" xmltv_id="BBB Mosaico">BBB Mosaico</channel>
+		<channel site_id="LCH2023" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116761_8F22668B29B96DDF.png" xmltv_id="BBB1">BBB1</channel>
+		<channel site_id="LCH2025" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116766_820228FD0BFF595F.png" xmltv_id="BBB2">BBB2</channel>
+		<channel site_id="LCH20" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732307_E9DF824E699EF9D0.png" xmltv_id="BBC World">BBC World</channel>
+		<channel site_id="LCH22" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439243_AF86096B62CAAF7B.png" xmltv_id="Biography Channel">Biography Channel</channel>
+		<channel site_id="LCH185" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437557_4DCFE01E9093366D.png" xmltv_id="BIS">BIS</channel>
+		<channel site_id="LCH2442" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116398_6AF43CFC889A7F62.png" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+		<channel site_id="LCH24" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437751_B83A71FAF5BFBA93.png" xmltv_id="Boomerang">Boomerang</channel>
+		<channel site_id="LCH31" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438984_248E8BFFC8E108B6.png" xmltv_id="Canal Brasil">Canal Brasil</channel>
+		<channel site_id="LCH192" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/23/3233110_C15E72BBCC14C557.png" xmltv_id="Canção Nova">Canção Nova</channel>
+		<channel site_id="LCH30" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431909_742685EEE4147A92.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+		<channel site_id="LCH34" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/21/3219580_C849DD90EAE4B975.png" xmltv_id="Chef TV">Chef TV</channel>
+		<channel site_id="LCH77" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438972_173583054FA56225.png" xmltv_id="Cinemax">Cinemax</channel>
+		<channel site_id="LCH2191" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437804_16C0723F3A9626A7.png" xmltv_id="Clima Tempo">Clima Tempo</channel>
+		<channel site_id="LCH4068" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6711228_154BC2F6F4BAB060.png" xmltv_id="CNN Brasil">CNN Brasil</channel>
+		<channel site_id="LCH35" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432908_C006545036377813.png" xmltv_id="CNN Internacional">CNN Internacional</channel>
+		<channel site_id="LCH194" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433040_302C41A32BEAC9B2.png" xmltv_id="Combate">Combate</channel>
+		<channel site_id="LCH187" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438974_776C4588E92413A7.png" xmltv_id="Comedy Central">Comedy Central</channel>
+		<channel site_id="LCH38" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433094_A7FC496C99C891D3.png" xmltv_id="TV Cultura">TV Cultura</channel>
+		<channel site_id="LCH183" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116411_E5E02D2432750942.png" xmltv_id="Curta!">Curta!</channel>
+		<channel site_id="LCH44" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439061_4BD3C0548FAC3757.png" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+		<channel site_id="LCH769" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/19/6199854_48DD635CA70680D9.png" xmltv_id="Discovery Channel">Discovery Channel</channel>
+		<channel site_id="LCH771" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3117298_576AD5EA0FC8CAD2.png" xmltv_id="Discovery Home &amp; Health">Discovery Home &amp; Health</channel>
+		<channel site_id="LCH40" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437643_9733EA0EC176E14D.png" xmltv_id="Discovery Kids">Discovery Kids</channel>
+		<channel site_id="LCH198" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437813_1E3760E75804B19C.png" xmltv_id="Discovery Science">Discovery Science</channel>
+		<channel site_id="LCH39" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116418_973D80529B29DB21.png" xmltv_id="Discovery Theater">Discovery Theater</channel>
+		<channel site_id="LCH199" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437809_3C1AFDF172508F60.png" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+		<channel site_id="LCH1242" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116424_08201B8544EA5CC4.png" xmltv_id="Discovery World">Discovery World</channel>
+		<channel site_id="LCH43" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437756_513822364D347C92.png" xmltv_id="Disney Channel">Disney Channel</channel>
+		<channel site_id="LCH2088" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114974_048044E5C9A0A982.png" xmltv_id="Disney Júnior">Disney Júnior</channel>
+		<channel site_id="LCH2072" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163503_FB86B3215C4672FD.png" xmltv_id="Disney XD">Disney XD</channel>
+		<channel site_id="LCH3811" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/17/4178320_A88A3F3A53F33754.png" xmltv_id="Dog TV">Dog TV</channel>
+		<channel site_id="LCH2071" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3118494_FF63BA66B78B4311.png" xmltv_id="DW">DW</channel>
+		<channel site_id="LCH2073" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116426_512F139F08782B06.png" xmltv_id="E!">E!</channel>
+		<channel site_id="LCH47" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431918_3E7A0E66E40A8208.png" xmltv_id="ESPN Brasil">ESPN Brasil</channel>
+		<channel site_id="LCH3545" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/69/3694072_BA798ECC508B1183.png" xmltv_id="ESPN Extra">ESPN Extra</channel>
+		<channel site_id="LCH464" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431974_F508BF8EBBB55C6B.png" xmltv_id="ESPN">ESPN</channel>
+		<channel site_id="LCH50" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431979_F1511718A8A33E49.png" xmltv_id="ESPN International">ESPN International</channel>
+		<channel site_id="LCH444" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/94/3941577_3A87A0F15669B4B8.png" xmltv_id="ESPN2">ESPN2</channel>
+		<channel site_id="LCH51" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/72/3729413_AEF3A7538A89446F.png" xmltv_id="Eurochannel">Eurochannel</channel>
+		<channel site_id="LCH2079" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116435_1504DE870D3E1798.png" xmltv_id="FashionTV">FashionTV</channel>
+		<channel site_id="LCH3379" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/68/3684240_E7BC0F44D94CEE9A.png" xmltv_id="FishTV">FishTV</channel>
+		<channel site_id="LCH3874" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/22/4222613_8046E28EEC62E89A.png" xmltv_id="Food Network">Food Network</channel>
+		<channel site_id="LCH2074" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437803_4E34F359429AB916.png" xmltv_id="Fox News">Fox News</channel>
+		<channel site_id="LCH145" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816880_BF8D03F9AD754540.png" xmltv_id="Fox Sports">Fox Sports</channel>
+		<channel site_id="LCH856" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816879_015AC39801979F00.png" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
+		<channel site_id="LCH2889" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114906_E747F40C0ECFB560.png" xmltv_id="Futura">Futura</channel>
+		<channel site_id="LCH33" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816883_606509969C2D914B.png" xmltv_id="FX">FX</channel>
+		<channel site_id="LCH854" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116447_ADADB5E7F9638850.png" xmltv_id="FX HD">FX HD</channel>
+		<channel site_id="LCH55" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437525_4F6372EAF76961E0.png" xmltv_id="TV Gazeta">TV Gazeta</channel>
+		<channel site_id="LCH57" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3195749_136A2C542B14775F.png" xmltv_id="Globo">Globo</channel>
+		<channel site_id="LCH58" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437596_2FE185232C41C350.png" xmltv_id="GloboNews">GloboNews</channel>
+		<channel site_id="LCH146" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437689_85C979EB640F085D.png" xmltv_id="Gloob">Gloob</channel>
+		<channel site_id="LCH3872" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/20/4207429_1EE26F2DD692BAF2.png" xmltv_id="Gloobinho">Gloobinho</channel>
+		<channel site_id="LCH59" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812670_3FD4E5B6D6DA06FB.png" xmltv_id="GNT">GNT</channel>
+		<channel site_id="LCH60" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478440_E3825F81430013C6.png" xmltv_id="Gospel">Gospel</channel>
+		<channel site_id="LCH64" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438995_7EDFC0CCCC9609D1.png" xmltv_id="HBO">HBO</channel>
+		<channel site_id="LCH459" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116449_FA01B469D0D9F34E.png" xmltv_id="HBO 2">HBO 2</channel>
+		<channel site_id="LCH62" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3738363_EEC6A30C2B0FFDB1.png" xmltv_id="HBO E*">HBO E*</channel>
+		<channel site_id="LCH66" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439020_42F4BDC8259E7BA9.png" xmltv_id="HBO Family">HBO Family</channel>
+		<channel site_id="LCH85" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439034_2024C7313CC63B97.png" xmltv_id="HBO Mundi">HBO Mundi</channel>
+		<channel site_id="LCH69" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/94/4943007_1A063ACED96DB86E.PNG" xmltv_id="HBO Plus">HBO Plus</channel>
+		<channel site_id="LCH159" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439026_EA824A627FBD4D9C.png" xmltv_id="HBO Pop">HBO Pop</channel>
+		<channel site_id="LCH461" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163539_3A523BE1CBEE67AF.png" xmltv_id="HBO Signature">HBO Signature</channel>
+		<channel site_id="LCH72" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439038_41820C6C429D272E.png" xmltv_id="HBO Xtreme">HBO Xtreme</channel>
+		<channel site_id="LCH3960" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/98/4982782_2C3F0CE8D1052BD8.png" xmltv_id="HGTV">HGTV</channel>
+		<channel site_id="LCH2450" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/29/4291942_733FB3D391F2B520.png" xmltv_id="History 2">History 2</channel>
+		<channel site_id="LCH67" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433038_12CF9036E13EE3F3.png" xmltv_id="History">History</channel>
+		<channel site_id="LCH71" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7520985_635B9EF42732ED82.png" xmltv_id="Investigação Discovery">Investigação Discovery</channel>
+		<channel site_id="LCH465" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437886_6703D2DD17D2C65D.png" xmltv_id="Lifetime">Lifetime</channel>
+		<channel site_id="LCH471" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478442_410BA8F2959C4F79.png" xmltv_id="Loading">Loading</channel>
+		<channel site_id="LCH184" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437639_91082274D3F572EE.png" xmltv_id="Mais na Tela">Mais na Tela</channel>
+		<channel site_id="LCH75" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478453_26CB20D1952E006C.png" xmltv_id="Mega TV">Mega TV</channel>
+		<channel site_id="LCH80" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438982_086C00325873AF5F.png" xmltv_id="Megapix">Megapix</channel>
+		<channel site_id="LCH463" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432710_14CCE58065AE5AC9.png" xmltv_id="MTV">MTV</channel>
+		<channel site_id="LCH4112" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/34/7348600_06B7162A91CD321A.png" xmltv_id="MTV Live">MTV Live</channel>
+		<channel site_id="LCH82" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437623_BD4F848678FCA7C1.png" xmltv_id="Multishow">Multishow</channel>
+		<channel site_id="LCH5480" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8378154_80FB4045C502B668.png" xmltv_id="Music Box Brazil">Music Box Brazil</channel>
+		<channel site_id="LCH3746" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/97/3979850_FAC67DC39152847B.png" xmltv_id="National Geographic Kids">National Geographic Kids</channel>
+		<channel site_id="LCH110" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436115_C8CC93D462EA3BD0.png" xmltv_id="National Geographic">National Geographic</channel>
+		<channel site_id="LCH88" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/94/3941530_D915F7F8DF4D19BF.png" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+		<channel site_id="LCH3100" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/83/3832405_D8F92C725FF9B3B5.png" xmltv_id="NGT">NGT</channel>
+		<channel site_id="LCH3650" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816731_45B1BFA1F1025883.png" xmltv_id="NHK World Japan">NHK World Japan</channel>
+		<channel site_id="LCH948" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436105_AA00A32D72CC0822.png" xmltv_id="Nick Jr">Nick Jr</channel>
+		<channel site_id="LCH90" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431898_61381B69592F805E.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+		<channel site_id="LCH186" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437576_F9C3630D160ED304.png" xmltv_id="OFF">OFF</channel>
+		<channel site_id="LCH946" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/42/3429963_FA1818F411288AC2.png" xmltv_id="Paramount Channel">Paramount Channel</channel>
+		<channel site_id="LCH2716" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/25/3250065_C4C5D6BB6C9CEAEF.png" xmltv_id="Polishop">Polishop</channel>
+		<channel site_id="LCH6" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436116_4AF7AF8215EFF0E0.png" xmltv_id="Premiere 2">Premiere 2</channel>
+		<channel site_id="LCH888" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436123_BAEB92AD4732EE79.png" xmltv_id="Premiere 3">Premiere 3</channel>
+		<channel site_id="LCH8" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436125_F7845ED2695AF310.png" xmltv_id="Premiere 4">Premiere 4</channel>
+		<channel site_id="LCH9" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732284_776CF2A76DFF7F93.png" xmltv_id="Premiere 5">Premiere 5</channel>
+		<channel site_id="LCH10" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439081_D738B797AB6A8BE2.png" xmltv_id="Premiere 6">Premiere 6</channel>
+		<channel site_id="LCH2053" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439089_FFA949F5AC146051.png" xmltv_id="Premiere 7">Premiere 7</channel>
+		<channel site_id="LCH2054" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439097_5D8587FEE59A3BE3.png" xmltv_id="Premiere 8">Premiere 8</channel>
+		<channel site_id="LCH887" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436124_2DBEF0198CE47C68.png" xmltv_id="Premiere Clubes">Premiere Clubes</channel>
+		<channel site_id="LCH2165" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438818_519E3BF7065DC370.png" xmltv_id="Prime Box Brazil">Prime Box Brazil</channel>
+		<channel site_id="LCH92" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439055_F61320C4F3DB3ED7.png" xmltv_id="RAI">RAI</channel>
+		<channel site_id="LCH191" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163575_A424E2A24860A027.png" xmltv_id="RBI">RBI</channel>
+		<channel site_id="LCH94" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437298_63A9E28CEB357A70.png" xmltv_id="Record TV">Record TV</channel>
+		<channel site_id="LCH2091" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116736_5C2D5C92CEE5D9CD.png" xmltv_id="Record News">Record News</channel>
+		<channel site_id="LCH28" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/78/3780367_B9CD7EF8FDFFC71E.png" xmltv_id="REDE 21">REDE 21</channel>
+		<channel site_id="LCH4050" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6484024_27835C7981400442.png" xmltv_id="Rede Brasil">Rede Brasil</channel>
+		<channel site_id="LCH3101" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/83/3832406_972879AD77DB499F.png" xmltv_id="Rede Família">Rede Família</channel>
+		<channel site_id="LCH3401" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/48/3483804_CCD8C63974D8D7DC.png" xmltv_id="Rede Século 21">Rede Século 21</channel>
+		<channel site_id="LCH920" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431913_1B787CEEE220418C.png" xmltv_id="Rede Século 22">Rede Século 22</channel>
+		<channel site_id="LCH133" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/23/3233109_C42C521D8E25DE99.png" xmltv_id="Rede Vida">Rede Vida</channel>
+		<channel site_id="LCH100" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732267_F7B181A9A3F08427.png" xmltv_id="Rede TV!">Rede TV!</channel>
+		<channel site_id="LCH1358" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869224_32F308C2135BF0CD.png" xmltv_id="Santa Cecília TV">Santa Cecília TV</channel>
+		<channel site_id="LCH101" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3435715_5E6B1F7F237CDA1C.png" xmltv_id="SBT">SBT</channel>
+		<channel site_id="LCH442" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732304_377C6656E1154DE5.png" xmltv_id="Sex Privê">Sex Privê</channel>
+		<channel site_id="LCH2042" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439065_868A80678746D5FD.png" xmltv_id="SIC Internacional">SIC Internacional</channel>
+		<channel site_id="LCH103" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433076_39127EDB85C2A95D.png" xmltv_id="Sony Channel">Sony Channel</channel>
+		<channel site_id="LCH107" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432896_620191891D6F2567.png" xmltv_id="Space">Space</channel>
+		<channel site_id="LCH109" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437586_C8AF889FB8170E95.png" xmltv_id="SporTV">SporTV</channel>
+		<channel site_id="LCH217" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114952_FA53D356CA98A695.png" xmltv_id="SporTV 2">SporTV 2</channel>
+		<channel site_id="LCH1210" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114946_14645C44F632829D.png" xmltv_id="SporTV 3">SporTV 3</channel>
+		<channel site_id="LCH54" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8375881_6BDA0AFF873022E4.png" xmltv_id="Star Channel">Star Channel</channel>
+		<channel site_id="LCH2075" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8375883_AE1B9EEBF7242BA0.png" xmltv_id="Star Hits 1">Star Hits 1</channel>
+		<channel site_id="LCH2460" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8375885_A3FF04DF21C91544.png" xmltv_id="Star Hits 2">Star Hits 2</channel>
+		<channel site_id="LCH2200" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8375892_F843025DE3F71CFF.png" xmltv_id="Star Life">Star Life</channel>
+		<channel site_id="LCH148" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3118503_71340790EC780220.png" xmltv_id="Studio Universal">Studio Universal</channel>
+		<channel site_id="LCH160" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3472932_331CC3D7832590C5.png" xmltv_id="Syfy">Syfy</channel>
+		<channel site_id="LCH654" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438802_36258FBFB630632A.png" xmltv_id="TBS">TBS</channel>
+		<channel site_id="LCH120" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433083_FB876F47DBAD1E1C.png" xmltv_id="TCM">TCM</channel>
+		<channel site_id="LCH114" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/17/3174123_52263D107BCA368C.png" xmltv_id="Telecine Action">Telecine Action</channel>
+		<channel site_id="LCH117" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3190493_B2586D159560B26B.png" xmltv_id="Telecine Cult">Telecine Cult</channel>
+		<channel site_id="LCH118" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/17/3174124_CE0B71166E65CBF2.png" xmltv_id="Telecine Fun">Telecine Fun</channel>
+		<channel site_id="LCH116" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/17/3174125_A130D3265804A5CE.png" xmltv_id="Telecine Pipoca">Telecine Pipoca</channel>
+		<channel site_id="LCH113" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439238_A181342B26A81EB0.png" xmltv_id="Telecine Premium">Telecine Premium</channel>
+		<channel site_id="LCH115" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439242_12A19E753ADA5B7F.png" xmltv_id="Telecine Touch">Telecine Touch</channel>
+		<channel site_id="LCH2173" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116753_C7527B78FF1A6CF2.png" xmltv_id="Telefe">Telefe</channel>
+		<channel site_id="LCH1252" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116395_40D20FD85676D010.png" xmltv_id="TLC">TLC</channel>
+		<channel site_id="LCH127" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432720_EE2D0C71C9938DA4.png" xmltv_id="TNT">TNT</channel>
+		<channel site_id="LCH2101" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432725_4F6ECC911DADC6EF.png" xmltv_id="TNT Séries">TNT Séries</channel>
+		<channel site_id="LCH208" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437703_B7FE7B5401939ADC.png" xmltv_id="Tooncast">Tooncast</channel>
+		<channel site_id="LCH4103" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/29/7299477_EC23678702C7A351.png" xmltv_id="Trace Brazuca">Trace Brazuca</channel>
+		<channel site_id="LCH2044" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437876_150DF8E189BD6314.png" xmltv_id="Travel Box Brazil">Travel Box Brazil</channel>
+		<channel site_id="LCH129" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433087_1796BFF721B6F5AF.png" xmltv_id="truTV">truTV</channel>
+		<channel site_id="LCH2817" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/83/3832474_6AA4EB6B218227A9.png" xmltv_id="TV 100% Vida Santos">TV 100% Vida Santos</channel>
+		<channel site_id="LCH32" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478445_07063DF098753756.png" xmltv_id="TV Aberta">TV Aberta</channel>
+		<channel site_id="LCH14" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/69/3694071_C04335A120BA64B8.png" xmltv_id="TV Aparecida">TV Aparecida</channel>
+		<channel site_id="LCH17" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478448_5B67A39A93423B6D.png" xmltv_id="TV Assembléia">TV Assembléia</channel>
+		<channel site_id="LCH2434" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/85/3856792_DD19859B58CBAFAD.png" xmltv_id="TV Ativa">TV Ativa</channel>
+		<channel site_id="LCH122" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163585_AE9232F5F231DECF.png" xmltv_id="TV Brasil">TV Brasil</channel>
+		<channel site_id="LCH86" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/98/4982783_B268B348E6EEDDC3.png" xmltv_id="TV Brasil 2">TV Brasil 2</channel>
+		<channel site_id="LCH29" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114277_E4691230419284B7.png" xmltv_id="TV Câmara">TV Câmara</channel>
+		<channel site_id="LCH930" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114780_BC3327E6071EE122.png" xmltv_id="TV Cultura">TV Cultura</channel>
+		<channel site_id="LCH48" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114778_DEBD312AD7B76341.png" xmltv_id="TV Escola">TV Escola</channel>
+		<channel site_id="LCH891" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114900_989122ED3BE71D02.png" xmltv_id="TV Gazeta">TV Gazeta</channel>
+		<channel site_id="LCH3550" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812401_4C58B170CE403362.png" xmltv_id="TV Integração">TV Integração</channel>
+		<channel site_id="LCH70" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114777_59A403FCB58D9EA4.png" xmltv_id="TV Justiça">TV Justiça</channel>
+		<channel site_id="LCH2092" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437692_905679B3B16F2F98.png" xmltv_id="TV Rá-Tim-Bum">TV Rá-Tim-Bum</channel>
+		<channel site_id="LCH102" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114776_A156992527475080.png" xmltv_id="TV Senado">TV Senado</channel>
+		<channel site_id="LCH2436" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/85/3856801_9A630BF0866A3E9B.png" xmltv_id="TV Sol">TV Sol</channel>
+		<channel site_id="LCH131" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439075_566A8F3226F51D02.png" xmltv_id="TV5MD">TV5MD</channel>
+		<channel site_id="LCH2104" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116390_D6D06CBDEA0E7393.png" xmltv_id="TV5Monde">TV5Monde</channel>
+		<channel site_id="LCH209" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431920_6110FE5EB89F3E75.png" xmltv_id="TVE">TVE</channel>
+		<channel site_id="LCH936" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/82/3828917_13736897C3A7EE56.png" xmltv_id="Universal Channel">Universal Channel</channel>
+		<channel site_id="LCH134" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431894_8439BA0FBD17BCE3.png" xmltv_id="VH1">VH1</channel>
+		<channel site_id="LCH156" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431880_F332A6102DD52B0B.png" xmltv_id="Viva">Viva</channel>
+		<channel site_id="LCH135" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431860_8286C5373AB3AE79.png" xmltv_id="Warner Channel">Warner Channel</channel>
+		<channel site_id="LCH3620" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/68/3684276_69E6A03BE5CCDF0A.png" xmltv_id="Woohoo">Woohoo</channel>
+	</channels>
+</site>
