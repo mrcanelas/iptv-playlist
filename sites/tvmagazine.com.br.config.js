@@ -14,6 +14,17 @@ module.exports = {
   site: 'tvmagazine.com.br',
   channels: 'tvmagazine.com.br.channels.xml',
   output: '.gh-pages/guide-tvmagazine.xml',
+  
+  request: {
+
+    method: 'GET',
+    headers: {
+      'User-Agent':
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71',
+    },
+    timeout: 50000
+
+  },
 
   url({ date, channel }) {
     const [slug, id] = channel.site_id.split('/');
