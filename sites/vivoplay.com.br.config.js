@@ -8,9 +8,8 @@ dayjs.extend(timezone);
 dayjs.extend(customParseFormat);
 
 const today = dayjs.utc().tz('America/Sao_Paulo').format('YYYY-MM-DD')
-const yesterday = dayjs(today).subtract(1, 'd').format('YYYY-MM-DD')
 const tomorrow = dayjs(today).add(2, 'd').format('YYYY-MM-DD')
-const starttime = dayjs(yesterday).unix()
+const starttime = dayjs(today).unix()
 const endtime = dayjs(tomorrow).unix()
 
 module.exports = {
