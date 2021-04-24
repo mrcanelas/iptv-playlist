@@ -42,11 +42,14 @@ module.exports = {
     if (!items.length) return programs
     
     items.forEach(item => {
+        const title = (item.Title.split(':')[1] != undefined) ? item.Title.split(':')[0] : item.Title
+        const category = (item.Title.split(':')[1] != undefined) ? item.Title.split(':')[1] : ''
         const start = dayjs.unix(item.Start)
         const stop = dayjs.unix(item.End)
         const icon = item.Images.VideoFrame[0].Url
         programs.push({
-          title: item.Title,
+          title,
+          category,
           description: item.Description,
           start: start.toString(),
           stop: stop.toString(),
