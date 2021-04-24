@@ -54,7 +54,7 @@ http://lb.kstream.org/aovivo/HD_CINEMAX/video.m3u8?token=70a100758acb898fb823161
 #EXTINF:-1, tvg-id="CNN Brasil" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cnnbrasil.png" tvg-name="CNN Brasil"  group-title="Notícia",CNN Brasil
 http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-id="CNN International" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cnni.png" tvg-name="CNN International"  group-title="Notícia",CNN International
+#EXTINF:-1, tvg-id="CNN Internacional" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cnni.png" tvg-name="CNN Internacional"  group-title="Notícia",CNN Internacional
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Combate" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" tvg-name="Combate"  group-title="Esporte",Combate
@@ -68,9 +68,6 @@ http://lb.kstream.org/aovivo/HD_CURTA/video.m3u8?token=70a100758acb898fb8231619a
 
 #EXTINF:-1, tvg-id="https://www.tvmagazine.com.br/imagens/icones/600/discoverychannelb.png" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverychannelb.png" tvg-name="Discovery Channel"  group-title="Documentario",Discovery Channel
 http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=70a100758acb898fb8231619aeb553c1
-
-#EXTINF:-1, tvg-id="Discovery Civilization" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverycivilizationb.png" tvg-name="Discovery Civilization"  group-title="Documentario",Discovery Civilization
-http://123.456.789
 
 #EXTINF:-1, tvg-id="Discovery Home & Health" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryhomeandhealth.png" tvg-name="Discovery Home & Health"  group-title="Documentario",Discovery Home & Health
 http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=70a100758acb898fb8231619aeb553c1
@@ -90,7 +87,7 @@ http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD/video.m3u8?token=70a100758acb898
 #EXTINF:-1, tvg-id="Disney Channel" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/disney.png" tvg-name="Disney Channel"  group-title="Infantil",Disney Channel
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
-#EXTINF:-1, tvg-id="Disney Junior" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/disneyjuniorb.png" tvg-name="Disney Junior"  group-title="Infantil",Disney Junior
+#EXTINF:-1, tvg-id="Disney Júnior" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/disneyjuniorb.png" tvg-name="Disney Júnior"  group-title="Infantil",Disney Júnior
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 
 #EXTINF:-1, tvg-id="Disney XD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/disneyxd.png" tvg-name="Disney XD"  group-title="Infantil",Disney XD
@@ -102,7 +99,7 @@ http://lb.kstream.org/aovivo/HD_E/video.m3u8?token=70a100758acb898fb8231619aeb55
 #EXTINF:-1, tvg-id="ESPN" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn.png" tvg-name="ESPN"  group-title="Esporte",ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
-#EXTINF:-1, tvg-id="ESPN 2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn2.png" tvg-name="ESPN 2"  group-title="Esporte",ESPN 2
+#EXTINF:-1, tvg-id="ESPN2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn2.png" tvg-name="ESPN2"  group-title="Esporte",ESPN2
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 
 #EXTINF:-1, tvg-id="ESPN Brasil" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espnbrasilb.png" tvg-name="ESPN Brasil"  group-title="Esporte",ESPN Brasil
@@ -189,7 +186,7 @@ http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=70a100758acb898fb82316
 #EXTINF:-1, tvg-id="Loading" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/loadingb.png" tvg-name="Loading"  group-title="Entretenimento",Loading
 http://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 
-#EXTINF:-1, tvg-id="Mais na Tela" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/maisglobosatb.png" tvg-name="Mais Globosat"  group-title="Entretenimento",Mais na Tela
+#EXTINF:-1, tvg-id="Mais na Tela" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/maisglobosatb.png" tvg-name="Mais na Tela"  group-title="Entretenimento",Mais na Tela
 http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT/download?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="Megapix" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/megapixb.png" tvg-name="Megapix"  group-title="Filme",Megapix
@@ -291,7 +288,7 @@ http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=70a100758acb898fb82316
 #EXTINF:-1, tvg-id="Star Channel" tvg-logo="Logo N/A" tvg-name="Star Channel"  group-title="Filme",Star Channel
 http://lb.kstream.org/aovivo/HD_FOX/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
-#EXTINF:-1, tvg-id="Star Hits" tvg-logo="Logo N/A" tvg-name="Star Hits"  group-title="Filme",Star Hits
+#EXTINF:-1, tvg-id="Star Hits 1" tvg-logo="Logo N/A" tvg-name="Star Hits 1"  group-title="Filme",Star Hits 1
 http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="Star Hits 2" tvg-logo="Logo N/A" tvg-name="Star Hits 2"  group-title="Filme",Star Hits 2
