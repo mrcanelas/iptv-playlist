@@ -16,7 +16,7 @@ module.exports = {
   lang: 'pt',
   site: 'vivoplay.com.br',
   channels: 'vivoplay.com.br.channels.xml',
-  output: '.gh-pages/vivoplay.com.br.xml',
+  output: '.gh-pages/guide.xml',
 
   request: {
 
