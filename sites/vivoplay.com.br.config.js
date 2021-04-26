@@ -44,15 +44,15 @@ module.exports = {
     items.forEach(item => {
         const title = (item.Title.split(':')[1] != undefined) ? item.Title.split(':')[0] : item.Title
         const category = (item.Title.split(':')[1] != undefined) ? item.Title.split(':')[1] : ''
-        const start = dayjs.unix(item.Start)
-        const stop = dayjs.unix(item.End)
+        const start = (dayjs.unix(item.Start).get('h') < 3) ? dayjs.unix(item.Start).add(1, 'd') : dayjs.unix(item.Start)
+        const stop = (dayjs.unix(item.End).get('h') < 3) ? dayjs.unix(item.End).add(1, 'd') : dayjs.unix(item.End)
         const icon = item.Images.VideoFrame[0].Url
         programs.push({
           title,
           category,
           description: item.Description,
-          start: start.toString(),
-          stop: stop.toString(),
+          start: start,
+          stop: stop,
           icon
         })
       })
