@@ -46,7 +46,7 @@ http://lb.kstream.org/aovivo/HD_CHEFTV/download?token=70a100758acb898fb8231619ae
 http://lb.kstream.org/aovivo/HD_CINEMAX/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="CNN Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6711228_154BC2F6F4BAB060.png" tvg-name="CNN Brasil"  group-title="Notícia",CNN Brasil
-http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8
+http://lb.kstream.org/aovivo/HD_CNN_BRASIL/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="CNN Internacional" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432908_C006545036377813.png" tvg-name="CNN Internacional"  group-title="Notícia",CNN Internacional
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -106,7 +106,7 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 https://523.live.ch.cabo.tv.br/dvttn/523/1280x720_4500.m3u8
 
 #EXTINF:-1, tvg-id="FishTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/68/3684240_E7BC0F44D94CEE9A.png" tvg-name="FishTV"  group-title="Entretenimento",FishTV
-https://207.live.ch.cabo.tv.br/dvttn/207/1280x720_4500.m3u8
+http://lb.kstream.org/aovivo/HD_FISH_TV/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="Food Network" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/22/4222613_8046E28EEC62E89A.png" tvg-name="Food Network"  group-title="Entretenimento",Food Network
 http://lb.kstream.org/aovivo/HD_FOOD_NETWORK/video.m3u8?token=70a100758acb898fb8231619aeb553c1
@@ -187,7 +187,7 @@ http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT/download?token=70a100758acb898fb82
 http://lb.kstream.org/aovivo/HD_MEGAPIX/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="MTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163549_67C6B5E33A474731.png" tvg-name="MTV"  group-title="Entretenimento",MTV
-https://cdn-1.nxplay.com.br/MTV_BR_NX/tracks-v1a1a2l2/mono.m3u8
+http://lb.kstream.org/aovivo/HD_MTV/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="MTV Live" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/34/7348600_06B7162A91CD321A.png" tvg-name="MTV Live"  group-title="Entretenimento",MTV Live
 http://187.32.214.221:8004/play/a0dr/index.m3u8
@@ -196,7 +196,7 @@ http://187.32.214.221:8004/play/a0dr/index.m3u8
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Music Box Brazil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8378154_80FB4045C502B668.png" tvg-name="Music Box Brazil"  group-title="Entretenimento",Music Box Brazil
-https://862.live.ch.cabo.tv.br/dvttn/862/1280x720_4500.m3u8
+http://lb.kstream.org/aovivo/HD_MUSICBOX_BRAZIL/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="National Geographic" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/18/3183255_E4F1DF7C400C2F53.png" tvg-name="National Geographic"  group-title="Documentario",National Geographic
 http://lb.kstream.org/aovivo/HD_NAT_GEO/video.m3u8?token=70a100758acb898fb8231619aeb553c1
@@ -211,16 +211,16 @@ http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD/download?token=70a100758acb898fb823
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Nick Jr" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436105_AA00A32D72CC0822.png" tvg-name="Nick Jr"  group-title="Infantil",Nick Jr
-https://cdn-1.nxplay.com.br/NICK_JR_BR_HD_NXPLAY_01/tracks-v1a1/mono.m3u8
+http://lb.kstream.org/aovivo/HD_NICK_JR/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="Nickelodeon" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431898_61381B69592F805E.png" tvg-name="Nickelodeon"  group-title="Infantil",Nickelodeon
-https://cdn-1.nxplay.com.br/NICK_BR_HD_NX/tracks-v1a1/mono.m3u8
+http://lb.kstream.org/aovivo/HD_NICKELODEON/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="OFF" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437576_F9C3630D160ED304.png" tvg-name="OFF"  group-title="Entretenimento",OFF
 http://lb.kstream.org/aovivo/HD_OFF/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="Paramount Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/42/3429963_FA1818F411288AC2.png" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
-http://cdn-1.nxplay.com.br/PCBR_HD_NXPLAY_1/tracks-v1a1/mono.m3u8
+http://lb.kstream.org/aovivo/HD_PARAMOUNT/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="Premiere 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436124_2DBEF0198CE47C68.png" tvg-name="Premiere 2"  group-title="Esporte",Premiere 2
 http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=70a100758acb898fb8231619aeb553c1
@@ -241,7 +241,7 @@ http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=70a100758acb898fb8231619a
 http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="Prime Box Brazil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438818_519E3BF7065DC370.png" tvg-name="Prime Box Brazil"  group-title="Entretenimento",Prime Box Brazil
-https://830.live.ch.cabo.tv.br/dvttn/830/1280x720_4500.m3u8
+http://lb.kstream.org/aovivo/HD_PRIMEBOX/video.m3u8?token=70a100758acb898fb8231619aeb553c1
 
 #EXTINF:-1, tvg-id="RAI" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439055_F61320C4F3DB3ED7.png" tvg-name="RAI"  group-title="Notícia",RAI
 http://ott-cdn.ucom.am:80/s29/04.m3u8
@@ -377,3 +377,4 @@ http://lb.kstream.org/aovivo/HD_WARNER/video.m3u8?token=70a100758acb898fb8231619
 
 #EXTINF:-1, tvg-id="WooHoo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431858_40D4876E368BAABC.png" tvg-name="WooHoo"  group-title="Variedades",WooHoo
 http://lb.kstream.org/aovivo/HD_WOOHOO/video.m3u8?token=70a100758acb898fb8231619aeb553c1
+
