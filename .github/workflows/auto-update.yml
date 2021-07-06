@@ -12,8 +12,10 @@ jobs:
         uses: actions/checkout@v2.3.1
       - name: Install Dependencies
         run: npm install
+      - name: Run Playlist Builder
+        run: npm builder
       - name: Run EPG Grabber
-        run: npx epg-grabber --config=sites/vivoplay.com.br.config.js
+        run: npm grabber
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.0
         with:

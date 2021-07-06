@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx epg-grabber --config=sites/mi.tv.config.js"
+    "builder": "node index.js",
+    "grabber": "npx epg-grabber --config=sites/mi.tv.config.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,10 @@
   },
   "homepage": "https://github.com/mrcanelas/iptv-playlist#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "dayjs": "^1.10.4",
-    "epg-grabber": "^0.6.5"
+    "epg-grabber": "^0.6.5",
+    "fs-extra": "^10.0.0",
+    "iptv-playlist-parser": "^0.8.0"
   }
 }
