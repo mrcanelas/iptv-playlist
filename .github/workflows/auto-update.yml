@@ -5,7 +5,7 @@ on:
     - cron: '0 3 * * *'
 jobs:
 
-  vivoplay:
+  iptv-playlist:
       runs-on: ubuntu-latest
       steps:
       - name: Checkout
@@ -15,7 +15,7 @@ jobs:
       - name: Run Playlist Builder
         run: node index.js
       - name: Run EPG Grabber
-        run: npx epg-grabber --config=sites/mi.tv.config.js
+        run: npx epg-grabber --config=sites/vivoplay.com.br.config.js
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
