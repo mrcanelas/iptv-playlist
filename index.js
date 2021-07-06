@@ -33,7 +33,7 @@ async function genPlaylist() {
       itemHeader += `\n${url[0] !== undefined ? url[0].Link : ''}`
       playlistFileText += `\n${itemHeader}`
   });
-  fs.outputFile("./gh-page/playlist.m3u", playlistFileText, (err) => {
+  fs.outputFile("./.gh-pages/playlist.m3u", playlistFileText, (err) => {
     console.log("Sucess");
   });
 }

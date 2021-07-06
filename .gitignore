@@ -74,4 +74,4 @@ typings/
 
 # FuseBox cache
 .fusebox/
-lib/novo.m3u
+.gh-pages
