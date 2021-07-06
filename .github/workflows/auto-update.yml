@@ -13,9 +13,9 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Run Playlist Builder
-        run: npm builder
+        run: node index.js
       - name: Run EPG Grabber
-        run: npm grabber
+        run: npx epg-grabber --config=sites/mi.tv.config.js
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
