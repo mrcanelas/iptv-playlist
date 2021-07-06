@@ -20,7 +20,7 @@ async function genPlaylist() {
 
   result.items.map((el) => {
     const url = resp.data.filter(
-      (item) => item.Channel.includes(el.name) && item.Status == "Online"
+      (item) => item.Channel.toLowerCase().includes(el.name.toLowerCase()) && item.Status == "Online"
     );
     let itemHeader = '#EXTINF:-1,'
 
