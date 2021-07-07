@@ -1,6 +1,7 @@
 const axios = require("axios");
 const fs = require("fs-extra");
-const parser = require("iptv-playlist-parser");
+const convert = require('xml-js')
+const channelsFile = './sites/vivoplay.com.br.channels.xml'
 const endPoint = "https://mrcanelas.github.io/iptvcat-scraper/brazil.json";
 let playlistFileText = '#EXTM3U'
 
@@ -13,23 +14,30 @@ const urlIgnore = [
   "pascaltv.site:8080",
 ];
 
+function genName(value) {
+  return value
+  .toLowerCase()
+  .replace(/ /g, '')
+}
+
 async function genPlaylist() {
   const resp = await axios.get(endPoint);
-  const playlist = fs.readFileSync("./example.m3u", { encoding: "utf-8" });
-  const result = parser.parse(playlist);
+  const xml = fs.readFileSync(channelsFile, { encoding: "utf-8" });
+  const result = convert.xml2js(xml)
+  const site = result.elements.find(el => el.name === 'site')
+  const channels = site.elements.find(el => el.name === 'channels')
 
-  result.items.map((el) => {
+  channels.elements.map(el => {
     const url = resp.data.filter(
-      (item) => item.Channel.toLowerCase().includes(el.name.toLowerCase()) && item.Status == "Online"
+      (item) => genName(item.Channel).includes(genName(el.attributes.xmltv_id)) && item.Status == "Online"
     );
     let itemHeader = '#EXTINF:-1,'
 
-      if (el.tvg.id) itemHeader += ` tvg-id="${el.tvg.id}"`
-      if (el.tvg.logo) itemHeader += ` tvg-logo="${el.tvg.logo}"`
-      if (el.tvg.name) itemHeader += ` tvg-name="${el.tvg.name}"`
-      if (el.group.title) itemHeader += ` group-title="${el.group.title}"`
+      if (el.attributes.xmltv_id) itemHeader += ` tvg-id="${el.attributes.xmltv_id}"`
+      if (el.attributes.logo) itemHeader += ` tvg-logo="${el.attributes.logo}"`
+      if (el.attributes.xmltv_id) itemHeader += ` tvg-name="${el.elements[0].text}"`
 
-      itemHeader += `,${el.name}`
+      itemHeader += `,${el.elements[0].text}`
       itemHeader += `\n${url[0] !== undefined ? url[0].Link : ''}`
       playlistFileText += `\n${itemHeader}`
   });
