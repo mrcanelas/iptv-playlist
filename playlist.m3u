@@ -1,228 +1,228 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="A&E" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116374_5B04666C991C8684.png" tvg-name="A&E",A&E
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/40263?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682459.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Agro+" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/14/7146011_412356182209A40D.png" tvg-name="Agro+",Agro+
 
 #EXTINF:-1, tvg-id="Animal Planet" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436112_D0CBFC36B7F84456.png" tvg-name="Animal Planet",Animal Planet
-http://rv.flysat.live:80/307210013157/307210013157/82388?checkedby:iptvcat.com
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="ART" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816810_396F78BCBCCE4F16.png" tvg-name="ART",ART
-http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/111048?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQWiCVAu39OkfyIwhCmOgUZM/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Arte 1" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431529_D57A32BFCB51A5BC.png" tvg-name="Arte 1",Arte 1
-http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/111048?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQWiCVAu39OkfyIwhCmOgUZM/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="AXN" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438810_4CC7D0AB1517EC4C.png" tvg-name="AXN",AXN
-http://pascaltv.site:8080/F12611/b199b47b/8890?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682477.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Band" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816868_12CB1FFEB4A061BC.png" tvg-name="Band",Band
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQWzU5_pU5nsJf6j1EKB0C_n/ts?checkedby:iptvcat.com
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28932?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Band News" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431883_179B0FA46D95AAB1.png" tvg-name="Band News",Band News
-http://cdn.us21.live:80/mateus01/01mateus/133622?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUqvUl19Z8VkLWZBhpIG9tq/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Band Sports" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3435714_51393D8A4D9B7892.png" tvg-name="Band Sports",Band Sports
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36990?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUDH74oAvOwv_vVSrDg5mUN/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="BBB Mosaico" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3342113_2D2748F1A776CD89.png" tvg-name="BBB Mosaico",BBB Mosaico
 
 #EXTINF:-1, tvg-id="BBB1" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116761_8F22668B29B96DDF.png" tvg-name="BBB1",BBB1
 
 #EXTINF:-1, tvg-id="BBB2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116766_820228FD0BFF595F.png" tvg-name="BBB2",BBB2
-http://cdn.us21.live:80/mateus01/01mateus/147445?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682470.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="BBC World" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732307_E9DF824E699EF9D0.png" tvg-name="BBC World",BBC World
 
 #EXTINF:-1, tvg-id="Biography Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439243_AF86096B62CAAF7B.png" tvg-name="Biography Channel",Biography Channel
 
 #EXTINF:-1, tvg-id="BIS" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437557_4DCFE01E9093366D.png" tvg-name="BIS",BIS
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28858?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQWeARh3_Gdq46aj7nQEjr6o/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Bloomberg TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116398_6AF43CFC889A7F62.png" tvg-name="Bloomberg TV",Bloomberg TV
 
 #EXTINF:-1, tvg-id="Boomerang" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437751_B83A71FAF5BFBA93.png" tvg-name="Boomerang",Boomerang
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38390?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQXfXvWgAQ5IfhSwUDrnm9Ol/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Canal Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438984_248E8BFFC8E108B6.png" tvg-name="Canal Brasil",Canal Brasil
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUYHxP8v-pvu-QXlglll9gx/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Canção Nova" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/23/3233110_C15E72BBCC14C557.png" tvg-name="Canção Nova",Canção Nova
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQXcxLQWQqaZZy05ylE2Ir3o/ts?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQVgX8gJkJ8XfaS0XDZC9ajP/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Cartoon Network" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431909_742685EEE4147A92.png" tvg-name="Cartoon Network",Cartoon Network
-http://pascaltv.site:8080/F12611/b199b47b/8915?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38390?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Chef TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/21/3219580_C849DD90EAE4B975.png" tvg-name="Chef TV",Chef TV
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQWghjvnlKrMV8-6_hqWFTGc/ts?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQX96PbdKMACl6kcr0I-ZLZX/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Cinemax" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438972_173583054FA56225.png" tvg-name="Cinemax",Cinemax
-http://168.205.87.198:8555/live/elienecp/123456/28.ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50669?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Clima Tempo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437804_16C0723F3A9626A7.png" tvg-name="Clima Tempo",Clima Tempo
 
 #EXTINF:-1, tvg-id="CNN Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6711228_154BC2F6F4BAB060.png" tvg-name="CNN Brasil",CNN Brasil
-http://pascaltv.site:8080/F12611/b199b47b/148404?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/elienecp/123456/145.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="CNN Internacional" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432908_C006545036377813.png" tvg-name="CNN Internacional",CNN Internacional
 
 #EXTINF:-1, tvg-id="Combate" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433040_302C41A32BEAC9B2.png" tvg-name="Combate",Combate
-http://168.205.87.198:8555/live/elienecp/123456/29.ts?checkedby:iptvcat.com
+http://pascaltv.site:8080/F12611/b199b47b/7335?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Comedy Central" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438974_776C4588E92413A7.png" tvg-name="Comedy Central",Comedy Central
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/59748?checkedby:iptvcat.com
+http://pascaltv.site:8080/F12611/b199b47b/14553?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TV Cultura" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433094_A7FC496C99C891D3.png" tvg-name="TV Cultura",TV Cultura
-http://cdn.us21.live:80/mateus01/01mateus/162748?checkedby:iptvcat.com
+http://exchange.goodiptv.stream:13520/aydar4545/dv5FbdU91X/4442?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Curta!" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116411_E5E02D2432750942.png" tvg-name="Curta!",Curta!
-http://directtv1.xyz:80/Freddie/Freddie/167077?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQU-cbaXR3suVXCdE9avK_YO/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Deutsche Welle" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439061_4BD3C0548FAC3757.png" tvg-name="Deutsche Welle",Deutsche Welle
 
 #EXTINF:-1, tvg-id="Discovery Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/19/6199854_48DD635CA70680D9.png" tvg-name="Discovery Channel",Discovery Channel
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61961?checkedby:iptvcat.com
+http://rv.flysat.live:80/307210013157/307210013157/82338?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Discovery Home & Health" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3117298_576AD5EA0FC8CAD2.png" tvg-name="Discovery Home & Health",Discovery Home & Health
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36923?checkedby:iptvcat.com
+http://pascaltv.site:8080/F12611/b199b47b/8892?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Discovery Kids" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437643_9733EA0EC176E14D.png" tvg-name="Discovery Kids",Discovery Kids
-http://168.205.87.198:8555/live/elienecp/123456/33.ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36922?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Discovery Science" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437813_1E3760E75804B19C.png" tvg-name="Discovery Science",Discovery Science
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUdt4G2jAAyNHy4-d0fnxa-/ts?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQXAw8Ir2Vn0x7O3njSPLmjI/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Discovery Theater" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116418_973D80529B29DB21.png" tvg-name="Discovery Theater",Discovery Theater
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36984?checkedby:iptvcat.com
+http://rv.flysat.live:80/307210013157/307210013157/82339?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Discovery Turbo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437809_3C1AFDF172508F60.png" tvg-name="Discovery Turbo",Discovery Turbo
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQVSO3SAuI2MK0kU9RcYbVrk/ts?checkedby:iptvcat.com
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28855?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Discovery World" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116424_08201B8544EA5CC4.png" tvg-name="Discovery World",Discovery World
-http://exchange.goodiptv.stream:13520/aydar4545/dv5FbdU91X/4466?checkedby:iptvcat.com
+http://rv.flysat.live:80/307210013157/307210013157/82423?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Disney Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437756_513822364D347C92.png" tvg-name="Disney Channel",Disney Channel
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQXQdMsf6G7N7FhOJoBV33v8/ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50705?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Disney Júnior" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114974_048044E5C9A0A982.png" tvg-name="Disney Júnior",Disney Júnior
 
 #EXTINF:-1, tvg-id="Disney XD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163503_FB86B3215C4672FD.png" tvg-name="Disney XD",Disney XD
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQVNyjQpJv1_Dz9o9UYz6tNR/ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50714?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Dog TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/17/4178320_A88A3F3A53F33754.png" tvg-name="Dog TV",Dog TV
 
 #EXTINF:-1, tvg-id="DW" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3118494_FF63BA66B78B4311.png" tvg-name="DW",DW
 
 #EXTINF:-1, tvg-id="E!" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116426_512F139F08782B06.png" tvg-name="E!",E!
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUBlod2Pg0Dr8-x2RKIcRWF/ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38402?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="ESPN Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431918_3E7A0E66E40A8208.png" tvg-name="ESPN Brasil",ESPN Brasil
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41977?checkedby:iptvcat.com
+http://pascaltv.site:8080/F12611/b199b47b/8780?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="ESPN Extra" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/69/3694072_BA798ECC508B1183.png" tvg-name="ESPN Extra",ESPN Extra
-http://pascaltv.site:8080/F12611/b199b47b/8793?checkedby:iptvcat.com
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28814?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="ESPN" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431974_F508BF8EBBB55C6B.png" tvg-name="ESPN",ESPN
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUIcfgwppzH-1EfpAeayHpc/ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/59096?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="ESPN International" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431979_F1511718A8A33E49.png" tvg-name="ESPN International",ESPN International
 
 #EXTINF:-1, tvg-id="ESPN2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/94/3941577_3A87A0F15669B4B8.png" tvg-name="ESPN2",ESPN2
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUIcfgwppzH-1EfpAeayHpc/ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/59096?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Eurochannel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/72/3729413_AEF3A7538A89446F.png" tvg-name="Eurochannel",Eurochannel
 
 #EXTINF:-1, tvg-id="FashionTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116435_1504DE870D3E1798.png" tvg-name="FashionTV",FashionTV
-
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28903?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="FishTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/68/3684240_E7BC0F44D94CEE9A.png" tvg-name="FishTV",FishTV
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8?checkedby:iptvcat.com
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/8230?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Food Network" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/22/4222613_8046E28EEC62E89A.png" tvg-name="Food Network",Food Network
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQVe4Z9dPwyAPEgiKcwA2xL6/ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682674.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Fox News" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437803_4E34F359429AB916.png" tvg-name="Fox News",Fox News
 
 #EXTINF:-1, tvg-id="Fox Sports" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816880_BF8D03F9AD754540.png" tvg-name="Fox Sports",Fox Sports
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28903?checkedby:iptvcat.com
+http://rv.flysat.live:80/307210013157/307210013157/82354?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Fox Sports 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816879_015AC39801979F00.png" tvg-name="Fox Sports 2",Fox Sports 2
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682674.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/elienecp/123456/66.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Futura" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114906_E747F40C0ECFB560.png" tvg-name="Futura",Futura
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38380?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38401?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="FX" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816883_606509969C2D914B.png" tvg-name="FX",FX
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/56882?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQVe4Z9dPwyAPEgiKcwA2xL6/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="FX HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116447_ADADB5E7F9638850.png" tvg-name="FX HD",FX HD
-http://pascaltv.site:8080/F12611/b199b47b/8835?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUTOS_zg2bKdFh2bqQ2L9zR/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TV Gazeta" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437525_4F6372EAF76961E0.png" tvg-name="TV Gazeta",TV Gazeta
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/42963?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/42977?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Globo SP" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3195749_136A2C542B14775F.png" tvg-name="Globo",Globo
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/42976?checkedby:iptvcat.com
+http://rv.flysat.live:80/307210013157/307210013157/82440?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="GloboNews" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437596_2FE185232C41C350.png" tvg-name="GloboNews",GloboNews
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682707.ts?checkedby:iptvcat.com
+http://directtv1.xyz:80/Freddie/Freddie/167103?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Gloob" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437689_85C979EB640F085D.png" tvg-name="Gloob",Gloob
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQW88QMr7rQIA7pyqo0EFEMh/ts?checkedby:iptvcat.com
+http://pascaltv.site:8080/F12611/b199b47b/14605?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Gloobinho" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/20/4207429_1EE26F2DD692BAF2.png" tvg-name="Gloobinho",Gloobinho
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682745.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682751.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="GNT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812670_3FD4E5B6D6DA06FB.png" tvg-name="GNT",GNT
-http://directtv1.xyz:80/Freddie/Freddie/167105?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50775?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Gospel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478440_E3825F81430013C6.png" tvg-name="Gospel",Gospel
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQX3CV6qK7bjTUJCGc-8J4tb/ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682902.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="HBO" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438995_7EDFC0CCCC9609D1.png" tvg-name="HBO",HBO
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQWGB9QhsqdlvVgcC1-h9OBq/ts?checkedby:iptvcat.com
+http://rv.flysat.live:80/307210013157/307210013157/82410?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="HBO 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116449_FA01B469D0D9F34E.png" tvg-name="HBO 2",HBO 2
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQWGB9QhsqdlvVgcC1-h9OBq/ts?checkedby:iptvcat.com
+http://rv.flysat.live:80/307210013157/307210013157/82410?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="HBO E*" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3738363_EEC6A30C2B0FFDB1.png" tvg-name="HBO E*",HBO E*
 
 #EXTINF:-1, tvg-id="HBO Family" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439020_42F4BDC8259E7BA9.png" tvg-name="HBO Family",HBO Family
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUC2-lyq0Vb1RlQ1DhrXARZ/ts?checkedby:iptvcat.com
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/8215?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="HBO Mundi" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/56/6567646_E492630862D38530.png" tvg-name="HBO Mundi",HBO Mundi
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37075?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37076?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="HBO Plus" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/94/4943007_1A063ACED96DB86E.PNG" tvg-name="HBO Plus",HBO Plus
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50842?checkedby:iptvcat.com
+http://directtv1.xyz:80/Freddie/Freddie/167113?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="HBO Pop" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/56/6567647_1894F12940AE9C0B.png" tvg-name="HBO Pop",HBO Pop
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36962?checkedby:iptvcat.com
+http://directtv1.xyz:80/Freddie/Freddie/167112?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="HBO Signature" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163539_3A523BE1CBEE67AF.png" tvg-name="HBO Signature",HBO Signature
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50793?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41488?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="HBO Xtreme" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/56/6567650_E6C5AF690B81E082.png" tvg-name="HBO Xtreme",HBO Xtreme
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQXCUOuccW5We2ZAUlE4JOXL/ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682784.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="HGTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/98/4982782_2C3F0CE8D1052BD8.png" tvg-name="HGTV",HGTV
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28912?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682782.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="History 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/29/4291942_733FB3D391F2B520.png" tvg-name="History 2",History 2
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/57340?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682798.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="History" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433038_12CF9036E13EE3F3.png" tvg-name="History",History
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/57340?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682798.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Investigação Discovery" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7520985_635B9EF42732ED82.png" tvg-name="Investigação Discovery",Investigação Discovery
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682799.ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/52592?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Lifetime" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437886_6703D2DD17D2C65D.png" tvg-name="Lifetime",Lifetime
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/52576?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUH7Pm2Q8XvhZlKEton-0vl/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Loading" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8302609_05A96A0ACCC14F73.png" tvg-name="Loading",Loading
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51252?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Mais na Tela" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437639_91082274D3F572EE.png" tvg-name="Mais na Tela",Mais na Tela
 
 #EXTINF:-1, tvg-id="Mega TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478453_26CB20D1952E006C.png" tvg-name="Mega TV",Mega TV
 
 #EXTINF:-1, tvg-id="Megapix" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438982_086C00325873AF5F.png" tvg-name="Megapix",Megapix
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQWM91_gvla5dGOLzTBmLvjK/ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50857?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="MTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432710_14CCE58065AE5AC9.png" tvg-name="MTV",MTV
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37070?checkedby:iptvcat.com
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28894?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="MTV Live" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/34/7348600_06B7162A91CD321A.png" tvg-name="MTV Live",MTV Live
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50855?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50854?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Multishow" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437623_BD4F848678FCA7C1.png" tvg-name="Multishow",Multishow
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQWwtGC5cLYOttKQ2hDIfYIq/ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50858?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Music Box Brazil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8378154_80FB4045C502B668.png" tvg-name="Music Box Brazil",Music Box Brazil
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/56886?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50935?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="National Geographic Kids" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/97/3979850_FAC67DC39152847B.png" tvg-name="National Geographic Kids",National Geographic Kids
 
 #EXTINF:-1, tvg-id="National Geographic" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436115_C8CC93D462EA3BD0.png" tvg-name="National Geographic",National Geographic
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQU_yITu_2Ulpszc9h1l1BF2/ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682834.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="National Geographic Wild" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/94/3941530_D915F7F8DF4D19BF.png" tvg-name="National Geographic Wild",National Geographic Wild
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682822.ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37068?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="NGT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/83/3832405_D8F92C725FF9B3B5.png" tvg-name="NGT",NGT
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51252?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="NHK World Japan" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816731_45B1BFA1F1025883.png" tvg-name="NHK World Japan",NHK World Japan
 
 #EXTINF:-1, tvg-id="Nick Jr" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436105_AA00A32D72CC0822.png" tvg-name="Nick Jr",Nick Jr
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQVAh7aYjShcv1u6aUEfh7jk/ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37069?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Nickelodeon" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431898_61381B69592F805E.png" tvg-name="Nickelodeon",Nickelodeon
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQWH1ODQE3ZUQ-ounr7wPTfL/ts?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQVAh7aYjShcv1u6aUEfh7jk/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="OFF" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437576_F9C3630D160ED304.png" tvg-name="OFF",OFF
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/39574?checkedby:iptvcat.com
+http://exchange.goodiptv.stream:13520/aydar4545/dv5FbdU91X/4468?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Paramount Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/42/3429963_FA1818F411288AC2.png" tvg-name="Paramount Channel",Paramount Channel
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682839.ts?checkedby:iptvcat.com
+http://cdn.us21.live:80/mateus01/01mateus/83242?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Polishop" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/25/3250065_C4C5D6BB6C9CEAEF.png" tvg-name="Polishop",Polishop
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682847.ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36952?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436116_4AF7AF8215EFF0E0.png" tvg-name="Premiere 2",Premiere 2
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37060?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 3" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436123_BAEB92AD4732EE79.png" tvg-name="Premiere 3",Premiere 3
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38409?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36949?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 4" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436125_F7845ED2695AF310.png" tvg-name="Premiere 4",Premiere 4
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3245?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38409?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 5" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732284_776CF2A76DFF7F93.png" tvg-name="Premiere 5",Premiere 5
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51261?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51001?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 6" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439081_D738B797AB6A8BE2.png" tvg-name="Premiere 6",Premiere 6
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682851.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682845.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 7" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439089_FFA949F5AC146051.png" tvg-name="Premiere 7",Premiere 7
-http://168.205.87.198:8555/live/elienecp/123456/83.ts?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUM8WSjlV3BKUHeL5HqNgs_/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 8" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439097_5D8587FEE59A3BE3.png" tvg-name="Premiere 8",Premiere 8
-http://disfruta.net:80/fparreno/3NXhrLMX2e/3252?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUnXtklQmJ25vjns6ZhCmC-/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere Clubes" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436124_2DBEF0198CE47C68.png" tvg-name="Premiere Clubes",Premiere Clubes
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/39775?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51265?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Prime Box Brazil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438818_519E3BF7065DC370.png" tvg-name="Prime Box Brazil",Prime Box Brazil
-http://directtv1.xyz:80/Freddie/Freddie/167137?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682877.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="RAI" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439055_F61320C4F3DB3ED7.png" tvg-name="RAI",RAI
 
 #EXTINF:-1, tvg-id="RBI" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163575_A424E2A24860A027.png" tvg-name="RBI",RBI
 
 #EXTINF:-1, tvg-id="Record TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437298_63A9E28CEB357A70.png" tvg-name="Record TV",Record TV
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/57806?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQXZNC910dawWBXcBsQtejIA/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Record News" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116736_5C2D5C92CEE5D9CD.png" tvg-name="Record News",Record News
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37016?checkedby:iptvcat.com
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28931?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="REDE 21" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/78/3780367_B9CD7EF8FDFFC71E.png" tvg-name="REDE 21",REDE 21
 
 #EXTINF:-1, tvg-id="Rede Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6484024_27835C7981400442.png" tvg-name="Rede Brasil",Rede Brasil
-
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQX3CV6qK7bjTUJCGc-8J4tb/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Rede Família" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/83/3832406_972879AD77DB499F.png" tvg-name="Rede Família",Rede Família
 
 #EXTINF:-1, tvg-id="Rede Século 21" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/48/3483804_CCD8C63974D8D7DC.png" tvg-name="Rede Século 21",Rede Século 21
@@ -230,101 +230,101 @@ http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37016?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Rede Século 22" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431913_1B787CEEE220418C.png" tvg-name="Rede Século 22",Rede Século 22
 
 #EXTINF:-1, tvg-id="Rede Vida" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/23/3233109_C42C521D8E25DE99.png" tvg-name="Rede Vida",Rede Vida
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682906.ts?checkedby:iptvcat.com
+https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Rede TV!" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732267_F7B181A9A3F08427.png" tvg-name="Rede TV!",Rede TV!
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682909.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682904.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Santa Cecília TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869224_32F308C2135BF0CD.png" tvg-name="Santa Cecília TV",Santa Cecília TV
 
 #EXTINF:-1, tvg-id="SBT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3435715_5E6B1F7F237CDA1C.png" tvg-name="SBT",SBT
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38420?checkedby:iptvcat.com
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Sex Privê" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732304_377C6656E1154DE5.png" tvg-name="Sex Privê",Sex Privê
 
 #EXTINF:-1, tvg-id="SIC Internacional" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439065_868A80678746D5FD.png" tvg-name="SIC Internacional",SIC Internacional
 
 #EXTINF:-1, tvg-id="Sony Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433076_39127EDB85C2A95D.png" tvg-name="Sony Channel",Sony Channel
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQV6ll7n1dlDIuwZUCJWbXtv/ts?checkedby:iptvcat.com
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28890?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Space" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432896_620191891D6F2567.png" tvg-name="Space",Space
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51054?checkedby:iptvcat.com
+http://disfruta.net:80/fparreno/3NXhrLMX2e/3260?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="SporTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437586_C8AF889FB8170E95.png" tvg-name="SporTV",SporTV
-http://168.205.87.198:8555/live/elienecp/123456/63.ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51056?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="SporTV 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114952_FA53D356CA98A695.png" tvg-name="SporTV 2",SporTV 2
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28873?checkedby:iptvcat.com
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/111152?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="SporTV 3" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114946_14645C44F632829D.png" tvg-name="SporTV 3",SporTV 3
-http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/111153?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682924.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Star Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8375881_6BDA0AFF873022E4.png" tvg-name="Star Channel",Star Channel
-http://cdn.us21.live:80/mateus01/01mateus/142062?checkedby:iptvcat.com
+http://rv.flysat.live:80/307210013157/307210013157/82360?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Star Hits 1" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8375883_AE1B9EEBF7242BA0.png" tvg-name="Star Hits 1",Star Hits 1
 
 #EXTINF:-1, tvg-id="Star Hits 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8375885_A3FF04DF21C91544.png" tvg-name="Star Hits 2",Star Hits 2
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQW4ePibJ_PwBRw2Ig4EA-Ve/ts?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38386?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Star Life" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8375892_F843025DE3F71CFF.png" tvg-name="Star Life",Star Life
-http://cdn.us21.live:80/anderson10/10anderson/147691?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37336?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Studio Universal" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3118503_71340790EC780220.png" tvg-name="Studio Universal",Studio Universal
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682936.ts?checkedby:iptvcat.com
+http://disfruta.net:80/fparreno/3NXhrLMX2e/3257?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Syfy" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3472932_331CC3D7832590C5.png" tvg-name="Syfy",Syfy
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37007?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51053?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TBS" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438802_36258FBFB630632A.png" tvg-name="TBS",TBS
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?checkedby:iptvcat.com
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TCM" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433083_FB876F47DBAD1E1C.png" tvg-name="TCM",TCM
-http://cdn.us21.live:80/anderson10/10anderson/147695?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682963.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Telecine Action" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/17/3174123_52263D107BCA368C.png" tvg-name="Telecine Action",Telecine Action
-http://directtv1.xyz:80/Freddie/Freddie/167150?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51302?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Telecine Cult" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3190493_B2586D159560B26B.png" tvg-name="Telecine Cult",Telecine Cult
-http://cdn.us21.live:80/mateus01/01mateus/150163?checkedby:iptvcat.com
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28919?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Telecine Fun" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/17/3174124_CE0B71166E65CBF2.png" tvg-name="Telecine Fun",Telecine Fun
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51286?checkedby:iptvcat.com
-#EXTINF:-1, tvg-id="Telecine Pipoca" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/17/3174125_A130D3265804A5CE.png" tvg-name="Telecine Pipoca",Telecine Pipoca
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51104?checkedby:iptvcat.com
-#EXTINF:-1, tvg-id="Telecine Premium" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439238_A181342B26A81EB0.png" tvg-name="Telecine Premium",Telecine Premium
 http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51301?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="Telecine Pipoca" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/17/3174125_A130D3265804A5CE.png" tvg-name="Telecine Pipoca",Telecine Pipoca
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28921?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="Telecine Premium" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439238_A181342B26A81EB0.png" tvg-name="Telecine Premium",Telecine Premium
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51090?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Telecine Touch" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439242_12A19E753ADA5B7F.png" tvg-name="Telecine Touch",Telecine Touch
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/56867?checkedby:iptvcat.com
+http://cdn.us21.live:80/mateus01/01mateus/147710?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Telefe" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116753_C7527B78FF1A6CF2.png" tvg-name="Telefe",Telefe
 
 #EXTINF:-1, tvg-id="TLC" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116395_40D20FD85676D010.png" tvg-name="TLC",TLC
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUJUitHgnvkL_D7l4rptPOk/ts?checkedby:iptvcat.com
+http://pascaltv.site:8080/F12611/b199b47b/8917?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TNT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432720_EE2D0C71C9938DA4.png" tvg-name="TNT",TNT
-http://cdn.us21.live:80/mateus01/01mateus/83268?checkedby:iptvcat.com
-#EXTINF:-1, tvg-id="TNT Séries" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432725_4F6ECC911DADC6EF.png" tvg-name="TNT Séries",TNT Séries
 http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682972.ts?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="TNT Séries" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432725_4F6ECC911DADC6EF.png" tvg-name="TNT Séries",TNT Séries
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/56881?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Tooncast" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437703_B7FE7B5401939ADC.png" tvg-name="Tooncast",Tooncast
-http://cdn.us21.live:80/mateus01/01mateus/151049?checkedby:iptvcat.com
+http://cdn.us21.live:80/mateus01/01mateus/147360?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Trace Brazuca" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/29/7299477_EC23678702C7A351.png" tvg-name="Trace Brazuca",Trace Brazuca
 
 #EXTINF:-1, tvg-id="Travel Box Brazil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437876_150DF8E189BD6314.png" tvg-name="Travel Box Brazil",Travel Box Brazil
 
 #EXTINF:-1, tvg-id="truTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433087_1796BFF721B6F5AF.png" tvg-name="truTV",truTV
-http://cdn.us21.live:80/anderson10/10anderson/83634?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37032?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TV 100% Vida Santos" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/83/3832474_6AA4EB6B218227A9.png" tvg-name="TV 100% Vida Santos",TV 100% Vida Santos
 
 #EXTINF:-1, tvg-id="TV Aberta" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478445_07063DF098753756.png" tvg-name="TV Aberta",TV Aberta
 
 #EXTINF:-1, tvg-id="TV Aparecida" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/69/3694071_C04335A120BA64B8.png" tvg-name="TV Aparecida",TV Aparecida
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37096?checkedby:iptvcat.com
+http://cdn.us21.live:80/mateus01/01mateus/162755?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TV Assembléia" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478448_5B67A39A93423B6D.png" tvg-name="TV Assembléia",TV Assembléia
 
 #EXTINF:-1, tvg-id="TV Ativa" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/85/3856792_DD19859B58CBAFAD.png" tvg-name="TV Ativa",TV Ativa
 
 #EXTINF:-1, tvg-id="TV Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163585_AE9232F5F231DECF.png" tvg-name="TV Brasil",TV Brasil
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/52545?checkedby:iptvcat.com
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/148384?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TV Brasil 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/98/4982783_B268B348E6EEDDC3.png" tvg-name="TV Brasil 2",TV Brasil 2
 
 #EXTINF:-1, tvg-id="TV Câmara" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114277_E4691230419284B7.png" tvg-name="TV Câmara",TV Câmara
-http://cdn.us21.live:80/mateus01/01mateus/140931?checkedby:iptvcat.com
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUfwnroeeDmBzrBbGxUS6Cx/ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TV Cultura" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114780_BC3327E6071EE122.png" tvg-name="TV Cultura",TV Cultura
-http://cdn.us21.live:80/mateus01/01mateus/162748?checkedby:iptvcat.com
+http://exchange.goodiptv.stream:13520/aydar4545/dv5FbdU91X/4442?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TV Escola" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114778_DEBD312AD7B76341.png" tvg-name="TV Escola",TV Escola
-
+http://cdn.us21.live:80/mateus01/01mateus/162748?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TV Gazeta" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114900_989122ED3BE71D02.png" tvg-name="TV Gazeta",TV Gazeta
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/42963?checkedby:iptvcat.com
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/42977?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TV Integração" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812401_4C58B170CE403362.png" tvg-name="TV Integração",TV Integração
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQUYqnxYQwIPfPxKrPb6NnMT/ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/682709.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TV Justiça" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114777_59A403FCB58D9EA4.png" tvg-name="TV Justiça",TV Justiça
 
 #EXTINF:-1, tvg-id="TV Rá-Tim-Bum" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437692_905679B3B16F2F98.png" tvg-name="TV Rá-Tim-Bum",TV Rá-Tim-Bum
 
 #EXTINF:-1, tvg-id="TV Senado" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114776_A156992527475080.png" tvg-name="TV Senado",TV Senado
-http://cdn.us21.live:80/mateus01/01mateus/147738?checkedby:iptvcat.com
+http://cdn.us21.live:80/mateus01/01mateus/83673?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TV Sol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/85/3856801_9A630BF0866A3E9B.png" tvg-name="TV Sol",TV Sol
 
 #EXTINF:-1, tvg-id="TV5MD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439075_566A8F3226F51D02.png" tvg-name="TV5MD",TV5MD
@@ -332,14 +332,14 @@ http://cdn.us21.live:80/mateus01/01mateus/147738?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TV5Monde" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116390_D6D06CBDEA0E7393.png" tvg-name="TV5Monde",TV5Monde
 
 #EXTINF:-1, tvg-id="TVE" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431920_6110FE5EB89F3E75.png" tvg-name="TVE",TVE
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61974?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/elienecp/123456/137.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Universal Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/82/3828917_13736897C3A7EE56.png" tvg-name="Universal Channel",Universal Channel
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/56863?checkedby:iptvcat.com
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/8239?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="VH1" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431894_8439BA0FBD17BCE3.png" tvg-name="VH1",VH1
-http://cdn.us21.live:80/mateus01/01mateus/83274?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/683012.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Viva" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431880_F332A6102DD52B0B.png" tvg-name="Viva",Viva
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aqIOata8xAo9jEfaQvfSGQXhIQ987C1dh5_oQwkur6DI/ts?checkedby:iptvcat.com
+http://cdn.us21.live:80/anderson10/10anderson/140922?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Warner Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431860_8286C5373AB3AE79.png" tvg-name="Warner Channel",Warner Channel
 http://rv.flysat.live:80/307210013157/307210013157/82391?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Woohoo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/68/3684276_69E6A03BE5CCDF0A.png" tvg-name="Woohoo",Woohoo
-http://cdn.us21.live:80/anderson10/10anderson/142118?checkedby:iptvcat.com
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3123?checkedby:iptvcat.com
