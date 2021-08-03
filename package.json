@@ -22,6 +22,7 @@
     "dayjs": "^1.10.4",
     "epg-grabber": "^0.6.5",
     "fs-extra": "^10.0.0",
+    "iptv-playlist-parser": "^0.8.0",
     "xml-js": "^1.6.11"
   }
 }
