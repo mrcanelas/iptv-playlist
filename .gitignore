@@ -75,3 +75,5 @@ typings/
 # FuseBox cache
 .fusebox/
 .gh-pages
+gh-pages/guide.xml
+sites/vivoplay.com.br.config2.js

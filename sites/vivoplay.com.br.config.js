@@ -7,7 +7,7 @@ dayjs.extend(utc);
 dayjs.extend(timezone);
 dayjs.extend(customParseFormat);
 
-const today = dayjs.utc().tz('America/Sao_Paulo').format('YYYY-MM-DD')
+const today = dayjs.utc().format('YYYY-MM-DD')
 const tomorrow = dayjs(today).add(1, 'd').format('YYYY-MM-DD')
 const starttime = dayjs(today).unix()
 const endtime = dayjs(tomorrow).unix()
@@ -32,7 +32,6 @@ module.exports = {
   },
   logo: function ({channel}) {
     const img = channel.logo
-    console.log(img)
     return img;
   },
   parser: function ({content}) {
@@ -44,8 +43,8 @@ module.exports = {
     items.forEach(item => {
         const title = (item.Title.split(':')[1] != undefined) ? item.Title.split(':')[0] : item.Title
         const category = (item.Title.split(':')[1] != undefined) ? item.Title.split(':')[1] : ''
-        const start = dayjs.unix(item.Start)
-        const stop = dayjs.unix(item.End)
+        const start = (dayjs.unix(item.Start).get('h') < 3) ? dayjs.unix(item.Start).add(1, 'd') : dayjs.unix(item.Start)
+        const stop = (dayjs.unix(item.End).get('h') < 3) ? dayjs.unix(item.End).add(1, 'd') : dayjs.unix(item.End)
         const icon = item.Images.VideoFrame[0].Url
         programs.push({
           title,
