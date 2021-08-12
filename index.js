@@ -24,7 +24,7 @@ function getTimestamp(value){
 function arrayDates(iniDate, endDate) {
   const dates = []
   for(var newDate = dayjs(iniDate, "DD-MM-YYYY"); newDate <= dayjs(endDate, "DD-MM-YYYY"); newDate = newDate.add(1, "day")){
-    dates.push(newDate)
+    dates.push(newDate.subtract(3, 'hours'))
   }
   return dates
 }
