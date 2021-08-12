@@ -27,7 +27,7 @@ module.exports = {
   },
 
   url: function ({channel}) {
-    return `http://127.0.0.1:3000/${channel.site_id}/${iniDate}/${endDate}`;
+    return `https://iptv-playlist.vercel.app/${channel.site_id}/${iniDate}/${endDate}`;
   },
   logo: function ({channel}) {
     const img = channel.logo

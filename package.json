@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "grabber": "npx epg-grabber --config=sites/mi.tv.config.js"
   },
   "repository": {
