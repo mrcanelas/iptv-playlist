@@ -30,7 +30,7 @@ https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/video.m3u8
 #EXTINF:-1, tvg-id="Futura" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114906_E747F40C0ECFB560.png" tvg-name="Futura",Futura
 http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="Bloomberg TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116398_6AF43CFC889A7F62.png" tvg-name="Bloomberg TV",Bloomberg TV
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-id="CNN Internacional" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432908_C006545036377813.png" tvg-name="CNN Internacional",CNN Internacional
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-id="Gospel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478440_E3825F81430013C6.png" tvg-name="Gospel",Gospel

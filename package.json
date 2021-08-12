@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "builder": "node index.js",
+    "start": "node index.js",
     "grabber": "npx epg-grabber --config=sites/mi.tv.config.js"
   },
   "repository": {
@@ -21,6 +21,7 @@
     "axios": "^0.21.1",
     "dayjs": "^1.10.4",
     "epg-grabber": "^0.6.5",
+    "express": "^4.17.1",
     "fs-extra": "^10.0.0",
     "iptv-playlist-parser": "^0.8.0",
     "xml-js": "^1.6.11"

@@ -7,10 +7,9 @@ dayjs.extend(utc);
 dayjs.extend(timezone);
 dayjs.extend(customParseFormat);
 
-const today = dayjs.utc().format('YYYY-MM-DD')
-const tomorrow = dayjs(today).add(1, 'd').format('YYYY-MM-DD')
-const starttime = dayjs(today).unix()
-const endtime = dayjs(tomorrow).unix()
+const today = dayjs.utc().tz('America/Sao_Paulo')
+const iniDate = dayjs(today).subtract(2, 'day').format('DD-MM-YYYY')
+const endDate = dayjs(today).add(2, 'day').format('DD-MM-YYYY')
 
 module.exports = {
   lang: 'pt',
@@ -28,7 +27,7 @@ module.exports = {
   },
 
   url: function ({channel}) {
-    return `https://contentapi-br.cdn.telefonica.com/25/default/pt-BR/schedules?ca_deviceTypes=null%7C401&fields=Title,Description,Start,End,EpgSerieId,SeriesPid,SeasonPid,images.videoFrame,images.banner&orderBy=START_TIME:a&filteravailability=false&starttime=${starttime}&endtime=${endtime}&livechannelpids=${channel.site_id}`;
+    return `http://127.0.0.1:3000/${channel.site_id}/${iniDate}/${endDate}`;
   },
   logo: function ({channel}) {
     const img = channel.logo
@@ -36,15 +35,14 @@ module.exports = {
   },
   parser: function ({content}) {
     let programs = []
-    const data = JSON.parse(content)
-    const items = data.Content
+    const items = JSON.parse(content)
     if (!items.length) return programs
     
     items.forEach(item => {
         const title = (item.Title.split(':')[1] != undefined) ? item.Title.split(':')[0] : item.Title
         const category = (item.Title.split(':')[1] != undefined) ? item.Title.split(':')[1] : ''
-        const start = (dayjs.unix(item.Start).get('h') < 3) ? dayjs.unix(item.Start).add(1, 'd') : dayjs.unix(item.Start)
-        const stop = (dayjs.unix(item.End).get('h') < 3) ? dayjs.unix(item.End).add(1, 'd') : dayjs.unix(item.End)
+        const start = dayjs.unix(item.Start)
+        const stop = dayjs.unix(item.End)
         const icon = item.Images.VideoFrame[0].Url
         programs.push({
           title,

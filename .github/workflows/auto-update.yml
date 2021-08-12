@@ -13,7 +13,7 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Run Playlist Builder
-        run: node index.js
+        run: node gen_playlist.js
       - name: Run EPG Grabber
         run: npx epg-grabber --config=sites/vivoplay.com.br.config.js
       - name: Deploy to GitHub Pages
