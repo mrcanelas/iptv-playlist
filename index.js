@@ -50,6 +50,4 @@ app.get('/:channel/:iniDate/:endDate', async function (req, res) {
   respond(res, resp)
 })
  
-app.listen(3000, function () {
-  console.log('API URL: http://127.0.0.1:3000/channel/iniDate/endDate');
-});
+module.exports = app
