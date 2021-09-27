@@ -1,33 +1,15 @@
 const dayjs = require('dayjs');
-const utc = require('dayjs/plugin/utc');
-const timezone = require('dayjs/plugin/timezone');
-const customParseFormat = require('dayjs/plugin/customParseFormat');
-
-dayjs.extend(utc);
-dayjs.extend(timezone);
-dayjs.extend(customParseFormat);
-
-const today = dayjs.utc().tz('America/Sao_Paulo')
-const iniDate = dayjs(today).subtract(2, 'day').format('DD-MM-YYYY')
-const endDate = dayjs(today).add(2, 'day').format('DD-MM-YYYY')
 
 module.exports = {
   lang: 'pt',
   site: 'vivoplay.com.br',
   channels: 'vivoplay.com.br.channels.xml',
   output: '.gh-pages/guide.xml',
+  lang: 'pt',
+  days: 3,
 
-  request: {
-
-    method: 'GET',
-    headers: {
-      'Content-Type':
-        'application/json; charset=utf-8',
-    },
-  },
-
-  url: function ({channel}) {
-    return `https://iptv-playlist.vercel.app/${channel.site_id}/${iniDate}/${endDate}`;
+  url: function ({date, channel}) {
+    return `https://contentapi-br.cdn.telefonica.com/25/default/pt-BR/schedules?ca_deviceTypes=null%7C401&fields=Title,Description,Start,End,EpgSerieId,SeriesPid,SeasonPid,images.videoFrame,images.banner&orderBy=START_TIME:a&filteravailability=false&starttime=${date.unix()}&endtime=${date.add(1, 'day').unix()}&livechannelpids=${channel.site_id}`;
   },
   logo: function ({channel}) {
     const img = channel.logo
@@ -36,9 +18,8 @@ module.exports = {
   parser: function ({content}) {
     let programs = []
     const items = JSON.parse(content)
-    if (!items.length) return programs
-    
-    items.forEach(item => {
+
+    items.Content.forEach(item => {
         const title = (item.Title.split(':')[1] != undefined) ? item.Title.split(':')[0] : item.Title
         const category = (item.Title.split(':')[1] != undefined) ? item.Title.split(':')[1] : ''
         const start = dayjs.unix(item.Start)
@@ -48,8 +29,8 @@ module.exports = {
           title,
           category,
           description: item.Description,
-          start: start,
-          stop: stop,
+          start,
+          stop,
           icon
         })
       })
