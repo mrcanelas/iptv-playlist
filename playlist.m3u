@@ -62,7 +62,7 @@ https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/video.m3u8
 #EXTINF:-1, tvg-id="Discovery Home & Health" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3117298_576AD5EA0FC8CAD2.png" tvg-name="Discovery Home & Health",Discovery Home & Health
 
 #EXTINF:-1, tvg-id="Discovery Kids" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437643_9733EA0EC176E14D.png" tvg-name="Discovery Kids",Discovery Kids
-http://30frasiiii.hopto.me:80/0000/0000/242026?checkedby:iptvcat.com
+
 #EXTINF:-1, tvg-id="Discovery Science" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437813_1E3760E75804B19C.png" tvg-name="Discovery Science",Discovery Science
 
 #EXTINF:-1, tvg-id="Discovery Theater" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116418_973D80529B29DB21.png" tvg-name="Discovery Theater",Discovery Theater
@@ -110,7 +110,7 @@ http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="FX" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816883_606509969C2D914B.png" tvg-name="FX",FX
 
 #EXTINF:-1, tvg-id="Globo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3195749_136A2C542B14775F.png" tvg-name="Globo",Globo
-http://168.205.87.198:8555/live/antony/1234/69.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1431/123456/69.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="GloboNews" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437596_2FE185232C41C350.png" tvg-name="GloboNews",GloboNews
 
 #EXTINF:-1, tvg-id="Gloob" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437689_85C979EB640F085D.png" tvg-name="Gloob",Gloob
@@ -122,7 +122,7 @@ http://168.205.87.198:8555/live/antony/1234/69.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Gospel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478440_E3825F81430013C6.png" tvg-name="Gospel",Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1, tvg-id="HBO" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438995_7EDFC0CCCC9609D1.png" tvg-name="HBO",HBO
-
+http://168.205.87.198:8555/live/1431/123456/70.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="HBO 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116449_FA01B469D0D9F34E.png" tvg-name="HBO 2",HBO 2
 
 #EXTINF:-1, tvg-id="HBO E*" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3738363_EEC6A30C2B0FFDB1.png" tvg-name="HBO E*",HBO E*
@@ -134,7 +134,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1, tvg-id="HBO Plus" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/94/4943007_1A063ACED96DB86E.PNG" tvg-name="HBO Plus",HBO Plus
 
 #EXTINF:-1, tvg-id="HBO Pop" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/56/6567647_1894F12940AE9C0B.png" tvg-name="HBO Pop",HBO Pop
-
+http://168.205.87.198:8555/live/1431/123456/70.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="HBO Signature" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163539_3A523BE1CBEE67AF.png" tvg-name="HBO Signature",HBO Signature
 
 #EXTINF:-1, tvg-id="HBO Xtreme" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/56/6567650_E6C5AF690B81E082.png" tvg-name="HBO Xtreme",HBO Xtreme
@@ -164,7 +164,7 @@ http://168.205.87.198:8555/live/1221/123456/61.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Multishow" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437623_BD4F848678FCA7C1.png" tvg-name="Multishow",Multishow
 
 #EXTINF:-1, tvg-id="Music Box Brazil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8378154_80FB4045C502B668.png" tvg-name="Music Box Brazil",Music Box Brazil
-
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242062?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="National Geographic Kids" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/97/3979850_FAC67DC39152847B.png" tvg-name="National Geographic Kids",National Geographic Kids
 
 #EXTINF:-1, tvg-id="National Geographic" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436115_C8CC93D462EA3BD0.png" tvg-name="National Geographic",National Geographic
@@ -186,17 +186,17 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u
 #EXTINF:-1, tvg-id="Polishop" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/25/3250065_C4C5D6BB6C9CEAEF.png" tvg-name="Polishop",Polishop
 
 #EXTINF:-1, tvg-id="Premiere 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436116_4AF7AF8215EFF0E0.png" tvg-name="Premiere 2",Premiere 2
-http://168.205.87.198:8555/live/aleixo/123456/83.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1221/123456/144.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 3" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436123_BAEB92AD4732EE79.png" tvg-name="Premiere 3",Premiere 3
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242073?checkedby:iptvcat.com
-#EXTINF:-1, tvg-id="Premiere 4" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436125_F7845ED2695AF310.png" tvg-name="Premiere 4",Premiere 4
 http://168.205.87.198:8555/live/JOSEE/123456/169.ts?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="Premiere 4" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436125_F7845ED2695AF310.png" tvg-name="Premiere 4",Premiere 4
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242071?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 5" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732284_776CF2A76DFF7F93.png" tvg-name="Premiere 5",Premiere 5
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242068?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/michele/123456/83.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 6" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439081_D738B797AB6A8BE2.png" tvg-name="Premiere 6",Premiere 6
-http://168.205.87.198:8555/live/1221/123456/169.ts?checkedby:iptvcat.com
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242078?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 7" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439089_FFA949F5AC146051.png" tvg-name="Premiere 7",Premiere 7
-http://168.205.87.198:8555/live/1221/123456/83.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/aleixo/123456/83.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 8" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439097_5D8587FEE59A3BE3.png" tvg-name="Premiere 8",Premiere 8
 
 #EXTINF:-1, tvg-id="Premiere Clubes" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436124_2DBEF0198CE47C68.png" tvg-name="Premiere Clubes",Premiere Clubes
