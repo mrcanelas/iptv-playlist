@@ -21,48 +21,51 @@ function parseName(value) {
   return value.toLowerCase().replace(/ /g, "");
 }
 
-const resp = await axios.get(endPoint);
-const xml = fs.readFileSync(channelsFile, { encoding: "utf-8" });
-const result = convert.xml2js(xml);
-const site = result.elements.find((el) => el.name === "site");
-const channels = site.elements.find((el) => el.name === "channels");
+axios.get(endPoint).then((resp) => {
+  const xml = fs.readFileSync(channelsFile, { encoding: "utf-8" });
+  const result = convert.xml2js(xml);
+  const site = result.elements.find((el) => el.name === "site");
+  const channels = site.elements.find((el) => el.name === "channels");
 
-channels.elements.map((el) => {
-  const result = parser.parse(staticChannels);
-  const index = result.items.find((val) => val.name == el.attributes.xmltv_id);
-  if (index !== undefined) {
-    let itemHeader = "#EXTINF:-1,";
-
-    if (index.tvg.id) itemHeader += ` tvg-id="${index.tvg.id}"`;
-    if (index.tvg.logo) itemHeader += ` tvg-logo="${index.tvg.logo}"`;
-    if (index.tvg.name) itemHeader += ` tvg-name="${index.tvg.name}"`;
-
-    itemHeader += `,${index.name}`;
-    itemHeader += `\n${index.url}`;
-    playlistFileText += `\n${itemHeader}`;
-  } else {
-    const url = resp.data.find(
-      (item) =>
-        !item.Link.includes(urlIgnore) &&
-        item.Format == "FHD 2K" &&
-        parseName(item.Channel).includes(parseName(el.attributes.xmltv_id)) &&
-        item.Status == "Online"
+  channels.elements.map((el) => {
+    const result = parser.parse(staticChannels);
+    const index = result.items.find(
+      (val) => val.name == el.attributes.xmltv_id
     );
-    if (url !== undefined)
-      console.log("Encontrado links para o canal: " + el.attributes.xmltv_id);
-    let itemHeader = "#EXTINF:-1,";
+    if (index !== undefined) {
+      let itemHeader = "#EXTINF:-1,";
 
-    if (el.attributes.xmltv_id)
-      itemHeader += ` tvg-id="${el.attributes.xmltv_id}"`;
-    if (el.attributes.logo) itemHeader += ` tvg-logo="${el.attributes.logo}"`;
-    if (el.attributes.xmltv_id)
-      itemHeader += ` tvg-name="${el.elements[0].text}"`;
+      if (index.tvg.id) itemHeader += ` tvg-id="${index.tvg.id}"`;
+      if (index.tvg.logo) itemHeader += ` tvg-logo="${index.tvg.logo}"`;
+      if (index.tvg.name) itemHeader += ` tvg-name="${index.tvg.name}"`;
 
-    itemHeader += `,${el.elements[0].text}`;
-    itemHeader += `\n${url !== undefined ? url.Link : ""}`;
-    playlistFileText += `\n${itemHeader}`;
-  }
-});
-fs.outputFile("./.gh-pages/playlist.m3u", playlistFileText, (err) => {
-  console.log("Sucess");
+      itemHeader += `,${index.name}`;
+      itemHeader += `\n${index.url}`;
+      playlistFileText += `\n${itemHeader}`;
+    } else {
+      const url = resp.data.find(
+        (item) =>
+          !item.Link.includes(urlIgnore) &&
+          item.Format == "FHD 2K" &&
+          parseName(item.Channel).includes(parseName(el.attributes.xmltv_id)) &&
+          item.Status == "Online"
+      );
+      if (url !== undefined)
+        console.log("Encontrado links para o canal: " + el.attributes.xmltv_id);
+      let itemHeader = "#EXTINF:-1,";
+
+      if (el.attributes.xmltv_id)
+        itemHeader += ` tvg-id="${el.attributes.xmltv_id}"`;
+      if (el.attributes.logo) itemHeader += ` tvg-logo="${el.attributes.logo}"`;
+      if (el.attributes.xmltv_id)
+        itemHeader += ` tvg-name="${el.elements[0].text}"`;
+
+      itemHeader += `,${el.elements[0].text}`;
+      itemHeader += `\n${url !== undefined ? url.Link : ""}`;
+      playlistFileText += `\n${itemHeader}`;
+    }
+  });
+  fs.outputFile("./.gh-pages/playlist.m3u", playlistFileText, (err) => {
+    console.log("Sucess");
+  });
 });

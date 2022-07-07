@@ -77,6 +77,11 @@ https://m3u9.ml/a/hls1/Band.m3u8?mu3zAQc9HC3GbwJq=Qf9eVe9v60JmClxBsFEX5g&3U1G7qa
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1, tvg-id="TV Sol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/85/3856801_9A630BF0866A3E9B.png" tvg-name="TV Sol",TV Sol
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1, tvg-id="Agro+" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/14/7146011_412356182209A40D.png" tvg-name="Agro+",Agro+
+https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w136100964.m3u8
+#EXTINF:-1, tvg-id="AMC" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/86/11867104_4F7C97B49745C5A3.png" tvg-name="AMC",AMC
+https://list.iptvcat.com/my_list/s/aed0af1e983ec79a948499331c7548ee.m3u8
+
 
 
 
