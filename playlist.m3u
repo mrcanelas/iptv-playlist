@@ -1,328 +1,638 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="A&E" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116374_5B04666C991C8684.png" tvg-name="A&E",A&E
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/26420
 #EXTINF:-1, tvg-id="Agro+" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/14/7146011_412356182209A40D.png" tvg-name="Agro+",Agro+
-
+https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w136100964.m3u8
+#EXTINF:-1, tvg-id="AMC" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/86/11867104_4F7C97B49745C5A3.png" tvg-name="AMC",AMC
+https://list.iptvcat.com/my_list/s/aed0af1e983ec79a948499331c7548ee.m3u8
 #EXTINF:-1, tvg-id="Animal Planet" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436112_D0CBFC36B7F84456.png" tvg-name="Animal Planet",Animal Planet
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7151
 #EXTINF:-1, tvg-id="Arte 1" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431529_D57A32BFCB51A5BC.png" tvg-name="Arte 1",Arte 1
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7488
 #EXTINF:-1, tvg-id="AXN" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438810_4CC7D0AB1517EC4C.png" tvg-name="AXN",AXN
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22275
 #EXTINF:-1, tvg-id="Band" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816868_12CB1FFEB4A061BC.png" tvg-name="Band",Band
 https://m3u9.ml/a/hls1/Band.m3u8?mu3zAQc9HC3GbwJq=Qf9eVe9v60JmClxBsFEX5g&3U1G7qaTxrPbalZnEx=1628046753
-#EXTINF:-1, tvg-id="Band News" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431883_179B0FA46D95AAB1.png" tvg-name="Band News",Band News
-http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/index.m3u8
-#EXTINF:-1, tvg-id="Band Sports" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3435714_51393D8A4D9B7892.png" tvg-name="Band Sports",Band Sports
+#EXTINF:-1, tvg-id="Band" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816868_12CB1FFEB4A061BC.png" tvg-name="Band",Band
+https://m3u9.ml/a/hls1/Band.m3u8?mu3zAQc9HC3GbwJq=Qf9eVe9v60JmClxBsFEX5g&3U1G7qaTxrPbalZnEx=1628046753
+#EXTINF:-1, tvg-id="Band Bahia" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869197_A8D2B33B2F6738FD.png" tvg-name="Band Bahia",Band Bahia
+
+#EXTINF:-1, tvg-id="Band Brasília" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869198_2E7CD813AE32663C.png" tvg-name="Band Brasília",Band Brasília
+
+#EXTINF:-1, tvg-id="Band Campinas" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869199_A7C51DBC735A6BB4.png" tvg-name="Band Campinas",Band Campinas
+
+#EXTINF:-1, tvg-id="Band Cuiabá" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/45/3455910_AB188D595A8A76DA.png" tvg-name="Band Cuiabá",Band Cuiabá
+
+#EXTINF:-1, tvg-id="Band Curitiba" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869200_DB630E436020FD39.png" tvg-name="Band Curitiba",Band Curitiba
+
+#EXTINF:-1, tvg-id="Band Maceió" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812657_E9D29E43D63E7E09.png" tvg-name="Band Maceió",Band Maceió
+
+#EXTINF:-1, tvg-id="Band Manaus" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812657_E9D29E43D63E7E09.png" tvg-name="Band Manaus",Band Manaus
+
+#EXTINF:-1, tvg-id="Band Minas BH" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869201_53B113A245507F8F.png" tvg-name="Band Minas BH",Band Minas BH
+
+#EXTINF:-1, tvg-id="Band Natal" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/75/11753761_3C277F3F66B4D7F6.png" tvg-name="Band Natal",Band Natal
+
+#EXTINF:-1, tvg-id="Band Paulista" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869203_F1278612B1ED6983.png" tvg-name="Band Paulista",Band Paulista
+
+#EXTINF:-1, tvg-id="Band Rio" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3190527_50BA97EE550AF2BA.png" tvg-name="Band Rio",Band Rio
+
+#EXTINF:-1, tvg-id="Band Rio Interior" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869214_07EB26B70D8E1593.png" tvg-name="Band Rio Interior",Band Rio Interior
+
+#EXTINF:-1, tvg-id="Band RS" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869204_299B46D701004EBA.png" tvg-name="Band RS",Band RS
+
+#EXTINF:-1, tvg-id="Band Teresina" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869205_375B282B19D82F44.png" tvg-name="Band Teresina",Band Teresina
+
+#EXTINF:-1, tvg-id="Band Triângulo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869201_53B113A245507F8F.png" tvg-name="Band Triângulo",Band Triângulo
+
+#EXTINF:-1, tvg-id="Band Vale" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869013_5D235EF84F5D0297.png" tvg-name="Band Vale",Band Vale
+
+#EXTINF:-1, tvg-id="Bandnews" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/79/8796530_99EF0CE2E6CCC8B3.png" tvg-name="Bandnews",Bandnews
+
+#EXTINF:-1, tvg-id="Bandsports" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/82/6825702_24A813F69C7B50CE.png" tvg-name="Bandsports",Bandsports
 
 #EXTINF:-1, tvg-id="BBB Mosaico" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3342113_2D2748F1A776CD89.png" tvg-name="BBB Mosaico",BBB Mosaico
 
-#EXTINF:-1, tvg-id="BBB1" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116761_8F22668B29B96DDF.png" tvg-name="BBB1",BBB1
-
 #EXTINF:-1, tvg-id="BBB2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116766_820228FD0BFF595F.png" tvg-name="BBB2",BBB2
 
-#EXTINF:-1, tvg-id="BBC World" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732307_E9DF824E699EF9D0.png" tvg-name="BBC World",BBC World
-
-#EXTINF:-1, tvg-id="Biography Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439243_AF86096B62CAAF7B.png" tvg-name="Biography Channel",Biography Channel
+#EXTINF:-1, tvg-id="BBC World" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/79/9799738_B8107F93E067F865.png" tvg-name="BBC World",BBC World
 
 #EXTINF:-1, tvg-id="BIS" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437557_4DCFE01E9093366D.png" tvg-name="BIS",BIS
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22271
+#EXTINF:-1, tvg-id="Bloomberg" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116398_6AF43CFC889A7F62.png" tvg-name="Bloomberg",Bloomberg
 
-#EXTINF:-1, tvg-id="Bloomberg TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116398_6AF43CFC889A7F62.png" tvg-name="Bloomberg TV",Bloomberg TV
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, tvg-id="Boomerang" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437751_B83A71FAF5BFBA93.png" tvg-name="Boomerang",Boomerang
+#EXTINF:-1, tvg-id="Boa Vontade SJC" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/85/3856796_68B3E372B0CD899A.png" tvg-name="Boa Vontade SJC",Boa Vontade SJC
+
+#EXTINF:-1, tvg-id="Box Kids" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/86/11867105_90C43BA737202E0B.png" tvg-name="Box Kids",Box Kids
 
 #EXTINF:-1, tvg-id="Canal Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438984_248E8BFFC8E108B6.png" tvg-name="Canal Brasil",Canal Brasil
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7472
+#EXTINF:-1, tvg-id="Canal Comunitário de Santos" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869221_18A59399842E61C1.png" tvg-name="Canal Comunitário de Santos",Canal Comunitário de Santos
+
+#EXTINF:-1, tvg-id="Canal Educação" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/58/11582161_46AE9A693119D6D9.png" tvg-name="Canal Educação",Canal Educação
+
+#EXTINF:-1, tvg-id="Canal Universitário" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478439_75D07F56134A09B0.png" tvg-name="Canal Universitário",Canal Universitário
 
 #EXTINF:-1, tvg-id="Canção Nova" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/23/3233110_C15E72BBCC14C557.png" tvg-name="Canção Nova",Canção Nova
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22152
 #EXTINF:-1, tvg-id="Cartoon Network" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431909_742685EEE4147A92.png" tvg-name="Cartoon Network",Cartoon Network
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22269
+#EXTINF:-1, tvg-id="Cartoonito" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/12/10126671_49DF0A22B1E74D27.png" tvg-name="Cartoonito",Cartoonito
 
-#EXTINF:-1, tvg-id="Chef TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/21/3219580_C849DD90EAE4B975.png" tvg-name="Chef TV",Chef TV
+#EXTINF:-1, tvg-id="Chef TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116406_592A6D74CEA57860.png" tvg-name="Chef TV",Chef TV
+
+#EXTINF:-1, tvg-id="Chef TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/03/4030909_15B7C0B6F9561DDA.png" tvg-name="Chef TV",Chef TV
+
+#EXTINF:-1, tvg-id="Cinecanal" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/73/10739844_4CC033F87794F097.png" tvg-name="Cinecanal",Cinecanal
 
 #EXTINF:-1, tvg-id="Cinemax" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438972_173583054FA56225.png" tvg-name="Cinemax",Cinemax
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22268
+#EXTINF:-1, tvg-id="Climatempo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116408_8C4F511AFC31B23F.png" tvg-name="Climatempo",Climatempo
 
-#EXTINF:-1, tvg-id="Clima Tempo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437804_16C0723F3A9626A7.png" tvg-name="Clima Tempo",Clima Tempo
+#EXTINF:-1, tvg-id="CNN" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116409_A8CA93749FDAF8A1.png" tvg-name="CNN",CNN
 
 #EXTINF:-1, tvg-id="CNN Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6711228_154BC2F6F4BAB060.png" tvg-name="CNN Brasil",CNN Brasil
 https://origin-02.nxplay.com.br/CNN_BR_OK_1_/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-id="CNN Internacional" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432908_C006545036377813.png" tvg-name="CNN Internacional",CNN Internacional
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, tvg-id="CNT Americana" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/30/3309804_7E7CDD9A6E43A46E.png" tvg-name="CNT Americana",CNT Americana
+
+#EXTINF:-1, tvg-id="COM Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/79/9796101_C13318AD4F8CD04E.png" tvg-name="COM Brasil",COM Brasil
+
 #EXTINF:-1, tvg-id="Combate" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433040_302C41A32BEAC9B2.png" tvg-name="Combate",Combate
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7187
 #EXTINF:-1, tvg-id="Comedy Central" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438974_776C4588E92413A7.png" tvg-name="Comedy Central",Comedy Central
-
-#EXTINF:-1, tvg-id="TV Cultura" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433094_A7FC496C99C891D3.png" tvg-name="TV Cultura",TV Cultura
-https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/video.m3u8
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22266
 #EXTINF:-1, tvg-id="Curta!" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116411_E5E02D2432750942.png" tvg-name="Curta!",Curta!
-
-#EXTINF:-1, tvg-id="Deutsche Welle" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439061_4BD3C0548FAC3757.png" tvg-name="Deutsche Welle",Deutsche Welle
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7459
+#EXTINF:-1, tvg-id="Curta!" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116411_E5E02D2432750942.png" tvg-name="Curta!",Curta!
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7459
 #EXTINF:-1, tvg-id="Discovery Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/19/6199854_48DD635CA70680D9.png" tvg-name="Discovery Channel",Discovery Channel
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22265
 #EXTINF:-1, tvg-id="Discovery Home & Health" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3117298_576AD5EA0FC8CAD2.png" tvg-name="Discovery Home & Health",Discovery Home & Health
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22263
 #EXTINF:-1, tvg-id="Discovery Kids" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437643_9733EA0EC176E14D.png" tvg-name="Discovery Kids",Discovery Kids
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22262
 #EXTINF:-1, tvg-id="Discovery Science" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437813_1E3760E75804B19C.png" tvg-name="Discovery Science",Discovery Science
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22261
 #EXTINF:-1, tvg-id="Discovery Theater" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116418_973D80529B29DB21.png" tvg-name="Discovery Theater",Discovery Theater
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22260
 #EXTINF:-1, tvg-id="Discovery Turbo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437809_3C1AFDF172508F60.png" tvg-name="Discovery Turbo",Discovery Turbo
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22212
 #EXTINF:-1, tvg-id="Discovery World" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116424_08201B8544EA5CC4.png" tvg-name="Discovery World",Discovery World
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22259
+#EXTINF:-1, tvg-id="Disney" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437758_325C3D023A790747.png" tvg-name="Disney",Disney
 
-#EXTINF:-1, tvg-id="Disney Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437756_513822364D347C92.png" tvg-name="Disney Channel",Disney Channel
+#EXTINF:-1, tvg-id="Dog TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/53/9532178_A9B967E186CF234C.png" tvg-name="Dog TV",Dog TV
 
-#EXTINF:-1, tvg-id="Disney Júnior" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114974_048044E5C9A0A982.png" tvg-name="Disney Júnior",Disney Júnior
+#EXTINF:-1, tvg-id="Dreamworks" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/86/11867110_CFABBDBD2773118D.png" tvg-name="Dreamworks",Dreamworks
 
-#EXTINF:-1, tvg-id="Disney XD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163503_FB86B3215C4672FD.png" tvg-name="Disney XD",Disney XD
-
-#EXTINF:-1, tvg-id="Dog TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/17/4178320_A88A3F3A53F33754.png" tvg-name="Dog TV",Dog TV
+#EXTINF:-1, tvg-id="DW" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3118494_FF63BA66B78B4311.png" tvg-name="DW",DW
 
 #EXTINF:-1, tvg-id="E!" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116426_512F139F08782B06.png" tvg-name="E!",E!
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7090
+#EXTINF:-1, tvg-id="Empreender" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/74/11743664_55469C6FF58B8483.png" tvg-name="Empreender",Empreender
 
-#EXTINF:-1, tvg-id="ESPN Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431918_3E7A0E66E40A8208.png" tvg-name="ESPN Brasil",ESPN Brasil
+#EXTINF:-1, tvg-id="EPTV Campinas" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/45/3455610_5DADA5158ADD5AEE.png" tvg-name="EPTV Campinas",EPTV Campinas
 
-#EXTINF:-1, tvg-id="ESPN Extra" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/69/3694072_BA798ECC508B1183.png" tvg-name="ESPN Extra",ESPN Extra
+#EXTINF:-1, tvg-id="EPTV Ribeirão" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/45/3455613_13E4B5CBF344D70D.png" tvg-name="EPTV Ribeirão",EPTV Ribeirão
 
 #EXTINF:-1, tvg-id="ESPN" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431974_F508BF8EBBB55C6B.png" tvg-name="ESPN",ESPN
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22255
+#EXTINF:-1, tvg-id="ESPN 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10384486_AB8E9D8C388586FE.png" tvg-name="ESPN 2",ESPN 2
 
-#EXTINF:-1, tvg-id="ESPN International" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431979_F1511718A8A33E49.png" tvg-name="ESPN International",ESPN International
+#EXTINF:-1, tvg-id="ESPN 3" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10384489_E5C95719BCA28E67.png" tvg-name="ESPN 3",ESPN 3
 
-#EXTINF:-1, tvg-id="ESPN2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/94/3941577_3A87A0F15669B4B8.png" tvg-name="ESPN2",ESPN2
+#EXTINF:-1, tvg-id="ESPN 4" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10384490_2B51FCB830037A84.png" tvg-name="ESPN 4",ESPN 4
 
+#EXTINF:-1, tvg-id="ESPN Extra" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/69/3694072_BA798ECC508B1183.png" tvg-name="ESPN Extra",ESPN Extra
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7136
 #EXTINF:-1, tvg-id="Eurochannel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/72/3729413_AEF3A7538A89446F.png" tvg-name="Eurochannel",Eurochannel
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/33192
+#EXTINF:-1, tvg-id="Eurochannel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/72/3729413_AEF3A7538A89446F.png" tvg-name="Eurochannel",Eurochannel
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/33192
 #EXTINF:-1, tvg-id="FashionTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116435_1504DE870D3E1798.png" tvg-name="FashionTV",FashionTV
 https://523.live.ch.cabo.tv.br/dvttn/523/1280x720_4500.m3u8
-#EXTINF:-1, tvg-id="FishTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/68/3684240_E7BC0F44D94CEE9A.png" tvg-name="FishTV",FishTV
-https://origin-02.nxplay.com.br/FISH_TV_NX/index.m3u8
-#EXTINF:-1, tvg-id="Food Network" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/22/4222613_8046E28EEC62E89A.png" tvg-name="Food Network",Food Network
+#EXTINF:-1, tvg-id="Film & Arts" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10399523_9B1C5EF1555B31AC.png" tvg-name="Film & Arts",Film & Arts
 
+#EXTINF:-1, tvg-id="Fish TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/68/3684240_E7BC0F44D94CEE9A.png" tvg-name="Fish TV",Fish TV
+
+#EXTINF:-1, tvg-id="Food Network" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/22/4222613_8046E28EEC62E89A.png" tvg-name="Food Network",Food Network
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22254
 #EXTINF:-1, tvg-id="Fox News" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437803_4E34F359429AB916.png" tvg-name="Fox News",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1, tvg-id="Fox Sports" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816880_BF8D03F9AD754540.png" tvg-name="Fox Sports",Fox Sports
-
 #EXTINF:-1, tvg-id="Fox Sports 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816879_015AC39801979F00.png" tvg-name="Fox Sports 2",Fox Sports 2
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7157
 #EXTINF:-1, tvg-id="Futura" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114906_E747F40C0ECFB560.png" tvg-name="Futura",Futura
 http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="FX" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816883_606509969C2D914B.png" tvg-name="FX",FX
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22249
+#EXTINF:-1, tvg-id="GLOBO" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437297_357BB3374E500EDF.png" tvg-name="GLOBO",GLOBO
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242035?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="Globo SP" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3195749_136A2C542B14775F.png" tvg-name="Globo SP",Globo SP
 
-#EXTINF:-1, tvg-id="Globo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3195749_136A2C542B14775F.png" tvg-name="Globo",Globo
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242034?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="GloboNews" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437596_2FE185232C41C350.png" tvg-name="GloboNews",GloboNews
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22248
 #EXTINF:-1, tvg-id="Gloob" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437689_85C979EB640F085D.png" tvg-name="Gloob",Gloob
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7155
 #EXTINF:-1, tvg-id="Gloobinho" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/20/4207429_1EE26F2DD692BAF2.png" tvg-name="Gloobinho",Gloobinho
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22196
 #EXTINF:-1, tvg-id="GNT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812670_3FD4E5B6D6DA06FB.png" tvg-name="GNT",GNT
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2270
+#EXTINF:-1, tvg-id="Golf Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/78/9787039_D0C0B6F1FD51659F.png" tvg-name="Golf Channel",Golf Channel
 
 #EXTINF:-1, tvg-id="Gospel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478440_E3825F81430013C6.png" tvg-name="Gospel",Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1, tvg-id="Gospel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478440_E3825F81430013C6.png" tvg-name="Gospel",Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1, tvg-id="Guia Vivo TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/35/9351567_2697C52EB2221A05.png" tvg-name="Guia Vivo TV",Guia Vivo TV
+
 #EXTINF:-1, tvg-id="HBO" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438995_7EDFC0CCCC9609D1.png" tvg-name="HBO",HBO
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22242
 #EXTINF:-1, tvg-id="HBO 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116449_FA01B469D0D9F34E.png" tvg-name="HBO 2",HBO 2
-
-#EXTINF:-1, tvg-id="HBO E*" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3738363_EEC6A30C2B0FFDB1.png" tvg-name="HBO E*",HBO E*
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22244
 #EXTINF:-1, tvg-id="HBO Family" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439020_42F4BDC8259E7BA9.png" tvg-name="HBO Family",HBO Family
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22243
 #EXTINF:-1, tvg-id="HBO Mundi" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/56/6567646_E492630862D38530.png" tvg-name="HBO Mundi",HBO Mundi
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22237
 #EXTINF:-1, tvg-id="HBO Plus" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/94/4943007_1A063ACED96DB86E.PNG" tvg-name="HBO Plus",HBO Plus
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22241
 #EXTINF:-1, tvg-id="HBO Pop" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/56/6567647_1894F12940AE9C0B.png" tvg-name="HBO Pop",HBO Pop
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22235
 #EXTINF:-1, tvg-id="HBO Signature" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163539_3A523BE1CBEE67AF.png" tvg-name="HBO Signature",HBO Signature
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22240
 #EXTINF:-1, tvg-id="HBO Xtreme" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/56/6567650_E6C5AF690B81E082.png" tvg-name="HBO Xtreme",HBO Xtreme
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22236
 #EXTINF:-1, tvg-id="HGTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/98/4982782_2C3F0CE8D1052BD8.png" tvg-name="HGTV",HGTV
-
-#EXTINF:-1, tvg-id="History 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/29/4291942_733FB3D391F2B520.png" tvg-name="History 2",History 2
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22264
 #EXTINF:-1, tvg-id="History" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433038_12CF9036E13EE3F3.png" tvg-name="History",History
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22215
+#EXTINF:-1, tvg-id="History 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/29/4291942_733FB3D391F2B520.png" tvg-name="History 2",History 2
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22211
+#EXTINF:-1, tvg-id="ID" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7520987_643D4B8AB3878E2D.png" tvg-name="ID",ID
+http://168.205.87.198:8555/live/1431/123456/197.ts?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="Ideal" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/45/10450973_D99BF29D5D039A9E.png" tvg-name="Ideal",Ideal
 
-#EXTINF:-1, tvg-id="Investigação Discovery" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7520985_635B9EF42732ED82.png" tvg-name="Investigação Discovery",Investigação Discovery
+#EXTINF:-1, tvg-id="Jovem Pan News" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/56/10567678_DC35880547CC06A8.png" tvg-name="Jovem Pan News",Jovem Pan News
 
 #EXTINF:-1, tvg-id="Lifetime" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437886_6703D2DD17D2C65D.png" tvg-name="Lifetime",Lifetime
-
-#EXTINF:-1, tvg-id="Loading" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8302609_05A96A0ACCC14F73.png" tvg-name="Loading",Loading
-https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-id="Mais na Tela" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437639_91082274D3F572EE.png" tvg-name="Mais na Tela",Mais na Tela
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22238
 #EXTINF:-1, tvg-id="Mega TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478453_26CB20D1952E006C.png" tvg-name="Mega TV",Mega TV
 
 #EXTINF:-1, tvg-id="Megapix" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438982_086C00325873AF5F.png" tvg-name="Megapix",Megapix
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22234
+#EXTINF:-1, tvg-id="Modo Viagem" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/86/11867116_1453C12018B6CE42.png" tvg-name="Modo Viagem",Modo Viagem
 
 #EXTINF:-1, tvg-id="MTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432710_14CCE58065AE5AC9.png" tvg-name="MTV",MTV
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242000?checkedby:iptvcat.com
-#EXTINF:-1, tvg-id="MTV Live" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/34/7348600_06B7162A91CD321A.png" tvg-name="MTV Live",MTV Live
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22233
+#EXTINF:-1, tvg-id="MTV 00s" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/86/11867146_A00292870F677FAB.png" tvg-name="MTV 00s",MTV 00s
+
+#EXTINF:-1, tvg-id="MTV LIVE" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/63/9639220_47CFA0C3DB249BC3.png" tvg-name="MTV LIVE",MTV LIVE
 
 #EXTINF:-1, tvg-id="Multishow" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437623_BD4F848678FCA7C1.png" tvg-name="Multishow",Multishow
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22232
 #EXTINF:-1, tvg-id="Music Box Brazil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8378154_80FB4045C502B668.png" tvg-name="Music Box Brazil",Music Box Brazil
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2241
+#EXTINF:-1, tvg-id="NAT GEO" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/18/3183255_E4F1DF7C400C2F53.png" tvg-name="NAT GEO",NAT GEO
 
-#EXTINF:-1, tvg-id="National Geographic Kids" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/97/3979850_FAC67DC39152847B.png" tvg-name="National Geographic Kids",National Geographic Kids
+#EXTINF:-1, tvg-id="NDTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/29/3298007_6EBD9B7E817890F3.png" tvg-name="NDTV",NDTV
 
-#EXTINF:-1, tvg-id="National Geographic" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436115_C8CC93D462EA3BD0.png" tvg-name="National Geographic",National Geographic
+#EXTINF:-1, tvg-id="NDTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812625_95432EF38D089A84.png" tvg-name="NDTV",NDTV
 
-#EXTINF:-1, tvg-id="National Geographic Wild" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/94/3941530_D915F7F8DF4D19BF.png" tvg-name="National Geographic Wild",National Geographic Wild
+#EXTINF:-1, tvg-id="NDTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/00/4000154_9C04ECDD84CD7018.png" tvg-name="NDTV",NDTV
+
+#EXTINF:-1, tvg-id="NDTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/00/4000154_9C04ECDD84CD7018.png" tvg-name="NDTV",NDTV
+
+#EXTINF:-1, tvg-id="NDTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812625_95432EF38D089A84.png" tvg-name="NDTV",NDTV
 
 #EXTINF:-1, tvg-id="NGT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/83/3832405_D8F92C725FF9B3B5.png" tvg-name="NGT",NGT
 https://cdn.jmvstream.com/w/AVJ-9644/playlist/chunklist.m3u8
-#EXTINF:-1, tvg-id="NHK World Japan" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816731_45B1BFA1F1025883.png" tvg-name="NHK World Japan",NHK World Japan
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
-#EXTINF:-1, tvg-id="Nick Jr" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436105_AA00A32D72CC0822.png" tvg-name="Nick Jr",Nick Jr
-http://168.205.87.198:8555/live/1221/123456/144.ts?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="NHK" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816731_45B1BFA1F1025883.png" tvg-name="NHK",NHK
+
+#EXTINF:-1, tvg-id="Nick Jr." tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3115036_EF8BDCBB6BD91B81.png" tvg-name="Nick Jr.",Nick Jr.
+
 #EXTINF:-1, tvg-id="Nickelodeon" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431898_61381B69592F805E.png" tvg-name="Nickelodeon",Nickelodeon
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7141
+#EXTINF:-1, tvg-id="Nordes TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812618_7F13585188602978.png" tvg-name="Nordes TV",Nordes TV
 
 #EXTINF:-1, tvg-id="OFF" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437576_F9C3630D160ED304.png" tvg-name="OFF",OFF
-
-#EXTINF:-1, tvg-id="Paramount Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/42/3429963_FA1818F411288AC2.png" tvg-name="Paramount Channel",Paramount Channel
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2229
+#EXTINF:-1, tvg-id="Paramount Network" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/02/7028250_D8AB1C22244B1BCD.png" tvg-name="Paramount Network",Paramount Network
 
 #EXTINF:-1, tvg-id="Polishop" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/25/3250065_C4C5D6BB6C9CEAEF.png" tvg-name="Polishop",Polishop
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/27257
+#EXTINF:-1, tvg-id="Premiere" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116726_60C5FB22A537ECDF.png" tvg-name="Premiere",Premiere
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242078?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="Premiere  3" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116728_3DC72E8B5B0E8FBB.png" tvg-name="Premiere  3",Premiere  3
+
+#EXTINF:-1, tvg-id="Premiere  4" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/32/9324487_CD7C0BF1FB9D8394.png" tvg-name="Premiere  4",Premiere  4
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242076?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="Premiere  5" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png" tvg-name="Premiere  5",Premiere  5
 
 #EXTINF:-1, tvg-id="Premiere 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436116_4AF7AF8215EFF0E0.png" tvg-name="Premiere 2",Premiere 2
-http://168.205.87.198:8555/live/1431/123456/169.ts?checkedby:iptvcat.com
-#EXTINF:-1, tvg-id="Premiere 3" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436123_BAEB92AD4732EE79.png" tvg-name="Premiere 3",Premiere 3
-
-#EXTINF:-1, tvg-id="Premiere 4" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436125_F7845ED2695AF310.png" tvg-name="Premiere 4",Premiere 4
-
-#EXTINF:-1, tvg-id="Premiere 5" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732284_776CF2A76DFF7F93.png" tvg-name="Premiere 5",Premiere 5
-http://168.205.87.198:8555/live/1221/123456/82.ts?checkedby:iptvcat.com
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22204
 #EXTINF:-1, tvg-id="Premiere 6" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439081_D738B797AB6A8BE2.png" tvg-name="Premiere 6",Premiere 6
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242072?checkedby:iptvcat.com
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22200
 #EXTINF:-1, tvg-id="Premiere 7" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439089_FFA949F5AC146051.png" tvg-name="Premiere 7",Premiere 7
-
-#EXTINF:-1, tvg-id="Premiere 8" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439097_5D8587FEE59A3BE3.png" tvg-name="Premiere 8",Premiere 8
-
-#EXTINF:-1, tvg-id="Premiere Clubes" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3436124_2DBEF0198CE47C68.png" tvg-name="Premiere Clubes",Premiere Clubes
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22199
+#EXTINF:-1, tvg-id="Premiere 8" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116733_8D719D8074AD841E.png" tvg-name="Premiere 8",Premiere 8
 
 #EXTINF:-1, tvg-id="Prime Box Brazil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438818_519E3BF7065DC370.png" tvg-name="Prime Box Brazil",Prime Box Brazil
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2210
+#EXTINF:-1, tvg-id="Rádio Jornal Fluminense de Campos  - Record" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/94/11941466_BC8334D041CEE04E.png" tvg-name="Rádio Jornal Fluminense de Campos  - Record",Rádio Jornal Fluminense de Campos  - Record
 
-#EXTINF:-1, tvg-id="RAI" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439055_F61320C4F3DB3ED7.png" tvg-name="RAI",RAI
+#EXTINF:-1, tvg-id="Rai Itália" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116735_D33EF137B6C221CF.png" tvg-name="Rai Itália",Rai Itália
 
-#EXTINF:-1, tvg-id="RBI" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163575_A424E2A24860A027.png" tvg-name="RBI",RBI
-https://live-ak.vimeocdn.com/exp=1628019687~acl=%2F85fed4eb-7824-4efe-a391-b497d753ead5%2F%2A~hmac=baabd0961c7de1c825e8731bbf6606168f8df0e6dd3b29910de2d8f4a237b57a/85fed4eb-7824-4efe-a391-b497d753ead5/chunklist_b6256000.m3u8?max_segments=10
-#EXTINF:-1, tvg-id="Record TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437298_63A9E28CEB357A70.png" tvg-name="Record TV",Record TV
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1, tvg-id="Record" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/53/3536553_892D906E19C1FDE9.png" tvg-name="Record",Record
+
+#EXTINF:-1, tvg-id="Record" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/74/11748764_AB9F5B9E9BBB0FBB.png" tvg-name="Record",Record
+
+#EXTINF:-1, tvg-id="Record - RIC TV OESTE" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/00/4000154_9C04ECDD84CD7018.png" tvg-name="Record - RIC TV OESTE",Record - RIC TV OESTE
+
+#EXTINF:-1, tvg-id="Record Brasília" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/24/3249997_0096E403B270BE8A.png" tvg-name="Record Brasília",Record Brasília
+
+#EXTINF:-1, tvg-id="Record Interior" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346146_038D179C3FC94454.png" tvg-name="Record Interior",Record Interior
+
+#EXTINF:-1, tvg-id="Record Litoral" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/24/3249986_D442BD290D60DDC9.png" tvg-name="Record Litoral",Record Litoral
+
+#EXTINF:-1, tvg-id="Record Manaus" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437298_63A9E28CEB357A70.png" tvg-name="Record Manaus",Record Manaus
+
 #EXTINF:-1, tvg-id="Record News" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116736_5C2D5C92CEE5D9CD.png" tvg-name="Record News",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1, tvg-id="Record Paulista" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/25/3250044_7CA6A8E60D9C68F7.png" tvg-name="Record Paulista",Record Paulista
+
+#EXTINF:-1, tvg-id="Record Rio" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3190513_5EF1ADA8430DED08.png" tvg-name="Record Rio",Record Rio
+
+#EXTINF:-1, tvg-id="Record RS" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346110_F118D3BC53C549E3.png" tvg-name="Record RS",Record RS
+
+#EXTINF:-1, tvg-id="Record Tocantins" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437298_63A9E28CEB357A70.png" tvg-name="Record Tocantins",Record Tocantins
+
+#EXTINF:-1, tvg-id="Record TV Belém" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812625_95432EF38D089A84.png" tvg-name="Record TV Belém",Record TV Belém
+
+#EXTINF:-1, tvg-id="Record TV Cabralia" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/25/3250051_8CD09DD5C5FFD917.png" tvg-name="Record TV Cabralia",Record TV Cabralia
+
+#EXTINF:-1, tvg-id="Record TV Itapoan" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812466_8E98919FCCB27EAD.png" tvg-name="Record TV Itapoan",Record TV Itapoan
+
+#EXTINF:-1, tvg-id="Record TV Minas BH" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812461_AFCADFD7FA4243A8.png" tvg-name="Record TV Minas BH",Record TV Minas BH
+
+#EXTINF:-1, tvg-id="Record TV Rio Preto" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346145_F21E6EA13A58E4CF.png" tvg-name="Record TV Rio Preto",Record TV Rio Preto
+
+#EXTINF:-1, tvg-id="Record TV Tocantins" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/00/4000154_9C04ECDD84CD7018.png" tvg-name="Record TV Tocantins",Record TV Tocantins
+
+#EXTINF:-1, tvg-id="REDE 21" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/78/3780367_B9CD7EF8FDFFC71E.png" tvg-name="REDE 21",REDE 21
+
 #EXTINF:-1, tvg-id="Rede Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6484024_27835C7981400442.png" tvg-name="Rede Brasil",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1, tvg-id="Rede Família" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/83/3832406_972879AD77DB499F.png" tvg-name="Rede Família",Rede Família
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="Rede Massa" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3190511_4B030A68E8E65F29.png" tvg-name="Rede Massa",Rede Massa
+
+#EXTINF:-1, tvg-id="Rede Massa  - SBT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3435804_D9B82B5BEF683107.png" tvg-name="Rede Massa  - SBT",Rede Massa  - SBT
+
+#EXTINF:-1, tvg-id="Rede MS" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812569_C377B988ABC56409.png" tvg-name="Rede MS",Rede MS
+
 #EXTINF:-1, tvg-id="Rede Século 21" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/48/3483804_CCD8C63974D8D7DC.png" tvg-name="Rede Século 21",Rede Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b978000.m3u8
+#EXTINF:-1, tvg-id="Rede Século 22" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431913_1B787CEEE220418C.png" tvg-name="Rede Século 22",Rede Século 22
+
+#EXTINF:-1, tvg-id="Rede TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/74/11748773_BACACC01A5B58A13.png" tvg-name="Rede TV",Rede TV
+
+#EXTINF:-1, tvg-id="Rede TV! ES" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346182_43192E22B4EE0E64.png" tvg-name="Rede TV! ES",Rede TV! ES
+
 #EXTINF:-1, tvg-id="Rede Vida" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/23/3233109_C42C521D8E25DE99.png" tvg-name="Rede Vida",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="Rede TV!" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732267_F7B181A9A3F08427.png" tvg-name="Rede TV!",Rede TV!
-http://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+#EXTINF:-1, tvg-id="REDETV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732266_DD8C13C31C28497B.png" tvg-name="REDETV",REDETV
+
+#EXTINF:-1, tvg-id="RedeTV!" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/20/3202334_6AE25992A641D3CB.png" tvg-name="RedeTV!",RedeTV!
+
+#EXTINF:-1, tvg-id="RIC TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3190514_4FDFBB9B01718A40.png" tvg-name="RIC TV",RIC TV
+
+#EXTINF:-1, tvg-id="RIC TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812626_555058CFF2DC17EA.png" tvg-name="RIC TV",RIC TV
+
+#EXTINF:-1, tvg-id="RIC TV Maringá" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812628_4FA594BF9F0495CE.png" tvg-name="RIC TV Maringá",RIC TV Maringá
+
+#EXTINF:-1, tvg-id="Sabor & Arte" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/08/9083574_4148A127A9C4F5B3.png" tvg-name="Sabor & Arte",Sabor & Arte
+
 #EXTINF:-1, tvg-id="Santa Cecília TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869224_32F308C2135BF0CD.png" tvg-name="Santa Cecília TV",Santa Cecília TV
 https://60d88f8ce1206.streamlock.net/2063/2063/chunklist_w1691860229.m3u8
 #EXTINF:-1, tvg-id="SBT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3435715_5E6B1F7F237CDA1C.png" tvg-name="SBT",SBT
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
-#EXTINF:-1, tvg-id="Sex Privê" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732304_377C6656E1154DE5.png" tvg-name="Sex Privê",Sex Privê
+#EXTINF:-1, tvg-id="SBT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3435715_5E6B1F7F237CDA1C.png" tvg-name="SBT",SBT
+https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
+#EXTINF:-1, tvg-id="SBT - Rede Massa TV Naipi" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/97/3979810_B5F01264507AD3AF.png" tvg-name="SBT - Rede Massa TV Naipi",SBT - Rede Massa TV Naipi
+
+#EXTINF:-1, tvg-id="SBT Belém" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114781_8A79A56AC242FD83.png" tvg-name="SBT Belém",SBT Belém
+
+#EXTINF:-1, tvg-id="SBT Brasília" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/24/3249985_3E17BF1BF1970A20.png" tvg-name="SBT Brasília",SBT Brasília
+
+#EXTINF:-1, tvg-id="SBT Central" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/25/3250040_8D82B14218254178.png" tvg-name="SBT Central",SBT Central
+
+#EXTINF:-1, tvg-id="SBT Cuiabá" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/97/3979810_B5F01264507AD3AF.png" tvg-name="SBT Cuiabá",SBT Cuiabá
+
+#EXTINF:-1, tvg-id="SBT Interior" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346091_CB13A3B03D8AC43C.png" tvg-name="SBT Interior",SBT Interior
+
+#EXTINF:-1, tvg-id="SBT Nova Friburgo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/23/3233119_FFA2E93C6A6AE194.png" tvg-name="SBT Nova Friburgo",SBT Nova Friburgo
+
+#EXTINF:-1, tvg-id="SBT Ribeirão" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/45/3455912_1763D3C15D804038.png" tvg-name="SBT Ribeirão",SBT Ribeirão
+
+#EXTINF:-1, tvg-id="SBT Rio" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3190509_C3CDBC0740B58DB4.png" tvg-name="SBT Rio",SBT Rio
+
+#EXTINF:-1, tvg-id="SBT Rondonópolis" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3435804_D9B82B5BEF683107.png" tvg-name="SBT Rondonópolis",SBT Rondonópolis
+
+#EXTINF:-1, tvg-id="SBT RS" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346088_75883A417263FFB2.png" tvg-name="SBT RS",SBT RS
+
+#EXTINF:-1, tvg-id="SBT Tocantins" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/97/3979810_B5F01264507AD3AF.png" tvg-name="SBT Tocantins",SBT Tocantins
+
+#EXTINF:-1, tvg-id="SBT Vale" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3435804_D9B82B5BEF683107.png" tvg-name="SBT Vale",SBT Vale
+
+#EXTINF:-1, tvg-id="SCC SBT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/23/7232434_4A592233E0BAA971.png" tvg-name="SCC SBT",SCC SBT
 
 #EXTINF:-1, tvg-id="SIC Internacional" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439065_868A80678746D5FD.png" tvg-name="SIC Internacional",SIC Internacional
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2194
+#EXTINF:-1, tvg-id="SIC Internacional" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439065_868A80678746D5FD.png" tvg-name="SIC Internacional",SIC Internacional
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2194
+#EXTINF:-1, tvg-id="Smithsonian" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/42/10428067_426A8C37FCAE9CFA.png" tvg-name="Smithsonian",Smithsonian
 
-#EXTINF:-1, tvg-id="Sony Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433076_39127EDB85C2A95D.png" tvg-name="Sony Channel",Sony Channel
+#EXTINF:-1, tvg-id="Sony" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/38/5388559_C4C605DD343130B2.png" tvg-name="Sony",Sony
 
 #EXTINF:-1, tvg-id="Space" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432896_620191891D6F2567.png" tvg-name="Space",Space
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22223
 #EXTINF:-1, tvg-id="SporTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437586_C8AF889FB8170E95.png" tvg-name="SporTV",SporTV
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22220
 #EXTINF:-1, tvg-id="SporTV 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114952_FA53D356CA98A695.png" tvg-name="SporTV 2",SporTV 2
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22222
 #EXTINF:-1, tvg-id="SporTV 3" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114946_14645C44F632829D.png" tvg-name="SporTV 3",SporTV 3
-
-#EXTINF:-1, tvg-id="Star Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8375881_6BDA0AFF873022E4.png" tvg-name="Star Channel",Star Channel
-
-#EXTINF:-1, tvg-id="Star Hits 1" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8375883_AE1B9EEBF7242BA0.png" tvg-name="Star Hits 1",Star Hits 1
-
-#EXTINF:-1, tvg-id="Star Hits 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8375885_A3FF04DF21C91544.png" tvg-name="Star Hits 2",Star Hits 2
-
-#EXTINF:-1, tvg-id="Star Life" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8375892_F843025DE3F71CFF.png" tvg-name="Star Life",Star Life
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22221
+#EXTINF:-1, tvg-id="STAR Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8376102_566FA4AE85E9DCC8.png" tvg-name="STAR Channel",STAR Channel
 
 #EXTINF:-1, tvg-id="Studio Universal" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3118503_71340790EC780220.png" tvg-name="Studio Universal",Studio Universal
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22219
 #EXTINF:-1, tvg-id="Syfy" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3472932_331CC3D7832590C5.png" tvg-name="Syfy",Syfy
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22218
 #EXTINF:-1, tvg-id="TBS" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3438802_36258FBFB630632A.png" tvg-name="TBS",TBS
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2182
 #EXTINF:-1, tvg-id="TCM" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433083_FB876F47DBAD1E1C.png" tvg-name="TCM",TCM
-http://168.205.87.198:8555/live/JOSEE/123456/160.ts?checkedby:iptvcat.com
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/26380
+#EXTINF:-1, tvg-id="TCM" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433083_FB876F47DBAD1E1C.png" tvg-name="TCM",TCM
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/26380
 #EXTINF:-1, tvg-id="Telecine Action" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/17/3174123_52263D107BCA368C.png" tvg-name="Telecine Action",Telecine Action
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22210
 #EXTINF:-1, tvg-id="Telecine Cult" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3190493_B2586D159560B26B.png" tvg-name="Telecine Cult",Telecine Cult
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242109?checkedby:iptvcat.com
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22209
 #EXTINF:-1, tvg-id="Telecine Fun" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/17/3174124_CE0B71166E65CBF2.png" tvg-name="Telecine Fun",Telecine Fun
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22208
 #EXTINF:-1, tvg-id="Telecine Pipoca" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/17/3174125_A130D3265804A5CE.png" tvg-name="Telecine Pipoca",Telecine Pipoca
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22207
 #EXTINF:-1, tvg-id="Telecine Premium" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439238_A181342B26A81EB0.png" tvg-name="Telecine Premium",Telecine Premium
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22217
 #EXTINF:-1, tvg-id="Telecine Touch" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439242_12A19E753ADA5B7F.png" tvg-name="Telecine Touch",Telecine Touch
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22216
 #EXTINF:-1, tvg-id="Telefe" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116753_C7527B78FF1A6CF2.png" tvg-name="Telefe",Telefe
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+#EXTINF:-1, tvg-id="Terra Viva" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/08/9083560_323C237389CB7B10.png" tvg-name="Terra Viva",Terra Viva
+
 #EXTINF:-1, tvg-id="TLC" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116395_40D20FD85676D010.png" tvg-name="TLC",TLC
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2123
 #EXTINF:-1, tvg-id="TNT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432720_EE2D0C71C9938DA4.png" tvg-name="TNT",TNT
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22206
 #EXTINF:-1, tvg-id="TNT Séries" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3432725_4F6ECC911DADC6EF.png" tvg-name="TNT Séries",TNT Séries
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22205
 #EXTINF:-1, tvg-id="Tooncast" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437703_B7FE7B5401939ADC.png" tvg-name="Tooncast",Tooncast
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/26379
+#EXTINF:-1, tvg-id="Tooncast" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437703_B7FE7B5401939ADC.png" tvg-name="Tooncast",Tooncast
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/26379
 #EXTINF:-1, tvg-id="Trace Brazuca" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/29/7299477_EC23678702C7A351.png" tvg-name="Trace Brazuca",Trace Brazuca
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/46282
+#EXTINF:-1, tvg-id="Travel Box Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437876_150DF8E189BD6314.png" tvg-name="Travel Box Brasil",Travel Box Brasil
 
 #EXTINF:-1, tvg-id="Travel Box Brazil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437876_150DF8E189BD6314.png" tvg-name="Travel Box Brazil",Travel Box Brazil
 http://177.20.208.58:8000/play/a04i/index.m3u8
 #EXTINF:-1, tvg-id="truTV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433087_1796BFF721B6F5AF.png" tvg-name="truTV",truTV
-
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2161
 #EXTINF:-1, tvg-id="TV 100% Vida Santos" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/83/3832474_6AA4EB6B218227A9.png" tvg-name="TV 100% Vida Santos",TV 100% Vida Santos
 
 #EXTINF:-1, tvg-id="TV Aberta" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478445_07063DF098753756.png" tvg-name="TV Aberta",TV Aberta
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w951681762.m3u8
+#EXTINF:-1, tvg-id="TV Alterosa" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/23/3233117_0C9D301134309766.png" tvg-name="TV Alterosa",TV Alterosa
+
+#EXTINF:-1, tvg-id="TV Alterosa" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812448_245F6B36A50619ED.png" tvg-name="TV Alterosa",TV Alterosa
+
+#EXTINF:-1, tvg-id="TV Alterosa" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/97/3979810_B5F01264507AD3AF.png" tvg-name="TV Alterosa",TV Alterosa
+
+#EXTINF:-1, tvg-id="TV Alterosa" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812447_F91B34A96E2482CD.png" tvg-name="TV Alterosa",TV Alterosa
+
+#EXTINF:-1, tvg-id="TV Alterosa  - SBT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/97/3979810_B5F01264507AD3AF.png" tvg-name="TV Alterosa  - SBT",TV Alterosa  - SBT
+
+#EXTINF:-1, tvg-id="TV Alterosa Leste" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812346_64631DCC251C9CFC.png" tvg-name="TV Alterosa Leste",TV Alterosa Leste
+
+#EXTINF:-1, tvg-id="TV Antena 10" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346094_D8AF220014446075.png" tvg-name="TV Antena 10",TV Antena 10
+
 #EXTINF:-1, tvg-id="TV Aparecida" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/69/3694071_C04335A120BA64B8.png" tvg-name="TV Aparecida",TV Aparecida
 http://origin-02.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-id="TV Assembléia" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478448_5B67A39A93423B6D.png" tvg-name="TV Assembléia",TV Assembléia
-https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/chunklist_w556284815.m3u8
+#EXTINF:-1, tvg-id="TV Aratu" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812450_DE61A618FA4660DF.png" tvg-name="TV Aratu",TV Aratu
+
+#EXTINF:-1, tvg-id="TV Atalaia" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346110_F118D3BC53C549E3.png" tvg-name="TV Atalaia",TV Atalaia
+
 #EXTINF:-1, tvg-id="TV Ativa" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/85/3856792_DD19859B58CBAFAD.png" tvg-name="TV Ativa",TV Ativa
 
 #EXTINF:-1, tvg-id="TV Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/16/3163585_AE9232F5F231DECF.png" tvg-name="TV Brasil",TV Brasil
 https://origin-02.nxplay.com.br/TV_BRASIL_NX_/video.m3u8
+#EXTINF:-1, tvg-id="TV Brasil 2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/98/4982783_B268B348E6EEDDC3.png" tvg-name="TV Brasil 2",TV Brasil 2
+https://22722d.ha.azioncdn.net/hls/STsEBCLIVE.m3u8
 #EXTINF:-1, tvg-id="TV Câmara" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114277_E4691230419284B7.png" tvg-name="TV Câmara",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1, tvg-id="TV Câmara Campinas" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869222_62AB8478F1C38AD8.png" tvg-name="TV Câmara Campinas",TV Câmara Campinas
+
+#EXTINF:-1, tvg-id="TV Câmara de Americana" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/85/3856798_6FDA374C3C120877.png" tvg-name="TV Câmara de Americana",TV Câmara de Americana
+
+#EXTINF:-1, tvg-id="TV Câmara de Ribeirão" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/85/3856799_DD4C9236802F4B14.png" tvg-name="TV Câmara de Ribeirão",TV Câmara de Ribeirão
+
+#EXTINF:-1, tvg-id="TV Camara de SJC" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/85/3856795_D0EC3049E691166B.png" tvg-name="TV Camara de SJC",TV Camara de SJC
+
+#EXTINF:-1, tvg-id="TV Câmara de Valinhos" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869216_ED31FEA33104B1FB.png" tvg-name="TV Câmara de Valinhos",TV Câmara de Valinhos
+
+#EXTINF:-1, tvg-id="TV Câmara Piracicaba" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869215_663163817B04F846.png" tvg-name="TV Câmara Piracicaba",TV Câmara Piracicaba
+
+#EXTINF:-1, tvg-id="TV Câmara Sorocaba" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/83/3832473_70FB727A099B35EE.png" tvg-name="TV Câmara Sorocaba",TV Câmara Sorocaba
+
+#EXTINF:-1, tvg-id="TV Campo Grande" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812458_C064F1A690A87C79.png" tvg-name="TV Campo Grande",TV Campo Grande
+
+#EXTINF:-1, tvg-id="TV Capixaba" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869206_C80E06EE02275B5D.png" tvg-name="TV Capixaba",TV Capixaba
+
+#EXTINF:-1, tvg-id="TV Catarina" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869208_95800EF67F317816.png" tvg-name="TV Catarina",TV Catarina
+
+#EXTINF:-1, tvg-id="TV Cidade" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812451_2EE7973E2C0EDF72.png" tvg-name="TV Cidade",TV Cidade
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242105?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="TV Cidade" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812475_E977E4AE37D7B9DF.png" tvg-name="TV Cidade",TV Cidade
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242105?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="TV Cidade Rondonópolis" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/00/4000154_9C04ECDD84CD7018.png" tvg-name="TV Cidade Rondonópolis",TV Cidade Rondonópolis
+
+#EXTINF:-1, tvg-id="TV Cidade Verde" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346082_9FED016C4D50C825.png" tvg-name="TV Cidade Verde",TV Cidade Verde
+
+#EXTINF:-1, tvg-id="TV Clube" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869006_E8569F0A50A14050.png" tvg-name="TV Clube",TV Clube
+
+#EXTINF:-1, tvg-id="TV Clube" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/25/3250033_A9F2F10F59D2FAAC.png" tvg-name="TV Clube",TV Clube
+
+#EXTINF:-1, tvg-id="TV Correio" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812551_4BF4B566F4822F42.png" tvg-name="TV Correio",TV Correio
+
 #EXTINF:-1, tvg-id="TV Cultura" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3433094_A7FC496C99C891D3.png" tvg-name="TV Cultura",TV Cultura
 https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/video.m3u8
-#EXTINF:-1, tvg-id="TV Escola" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114778_DEBD312AD7B76341.png" tvg-name="TV Escola",TV Escola
-https://105.live.ch.cabo.tv.br/dvttn/105/720x480_1500.m3u8
+#EXTINF:-1, tvg-id="TV Difusora  - SBT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3435804_D9B82B5BEF683107.png" tvg-name="TV Difusora  - SBT",TV Difusora  - SBT
+
+#EXTINF:-1, tvg-id="TV Em Tempo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3435804_D9B82B5BEF683107.png" tvg-name="TV Em Tempo",TV Em Tempo
+
+#EXTINF:-1, tvg-id="Tv Gazeta" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114900_989122ED3BE71D02.png" tvg-name="Tv Gazeta",Tv Gazeta
+
 #EXTINF:-1, tvg-id="TV Gazeta" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437525_4F6372EAF76961E0.png" tvg-name="TV Gazeta",TV Gazeta
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1, tvg-id="TV Goiânia" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812619_9E7C6635B2EF06E1.png" tvg-name="TV Goiânia",TV Goiânia
+
+#EXTINF:-1, tvg-id="TV Goiás" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812528_623F49E1DAF5D585.png" tvg-name="TV Goiás",TV Goiás
+
 #EXTINF:-1, tvg-id="TV Integração" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812401_4C58B170CE403362.png" tvg-name="TV Integração",TV Integração
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/36033
+#EXTINF:-1, tvg-id="TV Interativa" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812622_36A25EBD7316773C.png" tvg-name="TV Interativa",TV Interativa
+
+#EXTINF:-1, tvg-id="TV Jangadeiro" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812452_254FFD378DFFF4AD.png" tvg-name="TV Jangadeiro",TV Jangadeiro
+
+#EXTINF:-1, tvg-id="TV Jornal" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/25/3250022_71F6B70FBDBC91BA.png" tvg-name="TV Jornal",TV Jornal
+
+#EXTINF:-1, tvg-id="TV Jornal" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812449_FCD4486890629EDD.png" tvg-name="TV Jornal",TV Jornal
 
 #EXTINF:-1, tvg-id="TV Justiça" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114777_59A403FCB58D9EA4.png" tvg-name="TV Justiça",TV Justiça
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7246
+#EXTINF:-1, tvg-id="TV Leste" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812638_0A844146F3E1B400.png" tvg-name="TV Leste",TV Leste
 
-#EXTINF:-1, tvg-id="TV Rá-Tim-Bum" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3437692_905679B3B16F2F98.png" tvg-name="TV Rá-Tim-Bum",TV Rá-Tim-Bum
+#EXTINF:-1, tvg-id="TV Manaíra" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812620_CC7405E0E6E450C6.png" tvg-name="TV Manaíra",TV Manaíra
+
+#EXTINF:-1, tvg-id="TV Maringá" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812627_95DA01F6CA52EEC1.png" tvg-name="TV Maringá",TV Maringá
+
+#EXTINF:-1, tvg-id="TV Metropolitana  - Band" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812657_E9D29E43D63E7E09.png" tvg-name="TV Metropolitana  - Band",TV Metropolitana  - Band
+
+#EXTINF:-1, tvg-id="TV Novo Tempo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/08/9083554_75B09A0C037C7FEF.png" tvg-name="TV Novo Tempo",TV Novo Tempo
+
+#EXTINF:-1, tvg-id="TV Osasco" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869223_315D71E121F86500.png" tvg-name="TV Osasco",TV Osasco
+
+#EXTINF:-1, tvg-id="TV Pajuçara  - Record" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812625_95432EF38D089A84.png" tvg-name="TV Pajuçara  - Record",TV Pajuçara  - Record
+
+#EXTINF:-1, tvg-id="TV Pampa" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346243_F95B66681FF4BFAF.png" tvg-name="TV Pampa",TV Pampa
+
+#EXTINF:-1, tvg-id="TV Pampa" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732267_F7B181A9A3F08427.png" tvg-name="TV Pampa",TV Pampa
+
+#EXTINF:-1, tvg-id="TV Pampa Sul  - Rede TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/73/3732267_F7B181A9A3F08427.png" tvg-name="TV Pampa Sul  - Rede TV",TV Pampa Sul  - Rede TV
+
+#EXTINF:-1, tvg-id="TV Paranaíba  - Record TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812625_95432EF38D089A84.png" tvg-name="TV Paranaíba  - Record TV",TV Paranaíba  - Record TV
+
+#EXTINF:-1, tvg-id="TV Ponta Negra  - SBT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/75/11753878_5FBC160AC24E4F0E.png" tvg-name="TV Ponta Negra  - SBT",TV Ponta Negra  - SBT
+
+#EXTINF:-1, tvg-id="TV Ponta Verde  - SBT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114781_8A79A56AC242FD83.png" tvg-name="TV Ponta Verde  - SBT",TV Ponta Verde  - SBT
+
+#EXTINF:-1, tvg-id="TV Rá Tim Bum" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/00/9009029_EB0B49D16D082AC5.png" tvg-name="TV Rá Tim Bum",TV Rá Tim Bum
+
+#EXTINF:-1, tvg-id="TV Rede Mais Varginha" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/23/3233116_110591B8C0FA98F7.png" tvg-name="TV Rede Mais Varginha",TV Rede Mais Varginha
 
 #EXTINF:-1, tvg-id="TV Senado" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114776_A156992527475080.png" tvg-name="TV Senado",TV Senado
 https://106.live.ch.cabo.tv.br/dvttn/106/720x480_1500.m3u8
+#EXTINF:-1, tvg-id="TV Serra Dourada" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812453_44E4B1245914DF98.png" tvg-name="TV Serra Dourada",TV Serra Dourada
+
 #EXTINF:-1, tvg-id="TV Sol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/85/3856801_9A630BF0866A3E9B.png" tvg-name="TV Sol",TV Sol
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1, tvg-id="TV Sorocaba" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3435735_2BBAC97249E1B8E7.png" tvg-name="TV Sorocaba",TV Sorocaba
+
+#EXTINF:-1, tvg-id="TV Sucesso" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/00/4000154_9C04ECDD84CD7018.png" tvg-name="TV Sucesso",TV Sucesso
+
+#EXTINF:-1, tvg-id="TV Tambaú" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812457_DAFB43D284758F0D.png" tvg-name="TV Tambaú",TV Tambaú
+
+#EXTINF:-1, tvg-id="TV Tarobá" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812621_73C8405CC11B03FD.png" tvg-name="TV Tarobá",TV Tarobá
+
+#EXTINF:-1, tvg-id="TV Tarobá Cascavel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812657_E9D29E43D63E7E09.png" tvg-name="TV Tarobá Cascavel",TV Tarobá Cascavel
+
+#EXTINF:-1, tvg-id="TV TEM Sorocaba" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/82/6825708_149F17D74F10FED7.png" tvg-name="TV TEM Sorocaba",TV TEM Sorocaba
+
+#EXTINF:-1, tvg-id="TV Thathi" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/24/3249972_93ED6398B7A9270D.png" tvg-name="TV Thathi",TV Thathi
+
+#EXTINF:-1, tvg-id="TV Tibagi" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812629_26DD07CAC559B690.png" tvg-name="TV Tibagi",TV Tibagi
+
+#EXTINF:-1, tvg-id="TV Tribuna" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/25/3250035_A3A51C1451B8A2D4.png" tvg-name="TV Tribuna",TV Tribuna
+
+#EXTINF:-1, tvg-id="TV Tribuna" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346083_32EFE52AF9D258AD.png" tvg-name="TV Tribuna",TV Tribuna
+
+#EXTINF:-1, tvg-id="TV Tribuna Santos" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431914_0E16005C5C0B4AA8.png" tvg-name="TV Tribuna Santos",TV Tribuna Santos
+
+#EXTINF:-1, tvg-id="TV Tropical  - Record" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/75/11753876_7D9C38487D4DD6BE.png" tvg-name="TV Tropical  - Record",TV Tropical  - Record
+
+#EXTINF:-1, tvg-id="TV Univap SJC" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/85/3856802_2844908BE08CBC6A.png" tvg-name="TV Univap SJC",TV Univap SJC
+
+#EXTINF:-1, tvg-id="TV Vanguarda" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/45/3455915_B045FE2419F617D9.png" tvg-name="TV Vanguarda",TV Vanguarda
+
+#EXTINF:-1, tvg-id="TV Vila Real" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/00/4000154_9C04ECDD84CD7018.png" tvg-name="TV Vila Real",TV Vila Real
+
+#EXTINF:-1, tvg-id="TV Vitória" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346096_778E6505C0B24B26.png" tvg-name="TV Vitória",TV Vitória
+
+#EXTINF:-1, tvg-id="TV Vitoriosa  - SBT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114781_8A79A56AC242FD83.png" tvg-name="TV Vitoriosa  - SBT",TV Vitoriosa  - SBT
+
 #EXTINF:-1, tvg-id="TV5Monde" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116390_D6D06CBDEA0E7393.png" tvg-name="TV5Monde",TV5Monde
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1, tvg-id="TVB Band" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869207_54338A96566ECAD4.png" tvg-name="TVB Band",TVB Band
+
+#EXTINF:-1, tvg-id="TVB Campinas" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/45/3455909_FEC455F7579ED79C.png" tvg-name="TVB Campinas",TVB Campinas
+
 #EXTINF:-1, tvg-id="TVE" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431920_6110FE5EB89F3E75.png" tvg-name="TVE",TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1, tvg-id="Universal Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/82/3828917_13736897C3A7EE56.png" tvg-name="Universal Channel",Universal Channel
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1, tvg-id="VH1" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431894_8439BA0FBD17BCE3.png" tvg-name="VH1",VH1
+#EXTINF:-1, tvg-id="TVT SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/25/3250068_E6D29F72E1811FAF.png" tvg-name="TVT SD",TVT SD
 
-#EXTINF:-1, tvg-id="Viva" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431880_F332A6102DD52B0B.png" tvg-name="Viva",Viva
+#EXTINF:-1, tvg-id="Ulbra TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346181_539F2A678FEC8996.png" tvg-name="Ulbra TV",Ulbra TV
 
-#EXTINF:-1, tvg-id="Warner Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431860_8286C5373AB3AE79.png" tvg-name="Warner Channel",Warner Channel
+#EXTINF:-1, tvg-id="Universal TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/82/3828917_13736897C3A7EE56.png" tvg-name="Universal TV",Universal TV
+
+#EXTINF:-1, tvg-id="VIVA" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/41/8411309_9F7C801D5C050137.png" tvg-name="VIVA",VIVA
+
+#EXTINF:-1, tvg-id="VTV SBT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431871_702462B2453DCECF.png" tvg-name="VTV SBT",VTV SBT
+
+#EXTINF:-1, tvg-id="VTV SBT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431868_B960ACD1F1E51BF0.png" tvg-name="VTV SBT",VTV SBT
+
+#EXTINF:-1, tvg-id="Warner" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116386_4A2933F990D8D333.png" tvg-name="Warner",Warner
 
 #EXTINF:-1, tvg-id="Woohoo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/68/3684276_69E6A03BE5CCDF0A.png" tvg-name="Woohoo",Woohoo
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7097
+#EXTINF:-1, tvg-id="Woohoo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/68/3684276_69E6A03BE5CCDF0A.png" tvg-name="Woohoo",Woohoo
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7097
+#EXTINF:-1, tvg-id="Zoomoo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10690864_2570816EAD6A71C5.png" tvg-name="Zoomoo",Zoomoo
