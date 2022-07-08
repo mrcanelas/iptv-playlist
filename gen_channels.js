@@ -4,6 +4,10 @@ const convert = require("xml-js");
 const endPoint = "https://contentapi-br.cdn.telefonica.com/25/default/pt-BR/contents/all?ca_deviceTypes=401&contentTypes=LCH&ca_active=true&ca_requiresPin=false&fields=Pid,Name,images.icon&orderBy=contentOrder&limit=10000";
 const options = {compact: true, ignoreComment: true, spaces: 4}
 
+function getUniqueListBy(arr, key) {
+  return [...new Map(arr.map(item => [item[key], item])).values()]
+}
+
 axios.get(endPoint).then((body) => {
   const channel = body.data.Content.List.map((chn, index) => {
     const _attributes = {
@@ -28,7 +32,7 @@ axios.get(endPoint).then((body) => {
     },
     site: {
       _attributes: { 'xmlns:xsi': 'http://www.w3.org/2001/XMLSchema-instance' },
-      channels: { channel: filterChennels }
+      channels: { channel: getUniqueListBy(filterChennels, '_text')  }
     }
   }
 
