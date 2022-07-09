@@ -85,10 +85,10 @@ https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 
 #EXTINF:-1, tvg-id="Climatempo" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116408_8C4F511AFC31B23F.png" tvg-name="Climatempo",Climatempo
 
-#EXTINF:-1, tvg-id="CNN" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116409_A8CA93749FDAF8A1.png" tvg-name="CNN",CNN
-
 #EXTINF:-1, tvg-id="CNN Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6711228_154BC2F6F4BAB060.png" tvg-name="CNN Brasil",CNN Brasil
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+#EXTINF:-1, tvg-id="CNNi" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116409_A8CA93749FDAF8A1.png" tvg-name="CNNi",CNNi
+
 #EXTINF:-1, tvg-id="CNT Americana" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/30/3309804_7E7CDD9A6E43A46E.png" tvg-name="CNT Americana",CNT Americana
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 #EXTINF:-1, tvg-id="COM Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/79/9796101_C13318AD4F8CD04E.png" tvg-name="COM Brasil",COM Brasil
