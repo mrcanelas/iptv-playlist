@@ -257,6 +257,8 @@ http://168.205.87.198:8555/live/JOSEE/123456/144.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1431/123456/83.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 8" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116733_8D719D8074AD841E.png" tvg-name="Premiere 8",Premiere 8
 
+#EXTINF:-1, tvg-id="Premiere 9" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/74/11743948_74F607B5145B192B.png" tvg-name="Premiere 9",Premiere 9
+
 #EXTINF:-1, tvg-id="Prime Box Brazil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116734_76426D1F43DDD73D.png" tvg-name="Prime Box Brazil",Prime Box Brazil
 
 #EXTINF:-1, tvg-id="Rádio Jornal Fluminense de Campos  - Record" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/94/11941466_BC8334D041CEE04E.png" tvg-name="Rádio Jornal Fluminense de Campos  - Record",Rádio Jornal Fluminense de Campos  - Record
