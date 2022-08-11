@@ -77,6 +77,8 @@ https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 
 #EXTINF:-1, tvg-id="Cartoonito" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/12/10126671_49DF0A22B1E74D27.png" tvg-name="Cartoonito",Cartoonito
 
+#EXTINF:-1, tvg-id="CBI" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478453_26CB20D1952E006C.png" tvg-name="CBI",CBI
+
 #EXTINF:-1, tvg-id="Chef TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116406_592A6D74CEA57860.png" tvg-name="Chef TV",Chef TV
 
 #EXTINF:-1, tvg-id="Cinecanal" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/73/10739844_4CC033F87794F097.png" tvg-name="Cinecanal",Cinecanal
@@ -206,8 +208,6 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1, tvg-id="Lifetime" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/29/7292197_164EC0E7C3B27CBE.png" tvg-name="Lifetime",Lifetime
 
 #EXTINF:-1, tvg-id="Markket" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/42/12426313_412D0C465C2C77F3.png" tvg-name="Markket",Markket
-
-#EXTINF:-1, tvg-id="Mega TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478453_26CB20D1952E006C.png" tvg-name="Mega TV",Mega TV
 
 #EXTINF:-1, tvg-id="Megapix" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116463_33A5D1EB1DC86AA7.png" tvg-name="Megapix",Megapix
 
