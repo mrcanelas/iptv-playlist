@@ -88,7 +88,7 @@ https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1, tvg-id="CNN Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6711228_154BC2F6F4BAB060.png" tvg-name="CNN Brasil",CNN Brasil
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
 #EXTINF:-1, tvg-id="CNNi" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116409_A8CA93749FDAF8A1.png" tvg-name="CNNi",CNNi
-https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1, tvg-id="CNT Americana" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/30/3309804_7E7CDD9A6E43A46E.png" tvg-name="CNT Americana",CNT Americana
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 #EXTINF:-1, tvg-id="COM Brasil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/79/9796101_C13318AD4F8CD04E.png" tvg-name="COM Brasil",COM Brasil
@@ -246,19 +246,19 @@ http://168.205.87.198:8555/live/1431/123456/77.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116726_60C5FB22A537ECDF.png" tvg-name="Premiere",Premiere
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242078?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 3" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116728_3DC72E8B5B0E8FBB.png" tvg-name="Premiere 3",Premiere 3
-http://top.streancdn.fun:80/0987654321/1234567890/2163158?checkedby:iptvcat.com
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8024?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 4" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/32/9324487_CD7C0BF1FB9D8394.png" tvg-name="Premiere 4",Premiere 4
-http://top.streancdn.fun:80/0987654321/1234567890/2163160?checkedby:iptvcat.com
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8023?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 5" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png" tvg-name="Premiere 5",Premiere 5
-http://top.streancdn.fun:80/0987654321/1234567890/2163147?checkedby:iptvcat.com
+http://top.streancdn.fun:80/0987654321/1234567890/2163145?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere 9" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/74/11743948_74F607B5145B192B.png" tvg-name="Premiere 9",Premiere 9
 
 #EXTINF:-1, tvg-id="Premiere2" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116727_C6E63EF281B5ABF5.png" tvg-name="Premiere2",Premiere2
-http://168.205.87.198:8555/live/1431/123456/82.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/JOSEE/123456/153.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere6" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116731_6CF46E0B8ADC2087.png" tvg-name="Premiere6",Premiere6
-http://top.streancdn.fun:80/0987654321/1234567890/2163275?checkedby:iptvcat.com
+http://top.streancdn.fun:80/0987654321/1234567890/2163152?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere7" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116732_725060167CA23478.png" tvg-name="Premiere7",Premiere7
-http://top.streancdn.fun:80/0987654321/1234567890/2163163?checkedby:iptvcat.com
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46577?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Premiere8" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116733_8D719D8074AD841E.png" tvg-name="Premiere8",Premiere8
 
 #EXTINF:-1, tvg-id="Prime Box Brazil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116734_76426D1F43DDD73D.png" tvg-name="Prime Box Brazil",Prime Box Brazil
