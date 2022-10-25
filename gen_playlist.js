@@ -18,7 +18,7 @@ const urlIgnore =
   "pascaltv.site:8080";
 
 function parseName(value) {
-  return value.toLowerCase().replace(/ /g, "");
+  return value.toLowerCase();
 }
 
 axios.get(endPoint).then((resp) => {
@@ -65,7 +65,7 @@ axios.get(endPoint).then((resp) => {
       playlistFileText += `\n${itemHeader}`;
     }
   });
-  fs.outputFile("./.gh-pages/playlist.m3u", playlistFileText, (err) => {
+  fs.outputFile("./gh-pages/playlist.m3u", playlistFileText, (err) => {
     console.log("Sucess");
   });
 });

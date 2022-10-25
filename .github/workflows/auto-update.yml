@@ -16,11 +16,9 @@ jobs:
         run: node gen_channels.js
       - name: Run Playlist Builder
         run: node gen_playlist.js
-      - name: Run EPG Grabber
-        run: npx epg-grabber --config=sites/vivoplay.com.br.config.js
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
           branch: gh-pages
-          folder: .gh-pages
+          folder: gh-pages
           clean: false
