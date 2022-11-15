@@ -56,7 +56,7 @@ http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5194
 #EXTINF:-1, tvg-id="BBC World" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/79/9799738_B8107F93E067F865.png" tvg-name="BBC World",BBC World
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1, tvg-id="Bloomberg" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116398_6AF43CFC889A7F62.png" tvg-name="Bloomberg",Bloomberg
-https://rebroadcast.mytvtogo.net/mytvtogo/blugrassmusic/playlist.m3u8?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1221/123456/147.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Boa Vontade SJC" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/85/3856796_68B3E372B0CD899A.png" tvg-name="Boa Vontade SJC",Boa Vontade SJC
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCedt33latJW7StRfdF4-1FQ/live
 #EXTINF:-1, tvg-id="Box Kids" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/86/11867105_90C43BA737202E0B.png" tvg-name="Box Kids",Box Kids
@@ -64,11 +64,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1, tvg-id="Canal Comunitário de Santos" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869221_18A59399842E61C1.png" tvg-name="Canal Comunitário de Santos",Canal Comunitário de Santos
 
 #EXTINF:-1, tvg-id="Canal do Criador" tvg-logo="http://media.gvp.telefonica.com/storagearea10/IMAGES/00/13/33/13337080_D30C6D6066C648FB.png" tvg-name="Canal do Criador",Canal do Criador
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8?checkedby:iptvcat.com
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Canal Educação" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/58/11582161_46AE9A693119D6D9.png" tvg-name="Canal Educação",Canal Educação
 
 #EXTINF:-1, tvg-id="Canal Rural" tvg-logo="http://media.gvp.telefonica.com/storagearea10/IMAGES/00/13/33/13337082_6DD1D003EBB76581.png" tvg-name="Canal Rural",Canal Rural
-http://168.205.87.198:8555/live/michele/123456/25.ts?checkedby:iptvcat.com
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Canal Universitário" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478439_75D07F56134A09B0.png" tvg-name="Canal Universitário",Canal Universitário
 
 #EXTINF:-1, tvg-id="Canção Nova" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3816713_168EF81A0FF877B4.png" tvg-name="Canção Nova",Canção Nova
@@ -414,7 +414,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1, tvg-id="TV Catarina" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/86/3869208_95800EF67F317816.png" tvg-name="TV Catarina",TV Catarina
 
 #EXTINF:-1, tvg-id="TV Cidade" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/81/3812475_E977E4AE37D7B9DF.png" tvg-name="TV Cidade",TV Cidade
-http://168.205.87.198:8555/live/michele/123456/138.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/michele/123456/135.ts?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="TV Cidade Rondonópolis" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/00/4000154_9C04ECDD84CD7018.png" tvg-name="TV Cidade Rondonópolis",TV Cidade Rondonópolis
 
 #EXTINF:-1, tvg-id="TV Cidade Verde" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346082_9FED016C4D50C825.png" tvg-name="TV Cidade Verde",TV Cidade Verde
