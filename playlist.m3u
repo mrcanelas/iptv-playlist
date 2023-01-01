@@ -325,8 +325,6 @@ http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923894
 
 #EXTINF:-1, tvg-id="SIC Internacional" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439065_868A80678746D5FD.png" tvg-name="SIC Internacional",SIC Internacional
 http://live.impresa.pt/live/sicint/sicint.m3u8
-#EXTINF:-1, tvg-id="Smithsonian" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/42/10428067_426A8C37FCAE9CFA.png" tvg-name="Smithsonian",Smithsonian
-http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923077
 #EXTINF:-1, tvg-id="Sony" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/38/5388559_C4C605DD343130B2.png" tvg-name="Sony",Sony
 http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373238
 #EXTINF:-1, tvg-id="Space" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3190492_9E4E9614C21AA2AF.png" tvg-name="Space",Space
