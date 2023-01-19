@@ -65,6 +65,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Canal Educação" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/58/11582161_46AE9A693119D6D9.png" tvg-name="Canal Educação",Canal Educação
 
+#EXTINF:-1, tvg-id="Canal K" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13140096_01540286B4558BC5.png" tvg-name="Canal K",Canal K
+
 #EXTINF:-1, tvg-id="Canal Rural" tvg-logo="http://media.gvp.telefonica.com/storagearea10/IMAGES/00/13/33/13337082_6DD1D003EBB76581.png" tvg-name="Canal Rural",Canal Rural
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Canal Universitário" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/47/3478439_75D07F56134A09B0.png" tvg-name="Canal Universitário",Canal Universitário
@@ -183,8 +185,6 @@ http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5236
 
 #EXTINF:-1, tvg-id="Jovem Pan News" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/56/10567678_DC35880547CC06A8.png" tvg-name="Jovem Pan News",Jovem Pan News
 http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465361
-#EXTINF:-1, tvg-id="K Chef TV Plus" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13140096_01540286B4558BC5.png" tvg-name="K Chef TV Plus",K Chef TV Plus
-
 #EXTINF:-1, tvg-id="Lifetime" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/29/7292197_164EC0E7C3B27CBE.png" tvg-name="Lifetime",Lifetime
 http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5237
 #EXTINF:-1, tvg-id="Markket" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/42/12426313_412D0C465C2C77F3.png" tvg-name="Markket",Markket
@@ -512,6 +512,8 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1, tvg-id="TVT SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/25/3250068_E6D29F72E1811FAF.png" tvg-name="TVT SD",TVT SD
 
 #EXTINF:-1, tvg-id="Ulbra TV" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/34/3346181_539F2A678FEC8996.png" tvg-name="Ulbra TV",Ulbra TV
+
+#EXTINF:-1, tvg-id="Vivo Play" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/90/5906428_452E54FC39F70CD2.png" tvg-name="Vivo Play",Vivo Play
 
 #EXTINF:-1, tvg-id="VTV SBT" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431868_B960ACD1F1E51BF0.png" tvg-name="VTV SBT",VTV SBT
 
