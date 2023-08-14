@@ -30,7 +30,7 @@ axios.get(endPoint).then((resp) => {
   channels.elements.map((el) => {
     const result = parser.parse(staticChannels);
     const index = result.items.find(
-      (val) => val.name == el.attributes.xmltv_id
+      (val) => val.tvg.name == el.attributes.xmltv_id
     );
     if (index !== undefined) {
       let itemHeader = "#EXTINF:-1,";

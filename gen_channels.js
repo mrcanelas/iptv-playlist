@@ -1,7 +1,7 @@
 const axios = require("axios");
 const fs = require("fs-extra");
 const convert = require("xml-js");
-const endPoint = "https://contentapi-br.cdn.telefonica.com/25/default/pt-BR/contents/all?ca_deviceTypes=401&contentTypes=LCH&ca_active=true&ca_requiresPin=false&fields=Pid,Name,images.icon&orderBy=contentOrder&limit=10000";
+const endPoint = "https://contentapi-br.cdn.telefonica.com/25/default/pt-BR/contents/all?contentTypes=LCH&ca_active=true&ca_requiresPin=false&fields=Pid,Name,images.icon&orderBy=contentOrder&limit=10000";
 const options = {compact: true, ignoreComment: true, spaces: 4}
 
 function getUniqueListBy(arr, key) {
@@ -13,9 +13,9 @@ axios.get(endPoint).then((body) => {
     const _attributes = {
       site_id: chn.Pid,
       logo: chn.Images.Icon ? chn.Images.Icon[0].Url : null,
-      xmltv_id: chn.Title.replace(/HD/g, "").replace(/&/g, '&amp;').trim(),
+      xmltv_id: chn.Title.replace(/HD | HD/g, "").replace(/&/g, '&amp;').trim(),
     };
-    const _text = chn.Title.replace(/HD/g, "").replace(/&/g, '&amp;').trim()
+    const _text = chn.Title.replace(/HD | HD/g, "").replace(/&/g, '&amp;').trim()
     return {
       _attributes,
       _text
