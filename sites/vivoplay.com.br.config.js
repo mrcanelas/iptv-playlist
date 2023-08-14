@@ -6,7 +6,7 @@ module.exports = {
   channels: 'sites/vivoplay.com.br.channels.xml',
   output: 'gh-pages/guide.xml',
   days: 2,
-  maxConnections: 200,
+  maxConnections: 5,
 
   url: function ({date, channel}) {
     return `https://contentapi-br.cdn.telefonica.com/25/default/pt-BR/schedules?ca_deviceTypes=null%7C401&fields=Title,Description,Start,End,EpgSerieId,SeriesPid,SeasonPid,images.videoFrame,images.banner&orderBy=START_TIME:a&filteravailability=false&starttime=${date.unix()}&endtime=${date.add(1, 'day').unix()}&livechannelpids=${channel.site_id}`;
