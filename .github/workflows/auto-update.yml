@@ -15,7 +15,7 @@ jobs:
       - name: Run ChannelList Builder
         run: node gen_channels.js
       - name: Run EPG Grabber
-        run: npx epg-grabber --config=sites/vivoplay.com.br.config.js
+        run: npx epg-grabber --config=sites/mi.tv.config.js
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
