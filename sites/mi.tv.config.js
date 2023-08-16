@@ -12,6 +12,7 @@ module.exports = {
   channels: 'sites/mi.tv.channels.xml',
   output: 'gh-pages/guide.xml',
   days: 2,
+  maxConnections: 20,
 
   url({ date, channel }) {
     const [country, id] = channel.site_id.split('#')
