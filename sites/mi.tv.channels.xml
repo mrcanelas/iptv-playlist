@@ -70,10 +70,6 @@
         <channel site_id="br#h2" xmltv_id="History 2" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/54/10547176_12B4E3AC635D200C.png">History 2</channel>
         <channel site_id="br#investigacao-discovery" xmltv_id="ID" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7520987_643D4B8AB3878E2D.png">ID</channel>
         <channel site_id="br#ideal-tv" xmltv_id="Ideal" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/45/10450973_D99BF29D5D039A9E.png">Ideal</channel>
-        <channel site_id="br#intertv-alto-literal-hd" xmltv_id="Inter TV Alto Litoral - Globo" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/75/11753766_473FF4C627511A99.png">Inter TV Alto Litoral - Globo</channel>
-        <channel site_id="br#intertv-cabugi-hd" xmltv_id="Inter TV dos Vales" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/87/15874261_4E6F746F39A20EDF.png">Inter TV dos Vales</channel>
-        <channel site_id="br#intertv-grande-minas-hd" xmltv_id="Inter TV Grande Minas" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/87/15875458_1A7B2B167FD34868.png">Inter TV Grande Minas</channel>
-        <channel site_id="br#intertv-serra-mar-hd" xmltv_id="Inter TV Serra" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/75/11753766_473FF4C627511A99.png">Inter TV Serra</channel>
         <channel site_id="br#jovem-pan-news" xmltv_id="Jovem Pan News" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/56/10567678_DC35880547CC06A8.png">Jovem Pan News</channel>
         <channel site_id="br#lifetime-brazil" xmltv_id="Lifetime" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/29/7292197_164EC0E7C3B27CBE.png">Lifetime</channel>
         <channel site_id="br#megapix" xmltv_id="Megapix" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116463_33A5D1EB1DC86AA7.png">Megapix</channel>
@@ -86,14 +82,15 @@
         <channel site_id="br#nickelodeon" xmltv_id="Nickelodeon" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3431535_ADFA3D496D1B4EED.png">Nickelodeon</channel>
         <channel site_id="br#off" xmltv_id="OFF" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3114909_FD3076E234C0C522.png">OFF</channel>
         <channel site_id="br#paramount-channel" xmltv_id="Paramount Network" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/02/7028250_D8AB1C22244B1BCD.png">Paramount Network</channel>
-        <channel site_id="br#premiere-clubes" xmltv_id="Premiere" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116726_60C5FB22A537ECDF.png">Premiere</channel>
-        <channel site_id="br#premiere-2" xmltv_id="Premiere 2" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 2</channel>
-        <channel site_id="br#premiere-3" xmltv_id="Premiere 3" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 3</channel>
-        <channel site_id="br#premiere-4" xmltv_id="Premiere 4" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 4</channel>
-        <channel site_id="br#premiere-5" xmltv_id="Premiere 5" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 5</channel>
-        <channel site_id="br#premiere-6" xmltv_id="Premiere 6" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 6</channel>
-        <channel site_id="br#premiere-7" xmltv_id="Premiere 7" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 7</channel>
-        <channel site_id="br#premiere-8" xmltv_id="Premiere 8" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 8</channel>
+        <channel site_id="br#premiere-clubes-hd" xmltv_id="Premiere" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116726_60C5FB22A537ECDF.png">Premiere</channel>
+        <channel site_id="br#premiere-2-hd" xmltv_id="Premiere 2" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 2</channel>
+        <channel site_id="br#premiere-3-hd" xmltv_id="Premiere 3" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 3</channel>
+        <channel site_id="br#premiere-4-hd" xmltv_id="Premiere 4" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 4</channel>
+        <channel site_id="br#premiere-5-hd" xmltv_id="Premiere 5" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 5</channel>
+        <channel site_id="br#premiere-6-hd" xmltv_id="Premiere 6" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 6</channel>
+        <channel site_id="br#premiere-7-hd" xmltv_id="Premiere 7" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 7</channel>
+        <channel site_id="br#premiere-8-hd" xmltv_id="Premiere 8" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 8</channel>
+        <channel site_id="br#premiere-9-hd" xmltv_id="Premiere 9" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116730_E08C6506930921AD.png">Premiere 8</channel>
         <channel site_id="br#prime-box-brazil" xmltv_id="Prime Box Brazil" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116734_76426D1F43DDD73D.png">Prime Box Brazil</channel>
         <channel site_id="br#record" xmltv_id="Record" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/53/3536553_892D906E19C1FDE9.png">Record</channel>
         <channel site_id="br#record-news" xmltv_id="Record News" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/11/3116736_5C2D5C92CEE5D9CD.png">Record News</channel>
@@ -104,7 +101,7 @@
         <channel site_id="br#sic" xmltv_id="SIC Internacional" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/43/3439065_868A80678746D5FD.png">SIC Internacional</channel>
         <channel site_id="br#sony" xmltv_id="Sony" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/38/5388559_C4C605DD343130B2.png">Sony</channel>
         <channel site_id="br#space" xmltv_id="Space" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/19/3190492_9E4E9614C21AA2AF.png">Space</channel>
-        <channel site_id="br#sportv" xmltv_id="Sportv" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/76/9760132_8EB9B6A86FD79B7B.png">Sportv</channel>
+        <channel site_id="br#sportv" xmltv_id="SporTV" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/76/9760132_8EB9B6A86FD79B7B.png">Sportv</channel>
         <channel site_id="br#sportv2" xmltv_id="SporTV 2" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/76/9760139_35DCF658F568277B.png">SporTV 2</channel>
         <channel site_id="br#sportv3" xmltv_id="SporTV 3" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/76/9760136_2F65534C9CCA32CF.png">SporTV 3</channel>
         <channel site_id="br#fox" xmltv_id="STAR Channel" logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/37/8376102_566FA4AE85E9DCC8.png">STAR Channel</channel>
