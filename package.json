@@ -18,12 +18,12 @@
   },
   "homepage": "https://github.com/mrcanelas/iptv-playlist#readme",
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^1.6.8",
     "cheerio": "^1.0.0-rc.12",
     "dayjs": "^1.11.9",
-    "epg-grabber": "^0.32.0",
+    "epg-grabber": "^0.36.1",
     "fs-extra": "^11.1.1",
-    "iptv-playlist-parser": "^0.12.2",
+    "iptv-playlist-parser": "^0.13.0",
     "xml-js": "^1.6.11"
   }
 }

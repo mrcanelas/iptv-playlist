@@ -19,19 +19,17 @@ channels.elements.map((el) => {
     (val) => parseName(val.tvg.name) == parseName(el.attributes.xmltv_id)
   );
   const filterBestQuality = filterChannelsByQuality(index)
-  if (filterBestQuality[0] !== undefined) {
-    let itemHeader = "#EXTINF:-1,";
+  let itemHeader = "#EXTINF:-1,";
 
-    if (el.attributes.xmltv_id) itemHeader += ` tvg-id="${el.attributes.xmltv_id}"`;
+    if (el.attributes.site_id) itemHeader += ` tvg-id="${el.attributes.site_id}"`;
     if (el.attributes.logo) itemHeader += ` tvg-logo="${el.attributes.logo}"`;
     if (el.attributes.xmltv_id) itemHeader += ` tvg-name="${el.attributes.xmltv_id}"`;
     if (filterBestQuality[0]?.group?.title) itemHeader += ` group-title="${clearGroupName(filterBestQuality[0]?.group?.title)}"`;
 
     itemHeader += `,${el.attributes.xmltv_id}`;
-    itemHeader += `\n${filterBestQuality[0].url}`;
+    itemHeader +=  (filterBestQuality[0] !== undefined) ? `\n${filterBestQuality[0].url}` : '\n';
     playlistFileText += `\n${itemHeader}`;
-    console.log("Adicionado o canal: " + filterBestQuality[0].tvg.name)
-  }
+    console.log((filterBestQuality[0] !== undefined) ? "Adicionado o canal: " + filterBestQuality[0].tvg.name : "Não encontrado streams para o canal:" + el.attributes.xmltv_id)
 });
 fs.outputFile("./gh-pages/playlist.m3u", playlistFileText, (err) => {
   console.log("Sucess");

@@ -74,15 +74,8 @@ typings/
 
 # FuseBox cache
 .fusebox/
-.gh-pages
+
+
 gh-pages/
-gh-pages/guide.xml
-sites/vivoplay.com.br.config2.js
-tv_channels_gerson.m3u
-tv_channels_andreia2022.m3u
-tv_channels_berkege_113139.m3u
-sites/vivoplay.com.br.channels.xml
-br.m3u
-926057.m3u
-new.m3u
+data/
 926057-full.m3u
