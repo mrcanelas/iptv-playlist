@@ -12,7 +12,7 @@ axios.get(endPoint).then((body) => {
   const channel = body.data.Content.List.map((chn, index) => {
     const _attributes = {
       site_id: chn.Pid,
-      logo: chn.Images.Icon ? chn.Images.Icon[0].Url : null,
+      logo: chn.Images?.Icon?.[0]?.Url || null,
       xmltv_id: chn.Title.replace(/HD | HD/g, "").replace(/&/g, '&amp;').trim(),
     };
     const _text = chn.Title.replace(/HD | HD/g, "").replace(/&/g, '&amp;').trim()
