@@ -11,7 +11,10 @@ async function downloadJson(url, filePath) {
 
         fs.outputJSON(filePath, response.data);
     } catch (error) {
-        console.error('Ocorreu um erro ao baixar o JSON:', error);
+        if (error.code === 'ECONNRESET' || error.code === 'ETIMEDOUT' || error.message?.includes('socket hang up')) {
+            return; // erro de rede esperado, não poluir o console
+        }
+        console.error('Ocorreu um erro ao baixar o JSON:', error.message);
     }
 }
 
@@ -22,7 +25,10 @@ async function fetchPersons(offset) {
         const response = await axios.get(url);
         return response.data.Content.List;
     } catch (error) {
-        console.error('Erro ao buscar dados:', error);
+        if (error.code === 'ECONNRESET' || error.code === 'ETIMEDOUT' || error.message?.includes('socket hang up')) {
+            return []; // erro de rede esperado, não poluir o console
+        }
+        console.error('Erro ao buscar dados:', error.message);
         return [];
     }
 }
