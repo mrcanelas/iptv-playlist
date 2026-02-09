@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "grabber": "npx epg-grabber --config=sites/mi.tv.config.js"
+    "grabber": "npx epg-grabber --config=sites/mi.tv.config.js",
+    "epg-multi": "node run_epg_multi.js",
+    "filter-vivoplay-channels": "node filter_vivoplay_channels.js"
   },
   "repository": {
     "type": "git",
