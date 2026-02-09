@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
 name: auto-update
 on:
   workflow_dispatch:
@@ -16,8 +17,12 @@ jobs:
         run: node gen_channels.js
       - name: Run getDatas
         run: node get_datas.js
-      - name: Run EPG Grabber
-        run: npx epg-grabber --config=sites/vivoplay.com.br.config.js
+      - name: Run Playlist Builder
+        run: node gen_playlist.js
+      - name: Filter Vivo Play channels
+        run: npm run filter-vivoplay-channels
+      - name: Run EPG Multi
+        run: npm run epg-multi
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
