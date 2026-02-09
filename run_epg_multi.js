@@ -50,9 +50,10 @@ function runGrabber(siteKey) {
     return null;
   }
   console.log('\n--- EPG:', siteKey, '---');
-  const configUrl = pathToFileURL(site.config).href;
+  // No Windows o ESM exige file://; no Linux o epg-grabber quebra com file://
+  const configPath = process.platform === 'win32' ? pathToFileURL(site.config).href : site.config;
   const channelsArg = site.channels && fs.existsSync(site.channels) ? ` --channels "${site.channels}"` : '';
-  const cmd = `npx epg-grabber -c "${configUrl}" -o "${site.output}"${channelsArg}`;
+  const cmd = `npx epg-grabber -c "${configPath}" -o "${site.output}"${channelsArg}`;
   try {
     execSync(cmd, { cwd: rootDir, stdio: 'inherit' });
     return site.output;
