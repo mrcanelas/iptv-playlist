@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <channels>
-    <channel site="mi.tv" lang="pt" xmltv_id="PlayBoy TV" site_id="br#playboy-hd">PlayBoy TV</channel>
-    <channel site="mi.tv" lang="pt" xmltv_id="SexPrive" site_id="br#sexprive-brasileirinhas">SexPrive</channel>
-    <channel site="mi.tv" lang="pt" xmltv_id="Sextreme" site_id="br#sextreme-brazil">Sextreme</channel>
-    <channel site="mi.tv" lang="pt" xmltv_id="Sexy Hot" site_id="br#sexy-hot">Sexy Hot</channel>
-    <channel site="mi.tv" lang="pt" xmltv_id="Venus" site_id="br#venus-tv-sd">Venus</channel>
+    <channel logo="https://i.imgur.com/yO9vIo6.png" xmltv_id="PlayBoy TV" site_id="br#playboy-hd">PlayBoy TV</channel>
+    <channel logo="https://i.imgur.com/KXzRlGo.png" xmltv_id="SexPrive" site_id="br#sexprive-brasileirinhas">SexPrive</channel>
+    <channel logo="https://i.imgur.com/bkhJ1af.png" xmltv_id="Sextreme" site_id="br#sextreme-brazil">Sextreme</channel>
+    <channel logo="https://i.imgur.com/jrO1pY1.png" xmltv_id="Sexy Hot" site_id="br#sexy-hot">Sexy Hot</channel>
+    <channel logo="https://i.imgur.com/Eofr70w.png" xmltv_id="Venus" site_id="br#venus-tv-sd">Venus</channel>
   </channels>
 </site>
