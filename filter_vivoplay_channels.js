@@ -30,8 +30,14 @@ function getPlaylistTvgIds() {
   return tvgIds;
 }
 
+/** Escapa & que não faz parte de entidade XML válida (para o parser não perder canais). */
+function escapeAmpersands(xmlString) {
+  return xmlString.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#)/g, '&amp;');
+}
+
 function filterChannelsXml(tvgIds) {
-  const content = fs.readFileSync(channelsXmlPath, 'utf8');
+  let content = fs.readFileSync(channelsXmlPath, 'utf8');
+  content = escapeAmpersands(content); // corrigir antes de parsear para não perder canais com & inválido
   const js = convert.xml2js(content, { compact: false });
 
   const siteEl = js.elements && js.elements[0];
@@ -47,18 +53,19 @@ function filterChannelsXml(tvgIds) {
   }
 
   const originalCount = channelsWrapper.elements.length;
-  // Manter só canais em que site_id (XML) = tvg-id (playlist)
+  // Manter canal se site_id OU xmltv_id (XML) estiver na playlist (tvg-id)
   channelsWrapper.elements = channelsWrapper.elements.filter(el => {
     if (el.name !== 'channel') return true;
-    const siteId = el.attributes && el.attributes.site_id;
-    if (siteId == null) return true;
-    const siteIdNorm = String(siteId).trim();
-    return tvgIds.has(siteIdNorm);
+    const attrs = el.attributes || {};
+    const siteIdNorm = attrs.site_id != null ? String(attrs.site_id).trim() : '';
+    const xmltvIdNorm = attrs.xmltv_id != null ? String(attrs.xmltv_id).trim() : '';
+    return (siteIdNorm && tvgIds.has(siteIdNorm)) || (xmltvIdNorm && tvgIds.has(xmltvIdNorm));
   });
   const keptCount = channelsWrapper.elements.length;
   const removed = originalCount - keptCount;
 
-  const xml = convert.js2xml(js, { compact: false, spaces: 2 });
+  let xml = convert.js2xml(js, { compact: false, spaces: 2 });
+  xml = escapeAmpersands(xml); // garantir saída válida para o epg-grabber
   fs.writeFileSync(channelsXmlPath, xml, 'utf8');
 
   return { originalCount, keptCount, removed };
