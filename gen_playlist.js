@@ -167,7 +167,7 @@ async function main() {
       if (!fixedItem) continue;
       const a = el.attributes;
       byXmlKey.set(key, {
-        tvgId: escapeAttr(a.site_id),
+        tvgId: escapeAttr(fixedItem.tvg?.id || a.site_id),
         tvgLogo: escapeAttr(fixedItem.tvg?.logo || a.logo),
         tvgName: escapeAttr(a.xmltv_id),
         groupTitle: escapeAttr(fixedItem.group?.title || ''),
