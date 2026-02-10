@@ -87,8 +87,6 @@ https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 
 #EXTINF:-1, tvg-id="LCH649" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/74/17745056_F96FCCF5A07CED7D.png" tvg-name="Comedy Central" group-title="Entretenimento",Comedy Central
 
-#EXTINF:-1, tvg-id="LCH5492" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3114780_BC3327E6071EE122.png" tvg-name="Cultura",Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1, tvg-id="LCH3653" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116411_E5E02D2432750942.png" tvg-name="Curta!" group-title="Entretenimento",Curta!
 #EXTVLCOPT:http-referrer=https://player.logicahost.com.br/
 https://video05.logicahost.com.br/curta03/curta03/playlist.m3u8
@@ -114,8 +112,6 @@ https://video05.logicahost.com.br/curta03/curta03/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1, tvg-id="LCH2073" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116426_512F139F08782B06.png" tvg-name="E!" group-title="Entretenimento",E!
 https://cdn-3.nxplay.com.br/E_BRASIL/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-id="LCH3958" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/04/98/4988596_3039B1BBC21A7F0B.png" tvg-name="ECO TV",ECO TV
-https://5b7f3c45ab7c2.streamlock.net/ecotvabc/ecotvabc/chunklist.m3u8
 #EXTINF:-1, tvg-id="LCH211" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11867115_3A16152FF6774779.png" tvg-name="ESPN" group-title="Esportes",ESPN
 http://46.151.196.223:14432
 #EXTINF:-1, tvg-id="LCH464" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/10/38/10384486_AB8E9D8C388586FE.png" tvg-name="ESPN 2" group-title="Esportes",ESPN 2
@@ -160,8 +156,6 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index
 
 #EXTINF:-1, tvg-id="LCH5574" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/78/9787039_D0C0B6F1FD51659F.png" tvg-name="Golf Channel",Golf Channel
 https://fl1.moveonjoy.com/GOLF/index.m3u8
-#EXTINF:-1, tvg-id="LCH60" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/47/3478440_E3825F81430013C6.png" tvg-name="Gospel",Gospel
-https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1, tvg-id="LCH182" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/16/3163537_068A70F63E96FC68.png" tvg-name="HBO" group-title="Entretenimento",HBO
 
 #EXTINF:-1, tvg-id="LCH460" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116450_EA39EAF03513E09A.png" tvg-name="HBO Family" group-title="Entretenimento",HBO Family
@@ -275,6 +269,8 @@ https://video02.logicahost.com.br/rbtv/rbtv/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="LCH4050" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/48/6484024_27835C7981400442.png" tvg-name="Rede Brasil",Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist.m3u8
+#EXTINF:-1, tvg-id="LCH60" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/47/3478440_E3825F81430013C6.png" tvg-name="Rede Gospel",Rede Gospel
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1, tvg-id="LCH3101" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/83/3832406_972879AD77DB499F.png" tvg-name="Rede Família",Rede Família
 https://tv03.zas.media:1936/rftv/rftv/chunklist.m3u8
 #EXTINF:-1, tvg-id="LCH6481" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/01/16017021_6365DD331BF0ADA9.png" tvg-name="Rede Minas",Rede Minas
@@ -401,18 +397,12 @@ https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 
 #EXTINF:-1, tvg-id="LCH3812" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/04/13/4137595_AB3E1F2E58602912.png" tvg-name="TV Guarulhos",TV Guarulhos
 https://br5093.streamingdevideo.com.br/tvguarulhos/tvguarulhos/chunklist.m3u8
-#EXTINF:-1, tvg-id="LCH3959" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/59/17592803_58FEAF193A406702.png" tvg-name="TV Ilha do Sol",TV Ilha do Sol
-https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 #EXTINF:-1, tvg-id="LCH3751" tvg-logo="https://www.clarotvmais.com.br/img/channels/tv_integracao.png" tvg-name="TV Integração",TV Integração
 
-#EXTINF:-1, tvg-id="LCH5481" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/59/17593750_8EF9C08596F48746.png" tvg-name="TV Itapê",TV Itapê
-https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1, tvg-id="LCH70" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3114777_59A403FCB58D9EA4.png" tvg-name="TV JUSTIÇA" group-title="Abertos",TV JUSTIÇA
 
 #EXTINF:-1, tvg-id="LCH3848" tvg-logo="https://www.clarotvmais.com.br/img/channels/tv_liberal.png" tvg-name="TV Liberal",TV Liberal
 
-#EXTINF:-1, tvg-id="LCH6488" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/75/16751240_AB7434B5AE6BF21F.png" tvg-name="TV Mais",TV Mais
-https://video05.logicahost.com.br/tvmais01/tvmais01/chunklist.m3u8
 #EXTINF:-1, tvg-id="LCH3853" tvg-logo="https://www.clarotvmais.com.br/img/channels/tv_mirante_sao_luis.png" tvg-name="TV Mirante",TV Mirante
 
 #EXTINF:-1, tvg-id="LCH3477" tvg-logo="https://www.clarotvmais.com.br/img/channels/tv_morena_campo_grande.png" tvg-name="TV Morena",TV Morena
