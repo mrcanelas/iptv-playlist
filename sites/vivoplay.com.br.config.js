@@ -13,7 +13,10 @@ module.exports = {
   maxConnections: 50,
 
   url: function ({ date, channel }) {
-    return `https://contentapi-br.cdn.telefonica.com/25/default/pt-BR/schedules?ca_deviceTypes=null%7C401&fields=Title,Description,Start,End,EpgSerieId,SeriesPid,SeasonPid,AgeRatingPid,ReleaseDate,images.videoFrame,images.banner&orderBy=START_TIME:a&filteravailability=false&starttime=${date.unix()}&endtime=${date.add(1, 'day').unix()}&livechannelpids=${channel.site_id}`;
+    const startOfDay = date.unix()
+    const endOfDay = date.add(1, 'd').unix()
+
+    return `https://contentapi-br.cdn.telefonica.com/25/default/pt-BR/schedules?ca_deviceTypes=null%7C401&fields=Title,Description,Start,End,EpgSerieId,SeriesPid,SeasonPid,AgeRatingPid,ReleaseDate,images.videoFrame,images.banner&orderBy=START_TIME:a&filteravailability=false&starttime=${startOfDay}&endtime=${endOfDay}&livechannelpids=${channel.site_id}`;
   },
   logo: function ({ channel }) {
     const img = channel.logo
