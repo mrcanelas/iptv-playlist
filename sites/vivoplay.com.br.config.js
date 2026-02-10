@@ -7,6 +7,7 @@ const persons = require("../data/persons.json")
 module.exports = {
   site: 'vivoplay.com.br',
   days: 3,
+  maxConnections: 10,
 
   url: function ({ date, channel }) {
     const startOfDay = date.unix()
