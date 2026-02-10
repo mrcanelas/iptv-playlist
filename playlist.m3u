@@ -47,6 +47,9 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="LCH86" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/85/16858564_4473C238988B078B.png" tvg-name="Canal Gov" ,Canal Gov
 #EXTVLCOPT:http-referrer=https://aovivo.ebc.com.br/
 https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="LCH6933" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/58/20587212_4D511087E51F809A.png" tvg-name="Canal Plural" ,Canal Plural
+#EXTVLCOPT:http-referrer=https://playerv.samcast.com.br/
+https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
 #EXTINF:-1 tvg-id="LCH6284" tvg-logo="http://media.gvp.telefonica.com/storageArea10/IMAGES/00/13/33/13337082_6DD1D003EBB76581.png" group-title="Canais Abertos" tvg-name="Canal Rural" ,Canal Rural
 https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-amg26188c2-amgplt0026/playlist.m3u8
 #EXTINF:-1 tvg-id="LCH36" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/47/3478439_75D07F56134A09B0.png" tvg-name="Canal Universitário" ,Canal Universitário
@@ -65,7 +68,7 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51908
 #EXTINF:-1 tvg-id="LCH932" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116407_6B706B96531B5813.png" group-title="TV AO VIVO" tvg-name="Cinemax" ,Cinemax
 http://148.113.160.49:14200
 #EXTINF:-1 tvg-id="LCH6618" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/47/18470782_558A575168CBD346.png" group-title="TV AO VIVO" tvg-name="CNN" ,CNN
-https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 tvg-id="LCH4068" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/71/6711228_154BC2F6F4BAB060.png" group-title="Noticias" tvg-name="CNN Brasil" ,CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 #EXTINF:-1 tvg-id="LCH7064" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/91/20915592_0D9ADABA9D58EF6A.png" tvg-name="CNN Money" ,CNN Money
@@ -195,7 +198,7 @@ https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/2183
 #EXTINF:-1 tvg-id="56" tvg-logo="https://www.clarotvmais.com.br/img/channels/playtv.png" tvg-name="Play TV" ,Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1 tvg-id="br#playboy-hd" tvg-logo="https://i.imgur.com/VMwaga7.png" group-title="Adultos" tvg-name="PlayBoy TV" ,PlayBoy TV
+#EXTINF:-1 tvg-id="br#playboy-hd" tvg-logo="https://i.imgur.com/Eho21yS.png" group-title="Adultos" tvg-name="PlayBoy TV" ,PlayBoy TV
 http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/1877
 #EXTINF:-1 tvg-id="LCH2716" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/25/3250065_C4C5D6BB6C9CEAEF.png" tvg-name="Polishop" ,Polishop
 http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/2294
@@ -247,11 +250,11 @@ https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.
 https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-id="LCH7143" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/74/11748774_6041148868BC54D7.png" group-title="TV AO VIVO" tvg-name="SBT" ,SBT
 https://aovivo.maissbt.com/channel.m3u8
-#EXTINF:-1 tvg-id="br#sexprive-brasileirinhas" tvg-logo="https://i.imgur.com/2wMXdd2.png" group-title="Adultos" tvg-name="SexPrive" ,SexPrive
+#EXTINF:-1 tvg-id="br#sexprive-brasileirinhas" tvg-logo="https://i.imgur.com/RLzpAEE.png" group-title="Adultos" tvg-name="SexPrive" ,SexPrive
 http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/46045
-#EXTINF:-1 tvg-id="br#sextreme-brazil" tvg-logo="https://i.imgur.com/xQnQ0Jy.png" group-title="Adultos" tvg-name="Sextreme" ,Sextreme
+#EXTINF:-1 tvg-id="br#sextreme-brazil" tvg-logo="https://i.imgur.com/XEWrISf.png" group-title="Adultos" tvg-name="Sextreme" ,Sextreme
 http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/2298
-#EXTINF:-1 tvg-id="br#sexy-hot" tvg-logo="https://i.imgur.com/2z4rXgb.png" group-title="Adultos" tvg-name="Sexy Hot" ,Sexy Hot
+#EXTINF:-1 tvg-id="br#sexy-hot" tvg-logo="https://i.imgur.com/64thRRl.png" group-title="Adultos" tvg-name="Sexy Hot" ,Sexy Hot
 http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/46046
 #EXTINF:-1 tvg-id="LCH2172" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116738_4B699CD802C526BF.png" tvg-name="SIC Internacional" ,SIC Internacional
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
@@ -321,6 +324,8 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-id="LCH4122" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3114900_989122ED3BE71D02.png" group-title="TV AO VIVO" tvg-name="Tv Gazeta" ,Tv Gazeta
 http://168.205.87.198:8555/live/1347/123456/281.m3u8
+#EXTINF:-1 tvg-id="LCH3812" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/04/13/4137595_AB3E1F2E58602912.png" tvg-name="TV Guarulhos" ,TV Guarulhos
+https://br5093.streamingdevideo.com.br/tvguarulhos/tvguarulhos/chunklist.m3u8
 #EXTINF:-1 tvg-id="LCH70" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3114777_59A403FCB58D9EA4.png" group-title="TV AO VIVO" tvg-name="TV JUSTIÇA" ,TV JUSTIÇA
 https://hplay.tv/augetv/12396547488/24.m3u8
 #EXTINF:-1 tvg-id="LCH5554" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/08/9083554_75B09A0C037C7FEF.png" group-title="Religiosos" tvg-name="TV Novo Tempo" ,TV Novo Tempo
@@ -347,7 +352,7 @@ http://79.127.243.211:14623
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 #EXTINF:-1 tvg-id="LCH2093" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/07/17078132_6FB7298C3EBFB541.png" group-title="Entretenimento" tvg-name="USA" ,USA
 http://148.113.160.49:14133
-#EXTINF:-1 tvg-id="br#venus-tv-sd" tvg-logo="https://i.imgur.com/dBhj3zr.png" group-title="Adultos" tvg-name="Venus" ,Venus
+#EXTINF:-1 tvg-id="br#venus-tv-sd" tvg-logo="https://i.imgur.com/YgM2Lyw.png" group-title="Adultos" tvg-name="Venus" ,Venus
 http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/1407
 #EXTINF:-1 tvg-id="LCH157" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116386_4A2933F990D8D333.png" group-title="TV AO VIVO" tvg-name="Warner" ,Warner
 http://200.4.96.59:8825/play/a02r/index.m3u8
