@@ -49,9 +49,6 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1, tvg-id="LCH86" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/85/16858564_4473C238988B078B.png" tvg-name="Canal Gov",Canal Gov
 #EXTVLCOPT:http-referrer=https://aovivo.ebc.com.br/
 https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1, tvg-id="LCH6933" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/58/20587212_4D511087E51F809A.png" tvg-name="Canal Plural",Canal Plural
-#EXTVLCOPT:http-referrer=https://playerv.samcast.com.br/
-https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
 #EXTINF:-1, tvg-id="LCH6284" tvg-logo="http://media.gvp.telefonica.com/storageArea10/IMAGES/00/13/33/13337082_6DD1D003EBB76581.png" tvg-name="Canal Rural" group-title="Canais Abertos",Canal Rural
 https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-amg26188c2-amgplt0026/playlist.m3u8
 #EXTINF:-1, tvg-id="LCH36" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/47/3478439_75D07F56134A09B0.png" tvg-name="Canal Universitário",Canal Universitário
@@ -229,7 +226,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 #EXTINF:-1, tvg-id="56" tvg-logo="https://www.clarotvmais.com.br/img/channels/playtv.png" tvg-name="Play TV",Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1, tvg-id="br#playboy-hd" tvg-logo="https://i.imgur.com/Eho21yS.png" tvg-name="PlayBoy TV" group-title="Adultos",PlayBoy TV
+#EXTINF:-1, tvg-id="br#playboy-hd" tvg-logo="https://i.imgur.com/VMwaga7.png" tvg-name="PlayBoy TV" group-title="Adultos",PlayBoy TV
 http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/1877
 #EXTINF:-1, tvg-id="LCH2716" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/25/3250065_C4C5D6BB6C9CEAEF.png" tvg-name="Polishop",Polishop
 http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/2294
@@ -293,11 +290,11 @@ https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.
 https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
 #EXTINF:-1, tvg-id="LCH5686" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/74/11748774_6041148868BC54D7.png" tvg-name="SBT" group-title="Canais Abertos",SBT
 
-#EXTINF:-1, tvg-id="br#sexprive-brasileirinhas" tvg-logo="https://i.imgur.com/RLzpAEE.png" tvg-name="SexPrive" group-title="Adultos",SexPrive
+#EXTINF:-1, tvg-id="br#sexprive-brasileirinhas" tvg-logo="https://i.imgur.com/2wMXdd2.png" tvg-name="SexPrive" group-title="Adultos",SexPrive
 http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/46045
-#EXTINF:-1, tvg-id="br#sextreme-brazil" tvg-logo="https://i.imgur.com/XEWrISf.png" tvg-name="Sextreme" group-title="Adultos",Sextreme
+#EXTINF:-1, tvg-id="br#sextreme-brazil" tvg-logo="https://i.imgur.com/xQnQ0Jy.png" tvg-name="Sextreme" group-title="Adultos",Sextreme
 http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/2298
-#EXTINF:-1, tvg-id="br#sexy-hot" tvg-logo="https://i.imgur.com/64thRRl.png" tvg-name="Sexy Hot" group-title="Adultos",Sexy Hot
+#EXTINF:-1, tvg-id="br#sexy-hot" tvg-logo="https://i.imgur.com/2z4rXgb.png" tvg-name="Sexy Hot" group-title="Adultos",Sexy Hot
 http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/46046
 #EXTINF:-1, tvg-id="LCH2172" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116738_4B699CD802C526BF.png" tvg-name="SIC Internacional",SIC Internacional
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
@@ -395,8 +392,6 @@ https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 
 #EXTINF:-1, tvg-id="LCH3158" tvg-logo="https://www.clarotvmais.com.br/img/channels/tv_grande_rio.png" tvg-name="TV Grande Rio",TV Grande Rio
 
-#EXTINF:-1, tvg-id="LCH3812" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/04/13/4137595_AB3E1F2E58602912.png" tvg-name="TV Guarulhos",TV Guarulhos
-https://br5093.streamingdevideo.com.br/tvguarulhos/tvguarulhos/chunklist.m3u8
 #EXTINF:-1, tvg-id="LCH3751" tvg-logo="https://www.clarotvmais.com.br/img/channels/tv_integracao.png" tvg-name="TV Integração",TV Integração
 
 #EXTINF:-1, tvg-id="LCH70" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3114777_59A403FCB58D9EA4.png" tvg-name="TV JUSTIÇA" group-title="Abertos",TV JUSTIÇA
@@ -450,7 +445,7 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
 #EXTINF:-1, tvg-id="LCH2436" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/87/19877888_064D1BAD9BF91B49.png" tvg-name="TVR Regional",TVR Regional
 https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
-#EXTINF:-1, tvg-id="LCH1237" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/25/3250068_E6D29F72E1811FAF.png" tvg-name="TVT SD",TVT SD
+#EXTINF:-1, tvg-id="LCH1237" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/25/3250068_E6D29F72E1811FAF.png" tvg-name="TVT",TVT
 
 #EXTINF:-1, tvg-id="LCH7062" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/82/20827717_9A405FCC32795EF1.png" tvg-name="Universal Premiere",Universal Premiere
 
@@ -464,7 +459,7 @@ https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 #EXTINF:-1, tvg-id="LCH2093" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/07/17078132_6FB7298C3EBFB541.png" tvg-name="USA" group-title="Entretenimento",USA
 http://148.113.160.49:14133
-#EXTINF:-1, tvg-id="br#venus-tv-sd" tvg-logo="https://i.imgur.com/YgM2Lyw.png" group-title="Adultos" tvg-name="Venus",Venus
+#EXTINF:-1, tvg-id="br#venus-tv-sd" tvg-logo="https://i.imgur.com/dBhj3zr.png" group-title="Adultos" tvg-name="Venus",Venus
 http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/1407
 #EXTINF:-1, tvg-id="LCH677" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/08/41/8411309_9F7C801D5C050137.png" tvg-name="VIVA" group-title="Entretenimento",VIVA
 
