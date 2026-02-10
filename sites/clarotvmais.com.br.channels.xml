@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<site xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <channels>
+      <channel site_id="316" logo="https://www.clarotvmais.com.br/img/channels/cgtn.png" xmltv_id="CGTN">CGTN</channel>
+      <channel site_id="129" logo="https://www.clarotvmais.com.br/img/channels/france_24_epg.png" xmltv_id="France 24">France 24</channel>
+      <channel site_id="59" logo="https://www.clarotvmais.com.br/img/channels/rede_gospel.png" xmltv_id="Rede Gospel">Rede Gospel</channel>
+      <channel site_id="183" logo="https://www.clarotvmais.com.br/img/channels/like.png" xmltv_id="Like">Like</channel>
+      <channel site_id="188" logo="https://www.clarotvmais.com.br/img/channels/mezzo_live_hd.png" xmltv_id="Mezzo">Mezzo</channel>
+      <channel site_id="107" logo="https://www.clarotvmais.com.br/img/channels/premiere_clubes.png" xmltv_id="Premiere">Premiere</channel>
+    </channels>
+</site>
