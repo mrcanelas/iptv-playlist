@@ -13,6 +13,11 @@ const convert = require('xml-js');
 
 const defaultOutput = path.join(__dirname, 'gh-pages', 'guide.xml');
 
+/** Escapa & que não é parte de entidade XML (ex.: URLs em atributos). */
+function escapeAmpersands(xmlString) {
+  return xmlString.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#)/g, '&amp;');
+}
+
 function parseArgs() {
   const args = process.argv.slice(2);
   let output = defaultOutput;
@@ -77,7 +82,8 @@ function mergeGuides(filePaths, outputPath) {
     elements: [tvElement]
   };
 
-  const xml = convert.js2xml(merged, { compact: false, ignoreComment: true, spaces: 2 });
+  let xml = convert.js2xml(merged, { compact: false, ignoreComment: true, spaces: 2 });
+  xml = escapeAmpersands(xml); // URLs em icon src têm & que precisa ser &amp;
   const dir = path.dirname(outputPath);
   if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(outputPath, xml, 'utf8');
