@@ -20,21 +20,26 @@ const ghPages = path.join(rootDir, 'gh-pages');
 const epgTemp = path.join(rootDir, 'epg-temp');
 
 const SITES = {
-  vivoplay: {
-    config: path.join(rootDir, 'sites', 'vivoplay.com.br.config.js'),
-    channels: path.join(rootDir, 'sites', 'vivoplay.com.br.channels.xml'),
-    output: path.join(epgTemp, 'guide_vivoplay.xml')
+  clarotvmais:{
+    config: path.join(rootDir, 'sites', 'clarotvmais.com.br.config.js'),
+    channels: path.join(rootDir, 'sites', 'clarotvmais.com.br.channels.xml'),
+    output: path.join(epgTemp, 'guide_clarotvmais.xml')
   },
   mitv: {
     config: path.join(rootDir, 'sites', 'mi.tv.config.js'),
     channels: path.join(rootDir, 'sites', 'mi.tv.channels.xml'),
     output: path.join(epgTemp, 'guide_mitv.xml')
+  },
+  vivoplay: {
+    config: path.join(rootDir, 'sites', 'vivoplay.com.br.config.js'),
+    channels: path.join(rootDir, 'sites', 'vivoplay.com.br.channels.xml'),
+    output: path.join(epgTemp, 'guide_vivoplay.xml')
   }
 };
 
 function parseArgs() {
   const args = process.argv.slice(2);
-  let sites = ['vivoplay', 'mitv'];
+  let sites = ['clarotvmais', 'mitv', 'vivoplay'];
   for (const a of args) {
     if (a.startsWith('--sites=')) {
       sites = a.slice('--sites='.length).split(',').map(s => s.trim()).filter(Boolean);
