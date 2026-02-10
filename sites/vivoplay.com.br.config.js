@@ -5,12 +5,8 @@ const ratings = require("../data/ratings.json")
 const persons = require("../data/persons.json")
 
 module.exports = {
-  lang: 'pt',
   site: 'vivoplay.com.br',
-  channels: 'sites/vivoplay.com.br.channels.xml',
-  output: 'gh-pages/guide.xml',
   days: 3,
-  maxConnections: 50,
 
   url: function ({ date, channel }) {
     const startOfDay = date.unix()
