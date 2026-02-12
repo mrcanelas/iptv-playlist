@@ -35,7 +35,7 @@ module.exports = {
         description: item.description,
         season: item.seasonNumber,
         episode: item.episodeNumber,
-        image: item.image ? item.image.replace('{{image-size-placeholder}}', '420_236') : null,
+        icon: item.image ? item.image.replace('{{image-size-placeholder}}', '420_236') : null,
         start: parseTime(item.startTime),
         stop: parseTime(item.endTime)
       }
