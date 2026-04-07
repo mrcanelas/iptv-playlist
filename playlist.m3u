@@ -261,11 +261,11 @@ https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8
 https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="LCH108" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/19/3190492_9E4E9614C21AA2AF.png" group-title="TV AO VIVO" tvg-name="Space" ,Space
 https://cdn-3.nxplay.com.br/SPACE_TK/index.m3u8
-#EXTINF:-1 tvg-id="LCH216" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/76/9760132_8EB9B6A86FD79B7B.png" group-title="Esportes" tvg-name="Sportv" ,Sportv
+#EXTINF:-1 tvg-id="LCH216" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/76/9760132_8EB9B6A86FD79B7B.png" group-title="Esportes" tvg-name="sportv" ,sportv
 http://46.151.196.223:14286
-#EXTINF:-1 tvg-id="LCH217" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/76/9760139_35DCF658F568277B.png" group-title="Esportes" tvg-name="Sportv 2" ,Sportv 2
+#EXTINF:-1 tvg-id="LCH217" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/76/9760139_35DCF658F568277B.png" group-title="Esportes" tvg-name="sportv 2" ,sportv 2
 http://200.4.96.59:8825/play/a050/index.m3u8
-#EXTINF:-1 tvg-id="LCH1210" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/76/9760136_2F65534C9CCA32CF.png" group-title="Esportes" tvg-name="SporTV 3" ,SporTV 3
+#EXTINF:-1 tvg-id="LCH1210" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/76/9760136_2F65534C9CCA32CF.png" group-title="Esportes" tvg-name="sportv 3" ,sportv 3
 http://79.127.243.211:14473
 #EXTINF:-1 tvg-id="LCH2080" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3118497_61C93507875FDA75.png" group-title="TV AO VIVO" tvg-name="Studio Universal" ,Studio Universal
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1863
