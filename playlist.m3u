@@ -355,6 +355,6 @@ http://200.4.96.59:8825/play/a02r/index.m3u8
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/73.m3u8
 #EXTINF:-1 tvg-id="LCH7195" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/87/22877794_C92E7026116C36E7.png" group-title="TV AO VIVO" tvg-name="Woohoo Surf" ,Woohoo Surf
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da4004ba4452a3e00993b2/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH7179" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/27/22279074_88A533363740A5AD.png" group-title="TV AO VIVO" tvg-name="Xsports" ,Xsports
+#EXTINF:-1 tvg-id="LCH7248" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/85/23851798_41BBF316B6F7F295.png" group-title="TV AO VIVO" tvg-name="Xsports" ,Xsports
 http://168.205.87.198:8555/live/1347/123456/309.m3u8
 #EXTINF:-1 tvg-id="LCH5630" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/69/15699815_F4CE2A8D9C8DA74B.png" group-title="Entretenimento" tvg-name="Zoomoo" ,Zoomoo
