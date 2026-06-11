@@ -295,6 +295,8 @@ https://cdn-3.nxplay.com.br/TLC/index.m3u8
 http://200.4.96.59:8825/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="LCH653" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/30/16305196_76B1C3281B1986EF.png" group-title="TV AO VIVO" tvg-name="TNT Novelas" ,TNT Novelas
 https://cdn-3.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8
+#EXTINF:-1 tvg-id="LCH6937" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/24/00/24000381_366C916C975F444D.png" group-title="TV AO VIVO" tvg-name="TNT Sports" ,TNT Sports
+http://79.127.243.211:14615
 #EXTINF:-1 tvg-id="LCH2102" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3115040_1DBC5CEF6EA0E9FB.png" group-title="TV AO VIVO" tvg-name="Tooncast" ,Tooncast
 https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:-1 tvg-id="LCH4103" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/37/16372306_D0FE76B01F1873F1.png" tvg-name="Trace Brasil" ,Trace Brasil
