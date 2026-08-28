@@ -1,360 +1,281 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LCH150" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F76%2F17765184_127CCCBCC55DE9F3.png" group-title="TV AO VIVO" tvg-name="A&E" ,A&E
-https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
-#EXTINF:-1 tvg-id="LCH128" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F36%2F17367942_6B0CB78AE7580748.png" group-title="TV AO VIVO" tvg-name="Adult Swim" ,Adult Swim
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F76%2F17765184_127CCCBCC55DE9F3.png" tvg-name="A&E" ,A&E
+http://dnsdezpila.xyz/live/56126132/27146367/9542962.ts
+#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F36%2F17367942_6B0CB78AE7580748.png" tvg-name="Adult Swim" ,Adult Swim
 https://cdn-3.nxplay.com.br/ADULT_SWIN/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="LCH4104" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/14/7146011_412356182209A40D.png" group-title="Entretenimento" tvg-name="Agro+" ,Agro+
-https://cdn-3.nxplay.com.br/AGROMAIS_HD/index.m3u8
-#EXTINF:-1 tvg-id="LCH5580" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F86%2F11867104_4F7C97B49745C5A3.png" group-title="TV AO VIVO" tvg-name="AMC" ,AMC
-https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
-#EXTINF:-1 tvg-id="LCH2199" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F04%2F34%2F4342613_52DE484CB67EA51C.png" group-title="TV AO VIVO" tvg-name="Animal Planet" ,Animal Planet
-https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
-#EXTINF:-1 tvg-id="LCH2792" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F43%2F3431529_D57A32BFCB51A5BC.png" group-title="TV AO VIVO" tvg-name="Arte 1" ,Arte 1
-https://cdn-3.nxplay.com.br/ARTE1_TK/index.m3u8
-#EXTINF:-1 tvg-id="LCH158" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116377_07E5F98C69568540.png" group-title="TV AO VIVO" tvg-name="AXN" ,AXN
-https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8
-#EXTINF:-1 tvg-id="LCH5685" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F74%2F11748887_FBC2613821BA6F12.png" group-title="TV AO VIVO" tvg-name="Band" ,Band
-https://hplay.tv/augetv/12396547488/229.m3u8
-#EXTINF:-1 tvg-id="LCH2795" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/69/19699228_F48E6F445ABB8277.png" group-title="Noticias" tvg-name="Bandnews" ,Bandnews
-http://iptv.vivatele.com:80/live/viva_padrao/viva2384/21.m3u8
-#EXTINF:-1 tvg-id="LCH928" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/22/18220147_DE05A2CDF8FCA758.png" tvg-name="Bandsports" ,Bandsports
-http://200.4.96.59:8825/play/a06c/index.m3u8
-#EXTINF:-1 tvg-id="LCH5577" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/63/15630816_9148CAB71BB654DD.png" tvg-name="BBC World" ,BBC World
-https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 tvg-id="LCH81" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3114908_4D12CC29E7B73D78.png" group-title="Entretenimento" tvg-name="BIS" ,BIS
-http://79.127.243.211:14286
-#EXTINF:-1 tvg-id="LCH2442" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/74/17745049_1E141AB2B3665C81.png" tvg-name="Bloomberg" ,Bloomberg
-https://ab352235.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH6485" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/21/16213972_37B4C0F5CEB68F03.png" tvg-name="BM&C" ,BM&C
-https://stitcher.pluto.tv/stitch/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=aa3f9e0b-8a49-11ef-8655-16ce1942d5fc
-#EXTINF:-1 tvg-id="LCH914" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/85/3856796_68B3E372B0CD899A.png" tvg-name="Boa Vontade SJC" ,Boa Vontade SJC
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51566
-#EXTINF:-1 tvg-id="LCH5631" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11867105_90C43BA737202E0B.png" tvg-name="Box Kids" ,Box Kids
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F86%2F11867104_4F7C97B49745C5A3.png" tvg-name="AMC" ,AMC
+http://dnsdezpila.xyz/live/56126132/27146367/9542966.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F04%2F34%2F4342613_52DE484CB67EA51C.png" tvg-name="Animal Planet" ,Animal Planet
+http://dnsdezpila.xyz/live/56126132/27146367/3979400.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F43%2F3431529_D57A32BFCB51A5BC.png" tvg-name="Arte 1" ,Arte 1
+http://dnsdezpila.xyz/live/56126132/27146367/9543033.ts
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116377_07E5F98C69568540.png" tvg-name="AXN" ,AXN
+http://dnsdezpila.xyz/live/56126132/27146367/9542973.ts
+#EXTINF:-1 tvg-id="Band" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F74%2F11748887_FBC2613821BA6F12.png" tvg-name="Band" ,Band
+http://dnsdezpila.xyz/live/56126132/27146367/9568173.ts
+#EXTINF:-1 tvg-id="Band Bahia" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F86%2F3869197_A8D2B33B2F6738FD.png" tvg-name="Band Bahia" ,Band Bahia
+http://dnsdezpila.xyz/live/56126132/27146367/9568158.ts
+#EXTINF:-1 tvg-id="Band Campinas" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F86%2F3869199_A7C51DBC735A6BB4.png" tvg-name="Band Campinas" ,Band Campinas
+http://dnsdezpila.xyz/live/56126132/27146367/9568162.ts
+#EXTINF:-1 tvg-id="Band Rio" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F19%2F3190527_50BA97EE550AF2BA.png" tvg-name="Band Rio" ,Band Rio
+http://dnsdezpila.xyz/live/56126132/27146367/9568170.ts
+#EXTINF:-1 tvg-id="Band RS" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F86%2F3869204_299B46D701004EBA.png" tvg-name="Band RS" ,Band RS
+http://dnsdezpila.xyz/live/56126132/27146367/9568168.ts
+#EXTINF:-1 tvg-id="Bandnews" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F19%2F69%2F19699228_F48E6F445ABB8277.png" tvg-name="Bandnews" ,Bandnews
+http://dnsdezpila.xyz/live/56126132/27146367/7717126.ts
+#EXTINF:-1 tvg-id="BIS" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114908_4D12CC29E7B73D78.png" tvg-name="BIS" ,BIS
+http://dnsdezpila.xyz/live/56126132/27146367/3979694.ts
+#EXTINF:-1 tvg-id="Box Kids" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F86%2F11867105_90C43BA737202E0B.png" tvg-name="Box Kids" ,Box Kids
 http://168.205.87.198:8555/live/1347/123456/346.m3u8
-#EXTINF:-1 tvg-id="LCH2066" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/98/16985415_923A905939DBCB48.png" tvg-name="C3 TV" ,C3 TV
-#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
-https://www.dailymotion.com/cdn/live/video/x943w6k.m3u8?sec=s2ET9K8uqQ2pRBna8Urx2V8JFiU2WxqO3Hmh9Sg9lH_fXxBUFU9jBavBzGZnIcDXzLozixpXE_QJxUu05Uz99g&dmTs=476162&dmV1st=f3b1da64-22f3-acf5-ce57-29ea568d3904
-#EXTINF:-1 tvg-id="LCH929" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F86%2F11867108_E367EBE364D74520.png" group-title="TV AO VIVO" tvg-name="Canal Brasil" ,Canal Brasil
-http://148.113.160.48:14078
-#EXTINF:-1 tvg-id="LCH2427" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/86/3869221_18A59399842E61C1.png" tvg-name="Canal Comunitário de Santos" ,Canal Comunitário de Santos
-https://video01.logicahost.com.br/tvcomsantos/tvcomsantos/chunklist.m3u8
-#EXTINF:-1 tvg-id="328" tvg-logo="https://sba1.com/imagens/logo-canal-do-boi-branco.png" tvg-name="Canal Do Boi" ,Canal Do Boi
-#EXTVLCOPT:http-referrer=https://equipea.com.br/
-https://aovivo3.equipea.com.br:5443/aovivort/streams/8faOqTnYndVM0WLq116025748788001_adaptive.m3u8
-#EXTINF:-1 tvg-id="LCH48" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/58/11582161_46AE9A693119D6D9.png" tvg-name="Canal Educação" ,Canal Educação
-#EXTVLCOPT:http-referrer=https://aovivo.ebc.com.br/
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F86%2F11867108_E367EBE364D74520.png" tvg-name="Canal Brasil" ,Canal Brasil
+http://dnsdezpila.xyz/live/56126132/27146367/9543037.ts
+#EXTINF:-1 tvg-id="Canal Educação" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F58%2F11582161_46AE9A693119D6D9.png" tvg-name="Canal Educação" ,Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="LCH86" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/85/16858564_4473C238988B078B.png" tvg-name="Canal Gov" ,Canal Gov
-#EXTVLCOPT:http-referrer=https://aovivo.ebc.com.br/
+#EXTINF:-1 tvg-id="Canal Gov" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F16%2F85%2F16858564_4473C238988B078B.png" tvg-name="Canal Gov" ,Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="LCH6284" tvg-logo="http://media.gvp.telefonica.com/storageArea10/IMAGES/00/13/33/13337082_6DD1D003EBB76581.png" group-title="Canais Abertos" tvg-name="Canal Rural" ,Canal Rural
+#EXTINF:-1 tvg-id="Canal Rural" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea10%2FIMAGES%2F00%2F13%2F33%2F13337082_6DD1D003EBB76581.png" tvg-name="Canal Rural" ,Canal Rural
 https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-amg26188c2-amgplt0026/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH36" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/47/3478439_75D07F56134A09B0.png" tvg-name="Canal Universitário" ,Canal Universitário
-https://br5093.streamingdevideo.com.br/wbgpymgwys/wbgpymgwys/chunklist.m3u8
-#EXTINF:-1 tvg-id="LCH3652" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/81/3816713_168EF81A0FF877B4.png" tvg-name="Canção Nova" ,Canção Nova
-https://hplay.tv/augetv/12396547488/43.m3u8
-#EXTINF:-1 tvg-id="LCH773" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F43%2F3431537_AD7D5373BF730D8D.png" group-title="TV AO VIVO" tvg-name="Cartoon Network" ,Cartoon Network
-https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
-#EXTINF:-1 tvg-id="LCH2794" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F12%2F10126671_49DF0A22B1E74D27.png" group-title="TV AO VIVO" tvg-name="Cartoonito" ,Cartoonito
-https://cdn-3.nxplay.com.br/CARTOONITO_TK/index.m3u8
-#EXTINF:-1 tvg-id="316" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cgtn@3x.png" tvg-name="CGTN" ,CGTN
-#EXTVLCOPT:http-referrer=https://espanol.cgtn.com/
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH3736" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/55/19555582_7E0D990F4F245126.png" tvg-name="Chef TV" ,Chef TV
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51908
-#EXTINF:-1 tvg-id="LCH932" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116407_6B706B96531B5813.png" group-title="TV AO VIVO" tvg-name="Cinemax" ,Cinemax
-http://148.113.160.49:14200
-#EXTINF:-1 tvg-id="LCH7222" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F51%2F23511807_9D284DDAC700907E.png" group-title="TV AO VIVO" tvg-name="CNN" ,CNN
+#EXTINF:-1 tvg-id="Canção Nova" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F81%2F3816713_168EF81A0FF877B4.png" tvg-name="Canção Nova" ,Canção Nova
+http://168.205.87.198:8555/live/1347/123456/278.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F43%2F3431537_AD7D5373BF730D8D.png" tvg-name="Cartoon Network" ,Cartoon Network
+http://dnsdezpila.xyz/live/56126132/27146367/9568194.ts
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F12%2F10126671_49DF0A22B1E74D27.png" tvg-name="Cartoonito" ,Cartoonito
+http://dnsdezpila.xyz/live/56126132/27146367/9568197.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116407_6B706B96531B5813.png" tvg-name="Cinemax" ,Cinemax
+http://dnsdezpila.xyz/live/56126132/27146367/9542977.ts
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F51%2F23511807_9D284DDAC700907E.png" tvg-name="CNN" ,CNN
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-#EXTINF:-1 tvg-id="LCH4068" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/71/6711228_154BC2F6F4BAB060.png" group-title="Noticias" tvg-name="CNN Brasil" ,CNN Brasil
-https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH7064" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/91/20915592_0D9ADABA9D58EF6A.png" tvg-name="CNN Money" ,CNN Money
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F33%2F22333183_7AE41E6263E6FA17.png" tvg-name="CNN Brasil" ,CNN Brasil
+http://dnsdezpila.xyz/live/56126132/27146367/7717201.ts
+#EXTINF:-1 tvg-id="CNN Money" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F91%2F20915592_0D9ADABA9D58EF6A.png" tvg-name="CNN Money" ,CNN Money
 https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnmoneyhevc-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH2067" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116409_A8CA93749FDAF8A1.png" tvg-name="CNNi" ,CNNi
-https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
-#EXTINF:-1 tvg-id="LCH196" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F24%2F3249933_1CBE515E7FBD0DED.png" group-title="TV AO VIVO" tvg-name="CNT" ,CNT
+#EXTINF:-1 tvg-id="CNT" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F24%2F3249933_1CBE515E7FBD0DED.png" tvg-name="CNT" ,CNT
 http://168.205.87.198:8555/live/1347/123456/303.m3u8
-#EXTINF:-1 tvg-id="LCH5576" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/54/17549273_E07461F4D609FEC1.png" tvg-name="COM Brasil" ,COM Brasil
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH1211" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F16%2F3163507_E61987F5EC9675E7.png" group-title="TV AO VIVO" tvg-name="Combate" ,Combate
-http://79.127.243.211:14449
-#EXTINF:-1 tvg-id="LCH3653" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116411_E5E02D2432750942.png" group-title="Entretenimento" tvg-name="Curta!" ,Curta!
-#EXTVLCOPT:http-referrer=https://player.logicahost.com.br/
-https://video05.logicahost.com.br/curta03/curta03/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH769" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F19%2F6199854_48DD635CA70680D9.png" group-title="TV AO VIVO" tvg-name="Discovery Channel" ,Discovery Channel
-http://148.113.160.48:14142
-#EXTINF:-1 tvg-id="LCH770" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F69%2F8694894_BA6A9407B955944F.png" group-title="TV AO VIVO" tvg-name="Discovery Kids" ,Discovery Kids
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1821
-#EXTINF:-1 tvg-id="LCH3286" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F34%2F3345029_CA9A40858535B51A.png" group-title="TV AO VIVO" tvg-name="Discovery Science" ,Discovery Science
-https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
-#EXTINF:-1 tvg-id="LCH39" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116418_973D80529B29DB21.png" group-title="TV AO VIVO" tvg-name="Discovery Theater" ,Discovery Theater
+#EXTINF:-1 tvg-id="COM Brasil" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F54%2F17549273_E07461F4D609FEC1.png" tvg-name="COM Brasil" ,COM Brasil
+http://dnsdezpila.xyz/live/56126132/27146367/9568271.ts
+#EXTINF:-1 tvg-id="Combate" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F16%2F3163507_E61987F5EC9675E7.png" tvg-name="Combate" ,Combate
+http://dnsdezpila.xyz/live/56126132/27146367/9568287.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F19%2F6199854_48DD635CA70680D9.png" tvg-name="Discovery Channel" ,Discovery Channel
+http://dnsdezpila.xyz/live/56126132/27146367/3979509.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F69%2F8694894_BA6A9407B955944F.png" tvg-name="Discovery Kids" ,Discovery Kids
+http://dnsdezpila.xyz/live/56126132/27146367/9568200.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F34%2F3345029_CA9A40858535B51A.png" tvg-name="Discovery Science" ,Discovery Science
+http://dnsdezpila.xyz/live/56126132/27146367/3979515.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116418_973D80529B29DB21.png" tvg-name="Discovery Theater" ,Discovery Theater
 https://cdn-3.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
-#EXTINF:-1 tvg-id="LCH1253" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116423_01D7E1AB09137043.png" group-title="TV AO VIVO" tvg-name="Discovery Turbo" ,Discovery Turbo
-https://cdn-3.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
-#EXTINF:-1 tvg-id="LCH1242" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F76%2F17761409_8EF05ED2EE6EE6DA.png" group-title="TV AO VIVO" tvg-name="Discovery World" ,Discovery World
-https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
-#EXTINF:-1 tvg-id="LCH3811" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F09%2F53%2F9532178_A9B967E186CF234C.png" group-title="TV AO VIVO" tvg-name="Dog TV" ,Dog TV
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116423_01D7E1AB09137043.png" tvg-name="Discovery Turbo" ,Discovery Turbo
+http://dnsdezpila.xyz/live/56126132/27146367/3979521.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F76%2F17761409_8EF05ED2EE6EE6DA.png" tvg-name="Discovery World" ,Discovery World
+http://dnsdezpila.xyz/live/56126132/27146367/3979524.ts
+#EXTINF:-1 tvg-id="Dog TV" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F09%2F53%2F9532178_A9B967E186CF234C.png" tvg-name="Dog TV" ,Dog TV
 http://79.127.243.211:14149
-#EXTINF:-1 tvg-id="LCH2071" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3118494_FF63BA66B78B4311.png" tvg-name="DW" ,DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="LCH2073" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116426_512F139F08782B06.png" group-title="Entretenimento" tvg-name="E!" ,E!
-https://cdn-3.nxplay.com.br/E_BRASIL/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="LCH211" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11867115_3A16152FF6774779.png" group-title="Esportes" tvg-name="ESPN" ,ESPN
-http://46.151.196.223:14432
-#EXTINF:-1 tvg-id="LCH464" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/10/38/10384486_AB8E9D8C388586FE.png" group-title="Esportes" tvg-name="ESPN 2" ,ESPN 2
-http://46.151.196.223:14438
-#EXTINF:-1 tvg-id="LCH49" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/10/38/10384489_E5C95719BCA28E67.png" group-title="Esportes" tvg-name="ESPN 3" ,ESPN 3
-http://46.151.196.223:14444
-#EXTINF:-1 tvg-id="LCH144" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/10/38/10384490_2B51FCB830037A84.png" group-title="Esportes" tvg-name="ESPN 4" ,ESPN 4
-http://46.151.196.223:14450
-#EXTINF:-1 tvg-id="LCH855" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/13/18139482_2DA83577D86534DC.png" group-title="Esportes" tvg-name="ESPN 5" ,ESPN 5
-http://46.151.196.223:14456
-#EXTINF:-1 tvg-id="LCH3545" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/13/18139480_B2DB6BD6CF2C9700.png" group-title="Esportes" tvg-name="ESPN 6" ,ESPN 6
-http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
-#EXTINF:-1 tvg-id="LCH5578" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/79/9799514_101A9DADD3EEFF22.png" tvg-name="Eurochannel" ,Eurochannel
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51540
-#EXTINF:-1 tvg-id="LCH3544" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/82/6825704_4A17EA73C2D87A16.png" group-title="Entretenimento" tvg-name="FashionTV" ,FashionTV
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/63
-#EXTINF:-1 tvg-id="LCH5581" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F39%2F10399523_9B1C5EF1555B31AC.png" group-title="TV AO VIVO" tvg-name="Film & Arts" ,Film & Arts
-https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
-#EXTINF:-1 tvg-id="LCH3379" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F13%2F46%2F13467795_B0B1949E7BAB2B2E.png" group-title="TV AO VIVO" tvg-name="Fish TV" ,Fish TV
-https://cdn-3.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
-#EXTINF:-1 tvg-id="LCH3874" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/04/22/4222613_8046E28EEC62E89A.png" group-title="Entretenimento" tvg-name="Food Network" ,Food Network
-https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
-#EXTINF:-1 tvg-id="LCH2045" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116442_751C456C0EA5E5B7.png" tvg-name="Fox News" ,Fox News
-https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="129" tvg-logo="https://www.clarotvmais.com.br/img/channels/france_24_epg.png" tvg-name="France 24" ,France 24
-https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH2889" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/72/12726256_7FCA1FF76B29AFE7.png" group-title="Canais Abertos" tvg-name="Futura" ,Futura
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9
-#EXTINF:-1 tvg-id="LCH7182" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/35/22358403_669837408A6613A4.png" tvg-name="GE" ,GE
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="LCH57" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F15%2F83%2F15833872_19D62695EFF74320.png" group-title="TV AO VIVO" tvg-name="Globo SP" ,Globo SP
+#EXTINF:-1 tvg-id="E!" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116426_512F139F08782B06.png" tvg-name="E!" ,E!
+http://dnsdezpila.xyz/live/56126132/27146367/7717280.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F86%2F11867115_3A16152FF6774779.png" tvg-name="ESPN" ,ESPN
+http://dnsdezpila.xyz/live/56126132/27146367/7717312.ts
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F38%2F10384486_AB8E9D8C388586FE.png" tvg-name="ESPN 2" ,ESPN 2
+http://dnsdezpila.xyz/live/56126132/27146367/7717309.ts
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F38%2F10384489_E5C95719BCA28E67.png" tvg-name="ESPN 3" ,ESPN 3
+http://dnsdezpila.xyz/live/56126132/27146367/7717306.ts
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F38%2F10384490_2B51FCB830037A84.png" tvg-name="ESPN 4" ,ESPN 4
+http://dnsdezpila.xyz/live/56126132/27146367/7717302.ts
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F13%2F18139482_2DA83577D86534DC.png" tvg-name="ESPN 5" ,ESPN 5
+http://dnsdezpila.xyz/live/56126132/27146367/7717298.ts
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F13%2F18139480_B2DB6BD6CF2C9700.png" tvg-name="ESPN 6" ,ESPN 6
+http://dnsdezpila.xyz/live/56126132/27146367/7717294.ts
+#EXTINF:-1 tvg-id="FashionTV" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F82%2F6825704_4A17EA73C2D87A16.png" tvg-name="FashionTV" ,FashionTV
+http://dnsdezpila.xyz/live/56126132/27146367/3979406.ts
+#EXTINF:-1 tvg-id="Film & Arts" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F39%2F10399523_9B1C5EF1555B31AC.png" tvg-name="Film & Arts" ,Film & Arts
+http://dnsdezpila.xyz/live/56126132/27146367/9543041.ts
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F13%2F46%2F13467795_B0B1949E7BAB2B2E.png" tvg-name="Fish TV" ,Fish TV
+http://dnsdezpila.xyz/live/56126132/27146367/3979409.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F04%2F22%2F4222613_8046E28EEC62E89A.png" tvg-name="Food Network" ,Food Network
+http://dnsdezpila.xyz/live/56126132/27146367/7717339.ts
+#EXTINF:-1 tvg-id="Futura" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F12%2F72%2F12726256_7FCA1FF76B29AFE7.png" tvg-name="Futura" ,Futura
+http://dnsdezpila.xyz/live/56126132/27146367/9568283.ts
+#EXTINF:-1 tvg-id="GE" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F35%2F22358403_669837408A6613A4.png" tvg-name="GE" ,GE
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F15%2F83%2F15833872_19D62695EFF74320.png" tvg-name="Globo SP" ,Globo SP
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-#EXTINF:-1 tvg-id="LCH213" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F12%2F63%2F12636011_5F32AC7ACE93517F.png" group-title="TV AO VIVO" tvg-name="GloboNews" ,GloboNews
-http://200.4.96.59:8825/play/a03h/index.m3u8
-#EXTINF:-1 tvg-id="LCH677" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F83%2F21830155_AE939B7A3960961C.png" group-title="TV AO VIVO" tvg-name="Globoplay Novelas" ,Globoplay Novelas
-http://79.127.238.228:14455
-#EXTINF:-1 tvg-id="LCH147" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F16%2F3163535_E08190CF7ADE8A9F.png" group-title="TV AO VIVO" tvg-name="Gloob" ,Gloob
-http://xui.brfontes.fun:80/411630587/258982082/13950048.ts
-#EXTINF:-1 tvg-id="LCH3872" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F04%2F20%2F4207429_1EE26F2DD692BAF2.png" group-title="TV AO VIVO" tvg-name="Gloobinho" ,Gloobinho
-http://xui.brfontes.fun:80/411630587/258982082/13950384.ts
-#EXTINF:-1 tvg-id="LCH214" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114961_120F304252C372D2.png" group-title="TV AO VIVO" tvg-name="GNT" ,GNT
-http://79.127.238.228:14402
-#EXTINF:-1 tvg-id="LCH5574" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/78/9787039_D0C0B6F1FD51659F.png" tvg-name="Golf Channel" ,Golf Channel
-https://fl1.moveonjoy.com/GOLF/index.m3u8
-#EXTINF:-1 tvg-id="LCH182" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F16%2F3163537_068A70F63E96FC68.png" group-title="TV AO VIVO" tvg-name="HBO" ,HBO
-http://200.4.96.59:8825/play/a04u/index.m3u8
-#EXTINF:-1 tvg-id="LCH460" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116450_EA39EAF03513E09A.png" group-title="TV AO VIVO" tvg-name="HBO Family" ,HBO Family
-http://200.4.96.59:8825/play/a0ko/index.m3u8
-#EXTINF:-1 tvg-id="LCH933" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F56%2F6567646_E492630862D38530.png" group-title="TV AO VIVO" tvg-name="HBO Mundi" ,HBO Mundi
-http://148.113.160.49:14185
-#EXTINF:-1 tvg-id="LCH462" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F04%2F94%2F4943016_C28D52297B7C2060.PNG" group-title="TV AO VIVO" tvg-name="HBO Plus" ,HBO Plus
-http://200.4.96.59:8825/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="LCH76" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F56%2F6567647_1894F12940AE9C0B.png" group-title="TV AO VIVO" tvg-name="HBO Pop" ,HBO Pop
-http://200.4.96.59:8825/play/a04z/index.m3u8
-#EXTINF:-1 tvg-id="LCH461" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F16%2F3163539_3A523BE1CBEE67AF.png" group-title="TV AO VIVO" tvg-name="HBO Signature" ,HBO Signature
-http://200.4.96.59:8825/play/a04y/index.m3u8
-#EXTINF:-1 tvg-id="LCH7141" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F39%2F10399751_3BE28799883F0B65.png" group-title="TV AO VIVO" tvg-name="HBO Xtreme" ,HBO Xtreme
-http://45.235.0.78/HBO_XTREME_HD/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="LCH459" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116449_FA01B469D0D9F34E.png" group-title="TV AO VIVO" tvg-name="HBO2" ,HBO2
-http://200.4.96.59:8825/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="LCH149" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F54%2F10547174_512368CB040E9FAE.png" group-title="TV AO VIVO" tvg-name="History" ,History
-http://46.151.196.223:14410
-#EXTINF:-1 tvg-id="LCH2449" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F54%2F10547176_12B4E3AC635D200C.png" group-title="TV AO VIVO" tvg-name="History 2" ,History 2
-https://cdn-3.nxplay.com.br/HISTORY_2_TK/index.m3u8
-#EXTINF:-1 tvg-id="LCH3959" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F62%2F21624254_D04CE01DDCC0586E.png" group-title="TV AO VIVO" tvg-name="ISTV" ,ISTV
+#EXTINF:-1 tvg-id="GloboNews" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F12%2F63%2F12636011_5F32AC7ACE93517F.png" tvg-name="GloboNews" ,GloboNews
+http://dnsdezpila.xyz/live/56126132/27146367/7717390.ts
+#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F83%2F21830155_AE939B7A3960961C.png" tvg-name="Globoplay Novelas" ,Globoplay Novelas
+http://dnsdezpila.xyz/live/56126132/27146367/3979186.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F16%2F3163535_E08190CF7ADE8A9F.png" tvg-name="Gloob" ,Gloob
+http://dnsdezpila.xyz/live/56126132/27146367/9568203.ts
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F04%2F20%2F4207429_1EE26F2DD692BAF2.png" tvg-name="Gloobinho" ,Gloobinho
+http://dnsdezpila.xyz/live/56126132/27146367/9568206.ts
+#EXTINF:-1 tvg-id="GNT" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114961_120F304252C372D2.png" tvg-name="GNT" ,GNT
+http://dnsdezpila.xyz/live/56126132/27146367/7717517.ts
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F16%2F3163537_068A70F63E96FC68.png" tvg-name="HBO" ,HBO
+http://dnsdezpila.xyz/live/56126132/27146367/9542930.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116450_EA39EAF03513E09A.png" tvg-name="HBO Family" ,HBO Family
+http://dnsdezpila.xyz/live/56126132/27146367/9542938.ts
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F56%2F6567646_E492630862D38530.png" tvg-name="HBO Mundi" ,HBO Mundi
+http://dnsdezpila.xyz/live/56126132/27146367/9542942.ts
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F04%2F94%2F4943016_C28D52297B7C2060.PNG" tvg-name="HBO Plus" ,HBO Plus
+http://dnsdezpila.xyz/live/56126132/27146367/9542958.ts
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F56%2F6567647_1894F12940AE9C0B.png" tvg-name="HBO Pop" ,HBO Pop
+http://dnsdezpila.xyz/live/56126132/27146367/9542946.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F16%2F3163539_3A523BE1CBEE67AF.png" tvg-name="HBO Signature" ,HBO Signature
+http://dnsdezpila.xyz/live/56126132/27146367/9542950.ts
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F39%2F10399751_3BE28799883F0B65.png" tvg-name="HBO Xtreme" ,HBO Xtreme
+http://dnsdezpila.xyz/live/56126132/27146367/9542954.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116449_FA01B469D0D9F34E.png" tvg-name="HBO2" ,HBO2
+http://dnsdezpila.xyz/live/56126132/27146367/9542934.ts
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F04%2F98%2F4982782_2C3F0CE8D1052BD8.png" tvg-name="HGTV" ,HGTV
+http://dnsdezpila.xyz/live/56126132/27146367/3979412.ts
+#EXTINF:-1 tvg-id="History" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F54%2F10547174_512368CB040E9FAE.png" tvg-name="History" ,History
+http://dnsdezpila.xyz/live/56126132/27146367/3979415.ts
+#EXTINF:-1 tvg-id="History 2" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F54%2F10547176_12B4E3AC635D200C.png" tvg-name="History 2" ,History 2
+http://dnsdezpila.xyz/live/56126132/27146367/6869246.ts
+#EXTINF:-1 tvg-id="ISTV" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F62%2F21624254_D04CE01DDCC0586E.png" tvg-name="ISTV" ,ISTV
 https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH5573" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/10/56/10567678_DC35880547CC06A8.png" tvg-name="Jovem Pan News" ,Jovem Pan News
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF:-1 tvg-id="LCH2055" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F07%2F29%2F7292197_164EC0E7C3B27CBE.png" group-title="TV AO VIVO" tvg-name="Lifetime" ,Lifetime
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F10%2F56%2F10567678_DC35880547CC06A8.png" tvg-name="Jovem Pan News" ,Jovem Pan News
+http://dnsdezpila.xyz/live/56126132/27146367/7717558.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F07%2F29%2F7292197_164EC0E7C3B27CBE.png" tvg-name="Lifetime" ,Lifetime
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1844
-#EXTINF:-1 tvg-id="183" tvg-logo="https://www.clarotvmais.com.br/img/channels/like.png" tvg-name="Like" ,Like
-https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
-#EXTINF:-1 tvg-id="LCH6996" tvg-logo="http://media.gvp.telefonica.com/storageArea10/IMAGES/00/19/84/19841737_3C63A373D8F46E95.png" tvg-name="LIVE TV" ,LIVE TV
-https://live.mediastreaming.com.br/livetvhd/livetv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH6232" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/42/12426313_412D0C465C2C77F3.png" tvg-name="Markket" ,Markket
+#EXTINF:-1 tvg-id="Markket" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F12%2F42%2F12426313_412D0C465C2C77F3.png" tvg-name="Markket" ,Markket
 http://168.205.87.198:8555/live/1347/123456/345.m3u8
-#EXTINF:-1 tvg-id="LCH79" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116463_33A5D1EB1DC86AA7.png" group-title="TV AO VIVO" tvg-name="Megapix" ,Megapix
-http://45.232.210.1:18000/play/a086/index.m3u8
-#EXTINF:-1 tvg-id="188" tvg-logo="https://www.clarotvmais.com.br/img/channels/mezzo_live_hd.png" tvg-name="Mezzo" ,Mezzo
-https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv083
-#EXTINF:-1 tvg-id="LCH56" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F86%2F11867116_1453C12018B6CE42.png" group-title="TV AO VIVO" tvg-name="Modo Viagem" ,Modo Viagem
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116463_33A5D1EB1DC86AA7.png" tvg-name="Megapix" ,Megapix
+http://dnsdezpila.xyz/live/56126132/27146367/9542981.ts
+#EXTINF:-1 tvg-id="Modo Viagem" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F86%2F11867116_1453C12018B6CE42.png" tvg-name="Modo Viagem" ,Modo Viagem
 http://148.113.160.49:14213
-#EXTINF:-1 tvg-id="LCH215" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3114962_E9AA5B92DB6B5AAE.png" group-title="Entretenimento" tvg-name="Multishow" ,Multishow
-https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/multishow.br.m3u8
-#EXTINF:-1 tvg-id="LCH5480" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F37%2F8378154_80FB4045C502B668.png" group-title="TV AO VIVO" tvg-name="Music Box Brazil" ,Music Box Brazil
-http://168.205.87.198:8555/live/1347/123456/344.m3u8
-#EXTINF:-1 tvg-id="LCH3100" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/83/3832405_D8F92C725FF9B3B5.png" tvg-name="NGT" ,NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 tvg-id="LCH3650" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/81/3816731_45B1BFA1F1025883.png" tvg-name="NHK" ,NHK
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 tvg-id="LCH6995" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea10%2FIMAGES%2F00%2F19%2F84%2F19846024_4AD4471802323E9A.png" group-title="TV AO VIVO" tvg-name="NSports" ,NSports
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114962_E9AA5B92DB6B5AAE.png" tvg-name="Multishow" ,Multishow
+http://dnsdezpila.xyz/live/56126132/27146367/7717595.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F08%2F37%2F8378154_80FB4045C502B668.png" tvg-name="Music Box Brazil" ,Music Box Brazil
+http://dnsdezpila.xyz/live/56126132/27146367/9568182.ts
+#EXTINF:-1 tvg-id="NGT" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F83%2F3832405_D8F92C725FF9B3B5.png" tvg-name="NGT" ,NGT
+http://dnsdezpila.xyz/live/56126132/27146367/9568245.ts
+#EXTINF:-1 tvg-id="NSports" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea10%2FIMAGES%2F00%2F19%2F84%2F19846024_4AD4471802323E9A.png" tvg-name="NSports" ,NSports
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
-#EXTINF:-1 tvg-id="LCH151" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114909_FD3076E234C0C522.png" group-title="TV AO VIVO" tvg-name="OFF" ,OFF
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/2183
-#EXTINF:-1 tvg-id="56" tvg-logo="https://www.clarotvmais.com.br/img/channels/playtv.png" tvg-name="Play TV" ,Play TV
-https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1 tvg-id="br#playboy-hd" tvg-logo="https://i.imgur.com/VMwaga7.png" group-title="Adultos" tvg-name="PlayBoy TV" ,PlayBoy TV
-http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/1877
-#EXTINF:-1 tvg-id="LCH2716" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/25/3250065_C4C5D6BB6C9CEAEF.png" tvg-name="Polishop" ,Polishop
-http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/2294
-#EXTINF:-1 tvg-id="LCH3767" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/04/07/4077935_2C6D99D7BAA57135.png" group-title="Esportes" tvg-name="Premiere" ,Premiere
-http://104.238.222.251:8989/278939_.m3u8
-#EXTINF:-1 tvg-id="LCH142" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116727_C6E63EF281B5ABF5.png" group-title="TV AO VIVO" tvg-name="Premiere 2" ,Premiere 2
-http://79.127.243.211:14485
-#EXTINF:-1 tvg-id="LCH937" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116728_3DC72E8B5B0E8FBB.png" group-title="TV AO VIVO" tvg-name="Premiere 3" ,Premiere 3
-http://200.4.96.59:8825/play/a052/index.m3u8
-#EXTINF:-1 tvg-id="LCH1995" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F09%2F32%2F9324487_CD7C0BF1FB9D8394.png" group-title="TV AO VIVO" tvg-name="Premiere 4" ,Premiere 4
-http://200.4.96.59:8825/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="LCH1996" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F09%2F18090696_E4D0214F4E5619E5.png" group-title="TV AO VIVO" tvg-name="Premiere 5" ,Premiere 5
-http://200.4.96.59:8825/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="LCH2440" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116731_6CF46E0B8ADC2087.png" group-title="TV AO VIVO" tvg-name="Premiere 6" ,Premiere 6
-http://79.127.243.211:14489
-#EXTINF:-1 tvg-id="LCH2441" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116732_725060167CA23478.png" group-title="TV AO VIVO" tvg-name="Premiere 7" ,Premiere 7
-http://79.127.243.211:14493
-#EXTINF:-1 tvg-id="LCH2439" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F92%2F20928884_9C4587F3F2F94D81.png" group-title="TV AO VIVO" tvg-name="Premiere 8" ,Premiere 8
-http://79.127.243.211:14497
-#EXTINF:-1 tvg-id="LCH2444" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116734_76426D1F43DDD73D.png" group-title="TV AO VIVO" tvg-name="Prime Box Brazil" ,Prime Box Brazil
+#EXTINF:-1 tvg-id="OFF" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114909_FD3076E234C0C522.png" tvg-name="OFF" ,OFF
+http://dnsdezpila.xyz/live/56126132/27146367/3979541.ts
+#EXTINF:-1 tvg-id="Play TV" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F11%2F22116638_4F68A8C796447B4F.png" tvg-name="Play TV" ,Play TV
+http://dnsdezpila.xyz/live/56126132/27146367/9568247.ts
+#EXTINF:-1 tvg-id="Premiere" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F04%2F07%2F4077935_2C6D99D7BAA57135.png" tvg-name="Premiere" ,Premiere
+http://dnsdezpila.xyz/live/56126132/27146367/7717659.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116727_C6E63EF281B5ABF5.png" tvg-name="Premiere 2" ,Premiere 2
+http://dnsdezpila.xyz/live/56126132/27146367/7717652.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116728_3DC72E8B5B0E8FBB.png" tvg-name="Premiere 3" ,Premiere 3
+http://dnsdezpila.xyz/live/56126132/27146367/7717649.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F09%2F32%2F9324487_CD7C0BF1FB9D8394.png" tvg-name="Premiere 4" ,Premiere 4
+http://dnsdezpila.xyz/live/56126132/27146367/7717646.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F09%2F18090696_E4D0214F4E5619E5.png" tvg-name="Premiere 5" ,Premiere 5
+http://dnsdezpila.xyz/live/56126132/27146367/7717643.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116731_6CF46E0B8ADC2087.png" tvg-name="Premiere 6" ,Premiere 6
+http://dnsdezpila.xyz/live/56126132/27146367/7717640.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116732_725060167CA23478.png" tvg-name="Premiere 7" ,Premiere 7
+http://dnsdezpila.xyz/live/56126132/27146367/7717637.ts
+#EXTINF:-1 tvg-id="Premiere 8" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F92%2F20928884_9C4587F3F2F94D81.png" tvg-name="Premiere 8" ,Premiere 8
+http://dnsdezpila.xyz/live/56126132/27146367/7717633.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116734_76426D1F43DDD73D.png" tvg-name="Prime Box Brazil" ,Prime Box Brazil
 https://cdn-3.nxplay.com.br/PRIME_HD/index.m3u8
-#EXTINF:-1 tvg-id="LCH2090" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116735_D33EF137B6C221CF.png" tvg-name="Rai Itália" ,Rai Itália
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:-1 tvg-id="LCH7184" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/38/22385581_70A60D46583E59D4.png" tvg-name="RBTV" ,RBTV
-https://video02.logicahost.com.br/rbtv/rbtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="LCH7145" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F29%2F3298007_6EBD9B7E817890F3.png" group-title="TV AO VIVO" tvg-name="Record" ,Record
+#EXTINF:-1 tvg-id="Record" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F29%2F3298007_6EBD9B7E817890F3.png" tvg-name="Record" ,Record
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
-#EXTINF:-1 tvg-id="LCH2091" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F74%2F17745058_720F4926E05B8E8D.png" group-title="TV AO VIVO" tvg-name="Record News" ,Record News
-https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-id="LCH4050" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/48/6484024_27835C7981400442.png" tvg-name="Rede Brasil" ,Rede Brasil
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist.m3u8
-#EXTINF:-1 tvg-id="LCH3101" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/83/3832406_972879AD77DB499F.png" tvg-name="Rede Família" ,Rede Família
-https://tv03.zas.media:1936/rftv/rftv/chunklist.m3u8
-#EXTINF:-1 tvg-id="LCH60" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/47/3478440_E3825F81430013C6.png" tvg-name="Rede Gospel" ,Rede Gospel
-https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1 tvg-id="LCH6481" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/01/16017021_6365DD331BF0ADA9.png" tvg-name="Rede Minas" ,Rede Minas
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="LCH3401" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/48/3483804_CCD8C63974D8D7DC.png" tvg-name="Rede Século 21" ,Rede Século 21
-https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH3546" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/68/3684238_72691D01C85A539E.png" group-title="Canais Abertos" tvg-name="Rede Vida" ,Rede Vida
-https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
-#EXTINF:-1 tvg-id="LCH4071" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F73%2F3732266_DD8C13C31C28497B.png" group-title="TV AO VIVO" tvg-name="REDETV" ,REDETV
-http://168.205.87.198:8555/live/1350/123456/289.m3u8
-#EXTINF:-1 tvg-id="LCH204" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/92/19923615_F0CDEB7A996942DF.png" tvg-name="RIT" ,RIT
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F74%2F17745058_720F4926E05B8E8D.png" tvg-name="Record News" ,Record News
+http://dnsdezpila.xyz/live/56126132/27146367/6869274.ts
+#EXTINF:-1 tvg-id="Record TV Itapoan" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F81%2F3812466_8E98919FCCB27EAD.png" tvg-name="Record TV Itapoan" ,Record TV Itapoan
+http://dnsdezpila.xyz/live/56126132/27146367/9568118.ts
+#EXTINF:-1 tvg-id="Record TV Rio Preto" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F34%2F3346145_F21E6EA13A58E4CF.png" tvg-name="Record TV Rio Preto" ,Record TV Rio Preto
+http://dnsdezpila.xyz/live/56126132/27146367/9568132.ts
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F48%2F6484024_27835C7981400442.png" tvg-name="Rede Brasil" ,Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-id="Rede Minas" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F16%2F01%2F16017021_6365DD331BF0ADA9.png" tvg-name="Rede Minas" ,Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F68%2F3684238_72691D01C85A539E.png" tvg-name="Rede Vida" ,Rede Vida
+http://dnsdezpila.xyz/live/56126132/27146367/9568072.ts
+#EXTINF:-1 tvg-id="REDETV" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F73%2F3732266_DD8C13C31C28497B.png" tvg-name="REDETV" ,REDETV
+http://dnsdezpila.xyz/live/56126132/27146367/9568254.ts
+#EXTINF:-1 tvg-id="RIT" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F19%2F92%2F19923615_F0CDEB7A996942DF.png" tvg-name="RIT" ,RIT
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-id="LCH5552" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/08/9083574_4148A127A9C4F5B3.png" group-title="Entretenimento" tvg-name="Sabor & Arte" ,Sabor & Arte
-https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH1358" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/86/3869224_32F308C2135BF0CD.png" tvg-name="Santa Cecília TV" ,Santa Cecília TV
-https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH7143" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F74%2F11748774_6041148868BC54D7.png" group-title="TV AO VIVO" tvg-name="SBT" ,SBT
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F74%2F11748774_6041148868BC54D7.png" tvg-name="SBT" ,SBT
 https://aovivo.maissbt.com/channel.m3u8
-#EXTINF:-1 tvg-id="br#sexprive-brasileirinhas" tvg-logo="https://i.imgur.com/2wMXdd2.png" group-title="Adultos" tvg-name="SexPrive" ,SexPrive
-http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/46045
-#EXTINF:-1 tvg-id="br#sextreme-brazil" tvg-logo="https://i.imgur.com/xQnQ0Jy.png" group-title="Adultos" tvg-name="Sextreme" ,Sextreme
-http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/2298
-#EXTINF:-1 tvg-id="br#sexy-hot" tvg-logo="https://i.imgur.com/2z4rXgb.png" group-title="Adultos" tvg-name="Sexy Hot" ,Sexy Hot
-http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/46046
-#EXTINF:-1 tvg-id="LCH2172" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116738_4B699CD802C526BF.png" tvg-name="SIC Internacional" ,SIC Internacional
+#EXTINF:-1 tvg-id="SIC Internacional" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116738_4B699CD802C526BF.png" tvg-name="SIC Internacional" ,SIC Internacional
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:-1 tvg-id="LCH152" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F38%2F5388559_C4C605DD343130B2.png" group-title="TV AO VIVO" tvg-name="Sony" ,Sony
+#EXTINF:-1 tvg-id="Sony" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F38%2F5388559_C4C605DD343130B2.png" tvg-name="Sony" ,Sony
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="LCH6356" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F14%2F89%2F14890843_FA36D119CE56B664.png" group-title="TV AO VIVO" tvg-name="SONY Movies" ,SONY Movies
-https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="LCH108" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F19%2F3190492_9E4E9614C21AA2AF.png" group-title="TV AO VIVO" tvg-name="Space" ,Space
-https://cdn-3.nxplay.com.br/SPACE_TK/index.m3u8
-#EXTINF:-1 tvg-id="LCH216" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/76/9760132_8EB9B6A86FD79B7B.png" group-title="Esportes" tvg-name="sportv" ,sportv
-http://46.151.196.223:14286
-#EXTINF:-1 tvg-id="LCH217" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/76/9760139_35DCF658F568277B.png" group-title="Esportes" tvg-name="sportv 2" ,sportv 2
-http://200.4.96.59:8825/play/a050/index.m3u8
-#EXTINF:-1 tvg-id="LCH1210" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/76/9760136_2F65534C9CCA32CF.png" group-title="Esportes" tvg-name="sportv 3" ,sportv 3
-http://79.127.243.211:14473
-#EXTINF:-1 tvg-id="LCH2080" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3118497_61C93507875FDA75.png" group-title="TV AO VIVO" tvg-name="Studio Universal" ,Studio Universal
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1863
-#EXTINF:-1 tvg-id="LCH7155" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/09/22098369_64428C2BD3F3DA5D.png" tvg-name="TBC" ,TBC
-https://cdn-3.nxplay.com.br/TRIP_BRASIL_FAST/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="LCH7142" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116745_28FFF376F4E755E6.png" group-title="TV AO VIVO" tvg-name="TCM" ,TCM
-https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH111" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F49%2F5490652_855B7A34DD928D19.png" group-title="TV AO VIVO" tvg-name="Telecine Action" ,Telecine Action
-http://46.151.196.223:14326
-#EXTINF:-1 tvg-id="LCH218" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F49%2F5490953_EF67ADD4EF6D246F.png" group-title="TV AO VIVO" tvg-name="Telecine Cult" ,Telecine Cult
-http://89.187.190.167:14104
-#EXTINF:-1 tvg-id="LCH155" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F49%2F5490949_9F93958623372B39.png" group-title="TV AO VIVO" tvg-name="Telecine Fun" ,Telecine Fun
-http://15.235.50.115:14017
-#EXTINF:-1 tvg-id="LCH112" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F49%2F5490950_57638750CC29E112.png" group-title="TV AO VIVO" tvg-name="Telecine Pipoca" ,Telecine Pipoca
-http://200.4.96.59:8825/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="LCH119" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F49%2F5490338_72914EC3B218B291.png" group-title="TV AO VIVO" tvg-name="Telecine Premium" ,Telecine Premium
-http://200.4.96.59:8825/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="LCH154" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F49%2F5490654_95D0F84C173E9B34.png" group-title="TV AO VIVO" tvg-name="Telecine Touch" ,Telecine Touch
-http://200.4.96.59:8825/play/a03j/index.m3u8
-#EXTINF:-1 tvg-id="LCH5553" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F09%2F08%2F9083560_323C237389CB7B10.png" group-title="TV AO VIVO" tvg-name="Terra Viva" ,Terra Viva
+#EXTINF:-1 tvg-id="SONY Movies" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F14%2F89%2F14890843_FA36D119CE56B664.png" tvg-name="SONY Movies" ,SONY Movies
+http://dnsdezpila.xyz/live/56126132/27146367/9542993.ts
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F19%2F3190492_9E4E9614C21AA2AF.png" tvg-name="Space" ,Space
+http://dnsdezpila.xyz/live/56126132/27146367/9542985.ts
+#EXTINF:-1 tvg-id="sportv" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F09%2F76%2F9760132_8EB9B6A86FD79B7B.png" tvg-name="sportv" ,sportv
+http://dnsdezpila.xyz/live/56126132/27146367/7717827.ts
+#EXTINF:-1 tvg-id="sportv 2" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F09%2F76%2F9760139_35DCF658F568277B.png" tvg-name="sportv 2" ,sportv 2
+http://dnsdezpila.xyz/live/56126132/27146367/7717822.ts
+#EXTINF:-1 tvg-id="sportv 3" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F09%2F76%2F9760136_2F65534C9CCA32CF.png" tvg-name="sportv 3" ,sportv 3
+http://dnsdezpila.xyz/live/56126132/27146367/7717815.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3118497_61C93507875FDA75.png" tvg-name="Studio Universal" ,Studio Universal
+http://dnsdezpila.xyz/live/56126132/27146367/9542997.ts
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116745_28FFF376F4E755E6.png" tvg-name="TCM" ,TCM
+http://dnsdezpila.xyz/live/56126132/27146367/9543001.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F49%2F5490652_855B7A34DD928D19.png" tvg-name="Telecine Action" ,Telecine Action
+http://dnsdezpila.xyz/live/56126132/27146367/9542906.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F49%2F5490953_EF67ADD4EF6D246F.png" tvg-name="Telecine Cult" ,Telecine Cult
+http://dnsdezpila.xyz/live/56126132/27146367/9542910.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F49%2F5490949_9F93958623372B39.png" tvg-name="Telecine Fun" ,Telecine Fun
+http://dnsdezpila.xyz/live/56126132/27146367/9542914.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F49%2F5490950_57638750CC29E112.png" tvg-name="Telecine Pipoca" ,Telecine Pipoca
+http://dnsdezpila.xyz/live/56126132/27146367/9542918.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F49%2F5490338_72914EC3B218B291.png" tvg-name="Telecine Premium" ,Telecine Premium
+http://dnsdezpila.xyz/live/56126132/27146367/9542922.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F05%2F49%2F5490654_95D0F84C173E9B34.png" tvg-name="Telecine Touch" ,Telecine Touch
+http://dnsdezpila.xyz/live/56126132/27146367/9542926.ts
+#EXTINF:-1 tvg-id="Terra Viva" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F09%2F08%2F9083560_323C237389CB7B10.png" tvg-name="Terra Viva" ,Terra Viva
 https://cdn-3.nxplay.com.br/TERRAVIVA_FAST/index.m3u8
-#EXTINF:-1 tvg-id="LCH7065" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/91/20915597_11DDF2D936C395D8.png" tvg-name="TIMES EXCLUSIVO CNBC" ,TIMES EXCLUSIVO CNBC
-https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
-#EXTINF:-1 tvg-id="LCH1252" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F76%2F17761411_F95E18406FE77255.png" group-title="TV AO VIVO" tvg-name="TLC" ,TLC
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F76%2F17761411_F95E18406FE77255.png" tvg-name="TLC" ,TLC
 https://cdn-3.nxplay.com.br/TLC/index.m3u8
-#EXTINF:-1 tvg-id="LCH126" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116394_9509CCCE621F82F2.png" group-title="TV AO VIVO" tvg-name="TNT" ,TNT
-http://200.4.96.59:8825/play/a069/index.m3u8
-#EXTINF:-1 tvg-id="LCH653" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F16%2F30%2F16305196_76B1C3281B1986EF.png" group-title="TV AO VIVO" tvg-name="TNT Novelas" ,TNT Novelas
-https://cdn-3.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8
-#EXTINF:-1 tvg-id="LCH2102" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3115040_1DBC5CEF6EA0E9FB.png" group-title="TV AO VIVO" tvg-name="Tooncast" ,Tooncast
-https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
-#EXTINF:-1 tvg-id="LCH4103" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/37/16372306_D0FE76B01F1873F1.png" tvg-name="Trace Brasil" ,Trace Brasil
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3116394_9509CCCE621F82F2.png" tvg-name="TNT" ,TNT
+http://dnsdezpila.xyz/live/56126132/27146367/9543013.ts
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F16%2F30%2F16305196_76B1C3281B1986EF.png" tvg-name="TNT Novelas" ,TNT Novelas
+http://dnsdezpila.xyz/live/56126132/27146367/9543017.ts
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F24%2F00%2F24000381_366C916C975F444D.png" tvg-name="TNT Sports" ,TNT Sports
+http://dnsdezpila.xyz/live/56126132/27146367/8905752.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3115040_1DBC5CEF6EA0E9FB.png" tvg-name="Tooncast" ,Tooncast
+http://dnsdezpila.xyz/live/56126132/27146367/9568223.ts
+#EXTINF:-1 tvg-id="Trace Brasil" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F16%2F37%2F16372306_D0FE76B01F1873F1.png" tvg-name="Trace Brasil" ,Trace Brasil
 http://200.4.96.59:8825/play/a05y/index.m3u8
-#EXTINF:-1 tvg-id="LCH32" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/47/3478445_07063DF098753756.png" tvg-name="TV Aberta" ,TV Aberta
-https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/chunklist.m3u8
-#EXTINF:-1 tvg-id="LCH3380" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F81%2F3812447_F91B34A96E2482CD.png" group-title="TV AO VIVO" tvg-name="TV Alterosa" ,TV Alterosa
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F43%2F3437876_150DF8E189BD6314.png" tvg-name="Travel Box Brazil" ,Travel Box Brazil
+http://dnsdezpila.xyz/live/56126132/27146367/9568179.ts
+#EXTINF:-1 tvg-id="TV Alterosa" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F81%2F3812447_F91B34A96E2482CD.png" tvg-name="TV Alterosa" ,TV Alterosa
 http://168.205.87.198:8555/live/1347/123456/291.m3u8
-#EXTINF:-1 tvg-id="LCH3648" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/81/3816709_09929ED021BFBC6E.png" tvg-name="TV Aparecida" ,TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-#EXTINF:-1 tvg-id="LCH3649" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/85/16858566_0DDE81EF187F987B.png" group-title="Canais Abertos" tvg-name="TV Brasil" ,TV Brasil
-#EXTVLCOPT:http-referrer=https://aovivo.ebc.com.br/
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="LCH29" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3114277_E4691230419284B7.png" tvg-name="TV CÂMARA" ,TV CÂMARA
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F81%2F3816709_09929ED021BFBC6E.png" tvg-name="TV Aparecida" ,TV Aparecida
+http://dnsdezpila.xyz/live/56126132/27146367/9568074.ts
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F16%2F85%2F16858566_0DDE81EF187F987B.png" tvg-name="TV Brasil" ,TV Brasil
+http://dnsdezpila.xyz/live/56126132/27146367/9568275.ts
+#EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114277_E4691230419284B7.png" tvg-name="TV CÂMARA" ,TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="LCH4084" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/59/17593167_2CE0B80A92AA6045.png" tvg-name="TV Capital" ,TV Capital
-#EXTVLCOPT:http-referrer=https://playerv.samcast.com.br/
-https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH3389" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F81%2F3812475_E977E4AE37D7B9DF.png" group-title="TV AO VIVO" tvg-name="TV Cidade" ,TV Cidade
+#EXTINF:-1 tvg-id="TV Cidade" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F81%2F3812475_E977E4AE37D7B9DF.png" tvg-name="TV Cidade" ,TV Cidade
 https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH930" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114780_BC3327E6071EE122.png" group-title="TV AO VIVO" tvg-name="TV Cultura" ,TV Cultura
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114780_BC3327E6071EE122.png" tvg-name="TV Cultura" ,TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="LCH7185" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/59/22594727_7336A77307033F8E.png" tvg-name="TV Evangelizar" ,TV Evangelizar
-https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-#EXTINF:-1 tvg-id="LCH4122" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114900_989122ED3BE71D02.png" group-title="TV AO VIVO" tvg-name="Tv Gazeta" ,Tv Gazeta
-http://168.205.87.198:8555/live/1347/123456/281.m3u8
-#EXTINF:-1 tvg-id="LCH70" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114777_59A403FCB58D9EA4.png" group-title="TV AO VIVO" tvg-name="TV JUSTIÇA" ,TV JUSTIÇA
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F59%2F22594727_7336A77307033F8E.png" tvg-name="TV Evangelizar" ,TV Evangelizar
+http://dnsdezpila.xyz/live/56126132/27146367/9568076.ts
+#EXTINF:-1 tvg-id="Tv Gazeta" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114900_989122ED3BE71D02.png" tvg-name="Tv Gazeta" ,Tv Gazeta
+http://dnsdezpila.xyz/live/56126132/27146367/9568265.ts
+#EXTINF:-1 tvg-id="TV JUSTIÇA" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114777_59A403FCB58D9EA4.png" tvg-name="TV JUSTIÇA" ,TV JUSTIÇA
 https://hplay.tv/augetv/12396547488/24.m3u8
-#EXTINF:-1 tvg-id="LCH5554" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/08/9083554_75B09A0C037C7FEF.png" group-title="Religiosos" tvg-name="TV Novo Tempo" ,TV Novo Tempo
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="LCH2393" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/86/3869223_315D71E121F86500.png" tvg-name="TV Osasco" ,TV Osasco
-https://streamserver.streamingdevideo.com.br/8074/8074/chunklist.m3u8
-#EXTINF:-1 tvg-id="LCH2443" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/16/16163244_78CFC2D02DC755FE.png" tvg-name="TV RÁ Tim Bum" ,TV RÁ Tim Bum
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/15
-#EXTINF:-1 tvg-id="LCH102" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114776_A156992527475080.png" group-title="TV AO VIVO" tvg-name="TV Senado" ,TV Senado
-http://168.205.87.198:8555/live/1347/123456/297.m3u8
-#EXTINF:-1 tvg-id="LCH2104" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116390_D6D06CBDEA0E7393.png" tvg-name="TV5Monde" ,TV5Monde
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/06.m3u8
-#EXTINF:-1 tvg-id="LCH2105" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116389_3E3C0A16E193C738.png" tvg-name="TVE" ,TVE
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH6483" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/31/16312733_9CE238C166786D76.png" group-title="Campeonatos Estaduais" tvg-name="TVE Bahia" ,TVE Bahia
-http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
-#EXTINF:-1 tvg-id="LCH2436" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/87/19877888_064D1BAD9BF91B49.png" tvg-name="TVR Regional" ,TVR Regional
-https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH1237" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F25%2F3250068_E6D29F72E1811FAF.png" group-title="TV AO VIVO" tvg-name="TVT" ,TVT
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F09%2F08%2F9083554_75B09A0C037C7FEF.png" tvg-name="TV Novo Tempo" ,TV Novo Tempo
+http://dnsdezpila.xyz/live/56126132/27146367/9568078.ts
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F59%2F17592863_AA831A623EBC5411.png" tvg-name="TV Pai Eterno" ,TV Pai Eterno
+http://dnsdezpila.xyz/live/56126132/27146367/9568080.ts
+#EXTINF:-1 tvg-id="TV Senado" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F11%2F3114776_A156992527475080.png" tvg-name="TV Senado" ,TV Senado
+http://dnsdezpila.xyz/live/56126132/27146367/9568281.ts
+#EXTINF:-1 tvg-id="TVT SD" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F25%2F3250068_E6D29F72E1811FAF.png" tvg-name="TVT" ,TVT
 http://168.205.87.198:8555/live/1347/123456/305.m3u8
-#EXTINF:-1 tvg-id="LCH936" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F82%2F3828917_13736897C3A7EE56.png" group-title="TV AO VIVO" tvg-name="Universal TV" ,Universal TV
-http://79.127.243.211:14623
-#EXTINF:-1 tvg-id="LCH7066" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/91/20915593_1A35D906FA13506B.png" tvg-name="UOL" ,UOL
-https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH2093" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/07/17078132_6FB7298C3EBFB541.png" group-title="Entretenimento" tvg-name="USA" ,USA
-http://148.113.160.49:14133
-#EXTINF:-1 tvg-id="br#venus-tv-sd" tvg-logo="https://i.imgur.com/dBhj3zr.png" group-title="Adultos" tvg-name="Venus" ,Venus
-http://site.poupadefrutas.shop:80/cleberson24/24danbury888BBB/1407
-#EXTINF:-1 tvg-id="LCH157" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F76%2F23761818_A4BC9A1F1CBF7374.png" group-title="TV AO VIVO" tvg-name="Warner" ,Warner
+#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F82%2F20827717_9A405FCC32795EF1.png" tvg-name="Universal Premiere" ,Universal Premiere
+http://dnsdezpila.xyz/live/56126132/27146367/9543029.ts
+#EXTINF:-1 tvg-id="Universal Reality" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F82%2F20826946_5A9FB017665F3EFF.png" tvg-name="Universal Reality" ,Universal Reality
+http://dnsdezpila.xyz/live/56126132/27146367/4217240.ts
+#EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F03%2F82%2F3828917_13736897C3A7EE56.png" tvg-name="Universal TV" ,Universal TV
+http://dnsdezpila.xyz/live/56126132/27146367/9543025.ts
+#EXTINF:-1 tvg-id="USA" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F07%2F17078132_6FB7298C3EBFB541.png" tvg-name="USA" ,USA
+http://dnsdezpila.xyz/live/56126132/27146367/9543005.ts
+#EXTINF:-1 tvg-id="Warner" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F76%2F23761818_A4BC9A1F1CBF7374.png" tvg-name="Warner" ,Warner
 http://200.4.96.59:8825/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="LCH2106" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F74%2F17745274_FAA97E5C6E3EEC6D.png" group-title="TV AO VIVO" tvg-name="Woohoo" ,Woohoo
-http://iptv.vivatele.com:80/live/viva_padrao/viva2384/73.m3u8
-#EXTINF:-1 tvg-id="LCH7195" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F87%2F22877794_C92E7026116C36E7.png" group-title="TV AO VIVO" tvg-name="Woohoo Surf" ,Woohoo Surf
+#EXTINF:-1 tvg-id="Woohoo" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F74%2F17745274_FAA97E5C6E3EEC6D.png" tvg-name="Woohoo" ,Woohoo
+http://dnsdezpila.xyz/live/56126132/27146367/8905754.ts
+#EXTINF:-1 tvg-id="Woohoo Surf" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F87%2F22877794_C92E7026116C36E7.png" tvg-name="Woohoo Surf" ,Woohoo Surf
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da4004ba4452a3e00993b2/playlist.m3u8
-#EXTINF:-1 tvg-id="LCH7248" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F85%2F23851798_41BBF316B6F7F295.png" group-title="TV AO VIVO" tvg-name="Xsports" ,Xsports
-http://168.205.87.198:8555/live/1347/123456/309.m3u8
-#EXTINF:-1 tvg-id="LCH5630" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/69/15699815_F4CE2A8D9C8DA74B.png" group-title="Entretenimento" tvg-name="Zoomoo" ,Zoomoo
+#EXTINF:-1 tvg-id="Xsports" tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F85%2F23851798_41BBF316B6F7F295.png" tvg-name="Xsports" ,Xsports
+http://dnsdezpila.xyz/live/56126132/27146367/7387073.ts
