@@ -81,6 +81,30 @@ function escapeAttr(str) {
   return String(str).replace(/"/g, "'").trim();
 }
 
+function xmlChannelName(el) {
+  const text = el.elements?.find((e) => e.type === 'text')?.text;
+  return String(text || el.attributes?.xmltv_id || '').trim();
+}
+
+function xmlChannelLogo(el) {
+  const logo = el.attributes?.logo || '';
+  if (!logo || logo === 'undefined' || /image=undefined/i.test(logo)) return '';
+  return logo;
+}
+
+/** Metadados só do XML; o M3U entra apenas com URL (e referrer, se houver). */
+function entryFromXml(el, stream) {
+  const a = el.attributes || {};
+  const name = xmlChannelName(el);
+  return {
+    tvgId: escapeAttr(a.xmltv_id || name),
+    tvgLogo: escapeAttr(xmlChannelLogo(el)),
+    tvgName: escapeAttr(name),
+    url: stream?.url || '',
+    httpReferrer: stream?.httpReferrer || stream?.http?.referrer || '',
+  };
+}
+
 function isTestChannel(name) {
   return name && String(name).toLowerCase().includes('teste');
 }
@@ -147,46 +171,27 @@ async function main() {
   console.log('Canais nos XMLs (EPG):', allChannels.length);
   const xmlIndex = buildXmlIndex(allChannels);
 
-  // 1) Preferência: canais fixos (links já testados) – preencher primeiro
+  // 1) Preferência: canais fixos (links já testados) – só entra se existir no XML
   const byXmlKey = new Map();
-  const fixedOnly = []; // canais no fixed que não estão no XML – adicionar mesmo assim
-  const xmlNormalizedNames = new Set(allChannels.map(el => parseName(el.attributes?.xmltv_id)).filter(Boolean));
   let fixedChannels = { items: [] };
   if (fs.existsSync(fixedChannelsFile)) {
     const fixedContent = await fs.readFile(fixedChannelsFile, 'utf8');
     fixedChannels = parse(fixedContent);
     console.log('Canais fixos (fixedChannels.m3u):', (fixedChannels.items || []).length, '(prioridade)');
 
+    const fixedByKey = new Map();
+    for (const ch of (fixedChannels.items || [])) {
+      const k = parseName(ch.tvg?.name || ch.name);
+      if (k && !fixedByKey.has(k)) fixedByKey.set(k, ch);
+    }
+
     for (const el of allChannels) {
       if (isTestChannel(el.attributes?.xmltv_id)) continue;
       const key = parseName(el.attributes?.xmltv_id);
       if (!key) continue;
-      const fixedItem = (fixedChannels.items || []).find(
-        ch => parseName(ch.tvg?.name || ch.name) === key
-      );
+      const fixedItem = fixedByKey.get(key);
       if (!fixedItem) continue;
-      const a = el.attributes;
-      byXmlKey.set(key, {
-        tvgId: escapeAttr(fixedItem.tvg?.id || a.site_id),
-        tvgLogo: escapeAttr(fixedItem.tvg?.logo || a.logo),
-        tvgName: escapeAttr(a.xmltv_id),
-        groupTitle: escapeAttr(fixedItem.group?.title || ''),
-        url: fixedItem.url || '',
-        httpReferrer: fixedItem.http?.referrer || '',
-      });
-    }
-    // Canais do fixed que não batem com nenhum XML → incluir mesmo assim (com metadata do próprio fixed), mesmo sem URL
-    for (const fixedItem of (fixedChannels.items || [])) {
-      const key = parseName(fixedItem.tvg?.name || fixedItem.name);
-      if (!key || xmlNormalizedNames.has(key)) continue; // já está em byXmlKey
-      fixedOnly.push({
-        tvgId: escapeAttr(fixedItem.tvg?.id),
-        tvgLogo: escapeAttr(fixedItem.tvg?.logo),
-        tvgName: escapeAttr(fixedItem.tvg?.name || fixedItem.name),
-        groupTitle: escapeAttr(fixedItem.group?.title || ''),
-        url: fixedItem.url || '',
-        httpReferrer: fixedItem.http?.referrer || '',
-      });
+      byXmlKey.set(key, entryFromXml(el, fixedItem));
     }
   }
 
@@ -231,19 +236,12 @@ async function main() {
     if (isTestChannel(a.xmltv_id)) continue;
     const xmlKey = parseName(a.xmltv_id);
     if (byXmlKey.has(xmlKey)) continue; // mantém o link do fixed, não sobrescreve
-    byXmlKey.set(xmlKey, {
-      tvgId: escapeAttr(a.site_id),
-      tvgLogo: escapeAttr(a.logo),
-      tvgName: escapeAttr(a.xmltv_id),
-      groupTitle: escapeAttr(item.group?.title || ''),
-      url: item.url,
-      httpReferrer: item.http?.referrer || '',
-    });
+    byXmlKey.set(xmlKey, entryFromXml(channelFileMeta, item));
   }
 
   const stremioCount = byXmlKey.size - fixedCount;
 
-  // Canais do XML (Stremio ou fixo) + canais só do fixed (sem XML); depois ordenar alfabeticamente
+  // Só canais que existem no XML (link do fixed ou da lista de entrada)
   const toOutput = [];
   for (const el of allChannels) {
     if (isTestChannel(el.attributes?.xmltv_id)) continue;
@@ -253,7 +251,6 @@ async function main() {
     if (!entry) continue;
     toOutput.push(entry);
   }
-  toOutput.push(...fixedOnly);
   // Deduplicar: mesmo canal com outro sufixo de qualidade (ex: "Sportv 4K 2" e "Sportv 2") → fica um só
   const seenKey = new Set();
   const toOutputDeduped = toOutput.filter(ch => {
@@ -270,7 +267,6 @@ async function main() {
     const parts = ['#EXTINF:-1'];
     if (ch.tvgId) parts.push(`tvg-id="${ch.tvgId}"`);
     if (ch.tvgLogo) parts.push(`tvg-logo="${ch.tvgLogo}"`);
-    if (ch.groupTitle) parts.push(`group-title="${ch.groupTitle}"`);
     parts.push(`tvg-name="${escapeAttr(displayName)}"`);
     parts.push(`,` + displayName);
     lines.push(parts.join(' '));
@@ -280,7 +276,7 @@ async function main() {
 
   await fs.outputFile(OUTPUT_FILE, lines.join('\n'), 'utf8');
   console.log('Saída:', OUTPUT_FILE);
-  console.log('Total:', toOutputDeduped.length, 'canais (' + fixedCount + ' fixos no XML, ' + stremioCount + ' da lista, ' + fixedOnly.length + ' fixos sem XML)');
+  console.log('Total:', toOutputDeduped.length, 'canais (' + fixedCount + ' fixos no XML, ' + stremioCount + ' da lista)');
 }
 
 main().catch(err => {
